@@ -1637,6 +1637,65 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/60374.m3u8
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
 
+ #EXTINF:-1 group-title="Sport", -BEIN SPORTS EXTRA
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+ #EXTINF:-1 group-title="Sport", -ARENA SPORT 1
+http://10b9a519.rostelekom.xyz/iptv/NNBSRKY2M8FB4SB2CDQWM9BB/2550/index.m3u8
+ #EXTINF:-1 group-title="Sport",- NHL TV
+https://nhl-firetv.amagi.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Zene",-  NOW 70
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Zene",-  NOW 80
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Zene",- tHATS rOCK
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Zene",- DEEJAY TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+ #EXTINF:-1 group-title="Zene",- Quello Concerts
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/5711200/manifest.m3u8
+ #EXTINF:-1 group-title="Zene",-  QWEST JAZZ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8 #EXTINF:-1 group-title="Zene",-  Stingray Djazz
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/5711200/manifest.m3u8
+ #EXTINF:-1 group-title="Zene",- Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/5711200/manifest.m3u8
+ #EXTINF:-1 group-title="Zene",-  POP WORLD
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
