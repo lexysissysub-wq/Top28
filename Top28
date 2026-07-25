@@ -1694,7 +1694,12 @@ https://elche7tv.gestec-video.com/hls/canal2.m3u8
 
 
 
-
+ #EXTINF:-1 group-title="VILÁG",  Canal 8 COSTA RICA
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+ #EXTINF:-1 group-title="VILÁG",  tOP MOVIES POLSKA
+https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
+#EXTINF:-1 group-title="VILÁG",  AZTECA INT MEXICO
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 
 
