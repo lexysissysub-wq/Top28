@@ -1664,8 +1664,8 @@ https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/5711200/manifest.m3u8
  #EXTINF:-1 group-title="Zene",-  POP WORLD
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-
-
+ #EXTINF:-1 group-title="Zene",-OCKO
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 
 
 #EXTINF:-1 group-title="Spanyolország",24HORAS
