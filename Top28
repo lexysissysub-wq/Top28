@@ -1633,8 +1633,8 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/60381.m3u8
 
  #EXTINF:-1 group-title="Ausztria",AT - SKY SPORT AUSTRIA 1 HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/60374.m3u8
-
-
+ #EXTINF:-1 group-title="Ausztria",AT -W24 HD
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
 
 
