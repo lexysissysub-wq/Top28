@@ -2170,6 +2170,38 @@ http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
  #EXTINF:0 group-title="Csehország",  Óčko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Csehország",TV BRNO 1 HD
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+
+#EXTINF:-1 group-title="Csehország",Vzpravy TV HD
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+
+#EXTINF:-1 group-title="Csehország",POLAR 2 HD
+https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
+
+#EXTINF:-1 group-title="Csehország",Polar TV
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+
+#EXTINF:-1 group-title="Csehország",Elektrika TV HD
+https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Csehország",JC1 HD
+https://stream.jc1.cz/hls/jc1.m3u8
+
+#EXTINF:-1 group-title="Csehország",STV HD
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+
+#EXTINF:-1 group-title="Csehország",KO TV
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Csehország",Ocko STAR
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 group-title="Csehország",Ocko Express TV
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+
+
+
 
 
 
