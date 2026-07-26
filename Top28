@@ -2121,7 +2121,8 @@ https://tv.cdn.xsg.ge/imedihd/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="VILÁG", Lemon TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
-
+ #EXTINF:-1 group-title="VILÁG", KZ 24 Kazah
+https://stream8.cinerama.uz/1408/tracks-v1a1/mono.m3u8
 
 
 
@@ -2467,9 +2468,47 @@ http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="Románia-Moldova",Realitatea TV
+https://realitatealive.md/tv/rlive.m3u8
+
+#EXTINF:-1 group-title="Románia-Moldova",Moldova TV SD
+http://89.38.8.130:39435
+
+#EXTINF:-1 group-title="Románia-Moldova",TVNord
+https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Románia-Moldova",Moldova 1
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="Üzbég-Azerbajdzsán",Sevimili UZ
+https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Üzbég-Azerbajdzsán",Al Zahra TV
+http://live.al-zahratv.com/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Üzbég-Azerbajdzsán",STAR TV
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Üzbég-Azerbajdzsán",Az TV
+http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+
+#EXTINF:-1 group-title="Üzbég-Azerbajdzsán",Azstar TV
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Üzbég-Azerbajdzsán",EL TV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+
+#EXTINF:-1 group-title="Üzbég-Azerbajdzsán",Kapaz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
 
 
 
