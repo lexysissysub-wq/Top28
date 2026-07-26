@@ -1977,6 +1977,119 @@ http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/19188/index.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-ID="rsila1.ch" tvg-name="|CH| RSI LA 1 HD" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/RSI_LA_1_HD.png" group-title="Svájc",|CH| RSI LA 1 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94468
+#EXTINF:-1 tvg-ID="rsila2.ch" tvg-name="|CH| RSI LA 2 HD" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/RSI_LA_2_HD.png" group-title="Svájc",|CH| RSI LA 2 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94469
+#EXTINF:-1 tvg-ID="SRFinfo.ch" tvg-name="|CH| SRF INFO HD" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/SRF_info_HD.png" group-title="Svájc",|CH| SRF INFO HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94470
+#EXTINF:-1 tvg-ID="SRF2.ch" tvg-name="|CH| SRF ZWEI HD" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/SRF_zwei_HD.png" group-title="Svájc",|CH| SRF ZWEI HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94471
+#EXTINF:-1 tvg-ID="SRF1.ch" tvg-name="|CH| SRF 1 HD" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/SRF_1_HD.png" group-title="Svájc",|CH| SRF 1 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94472
+#EXTINF:-1 tvg-ID="RTSUn.ch" tvg-name="|CH| RTS UN HD" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/RTS_Un_HD.png" group-title="Svájc",|CH| RTS UN HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94473
+#EXTINF:-1 tvg-ID="RTSDeux.ch" tvg-name="|CH| RTS DEUX HD" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/RTS_Deux_HD.png" group-title="Svájc",|CH| RTS DEUX HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94474
+#EXTINF:-1 tvg-ID="puls8.ch" tvg-name="|CH| PLUS 8 HD" tvg-logo="" group-title="Svájc",|CH| PLUS 8 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94475
+#EXTINF:-1 tvg-ID="3Plus.ch" tvg-name="|CH| 3  HD" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/Kabelio_3+.png" group-title="Svájc",|CH| 3  HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94476
+#EXTINF:-1 tvg-ID="4plus.ch" tvg-name="|CH| 4  HD" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/Kabelio_4+.png" group-title="Svájc",|CH| 4  HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94477
+#EXTINF:-1 tvg-ID="5plus.ch" tvg-name="|CH| 5  HD" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/Kabelio_5+.png" group-title="Svájc",|CH| 5  HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94478
+#EXTINF:-1 tvg-ID="tv24.ch" tvg-name="|CH| TV 24 HD" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/Kabelio_TV24.png" group-title="Svájc",|CH| TV 24 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94479
+#EXTINF:-1 tvg-ID="tv25.ch" tvg-name="|CH| TV 25 HD" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/Kabelio_TV25.png" group-title="Svájc",|CH| TV 25 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94480
+#EXTINF:-1 tvg-ID="6plus.ch" tvg-name="|CH| |CH| 6+ HD" tvg-logo="" group-title="Svájc",|CH| |CH| 6+ HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94481
+#EXTINF:-1 tvg-ID="" tvg-name="|CH| TELECLUB EMOTION HD" tvg-logo="" group-title="Svájc",|CH| TELECLUB EMOTION HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94484
+#EXTINF:-1 tvg-ID="sport1.ch" tvg-name="|CH| TELECLUB SPORT 1 HD" tvg-logo="" group-title="Svájc",|CH| TELECLUB SPORT 1 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94485
+#EXTINF:-1 tvg-ID="" tvg-name="|CH| TELECLUB SPORT 2 HD" tvg-logo="" group-title="Svájc",|CH| TELECLUB SPORT 2 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94486
+#EXTINF:-1 tvg-ID="mysports.ch" tvg-name="|CH| MY SPORTS HD" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/Sky.png" group-title="Svájc",|CH| MY SPORTS HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94487
+#EXTINF:-1 tvg-ID="mysports1.ch" tvg-name="|CH| MY SPORTS 1 HD/SKY 1" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/Sky.png" group-title="Svájc",|CH| MY SPORTS 1 HD/SKY 1
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94488
+#EXTINF:-1 tvg-ID="mysports2.ch" tvg-name="|CH| MY SPORTS 2 HD/SKY 2" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/Sky.png" group-title="Svájc",|CH| MY SPORTS 2 HD/SKY 2
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94489
+#EXTINF:-1 tvg-ID="mysports3.ch" tvg-name="|CH| MY SPORTS 3 HD/SKY 3" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/Sky.png" group-title="Svájc",|CH| MY SPORTS 3 HD/SKY 3
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94490
+#EXTINF:-1 tvg-ID="mysports4.ch" tvg-name="|CH| MY SPORTS 4 HD/SKY 4" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/Sky.png" group-title="Svájc",|CH| MY SPORTS 4 HD/SKY 4
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94491
+#EXTINF:-1 tvg-ID="mysports5.ch" tvg-name="|CH| MY SPORTS 5 HD/SKY 5" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/Sky.png" group-title="Svájc",|CH| MY SPORTS 5 HD/SKY 5
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94492
+#EXTINF:-1 tvg-ID="mysports6.ch" tvg-name="|CH| MY SPORTS 6 HD/SKY 6" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/Sky.png" group-title="Svájc",|CH| MY SPORTS 6 HD/SKY 6
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94493
+#EXTINF:-1 tvg-ID="mysports.ch" tvg-name="|CH| MY SPORTS 7 HD/SKY 7  (LIVE ON MATCHES)" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/Sky.png" group-title="Svájc",|CH| MY SPORTS 7 HD/SKY 7  (LIVE ON MATCHES)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94494
+#EXTINF:-1 tvg-ID="mysports.ch" tvg-name="|CH| MY SPORTS 8 HD/SKY 8  (LIVE ON MATCHES)" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/Sky.png" group-title="Svájc",|CH| MY SPORTS 8 HD/SKY 8  (LIVE ON MATCHES)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94495
+#EXTINF:-1 tvg-ID="mysports.ch" tvg-name="|CH| MY SPORTS 9 HD/SKY 9 (LIVE ON MATCHES)" tvg-logo="http://vodkom.com/Logo/SWITZERLAND/Sky.png" group-title="Svájc",|CH| MY SPORTS 9 HD/SKY 9 (LIVE ON MATCHES)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/94496
+#EXTINF:-1 tvg-ID="" tvg-name="|CH| ANIMAL PLANET HD" tvg-logo="" group-title="Svájc",|CH| ANIMAL PLANET HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400698
+#EXTINF:-1 tvg-ID="telez.ch" tvg-name="|CH| TELEZUERI HD" tvg-logo="" group-title="Svájc",|CH| TELEZUERI HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400699
+#EXTINF:-1 tvg-ID="" tvg-name="|CH| TELE D HD" tvg-logo="" group-title="Svájc",|CH| TELE D HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400700
+#EXTINF:-1 tvg-ID="telez.ch" tvg-name="|CH| TELE Z HD" tvg-logo="" group-title="Svájc",|CH| TELE Z HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400701
+#EXTINF:-1 tvg-ID="telesuedostschweiz.ch" tvg-name="|CH| TV SUEDOSTSCHWEIZ HD" tvg-logo="" group-title="Svájc",|CH| TV SUEDOSTSCHWEIZ HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400702
+#EXTINF:-1 tvg-ID="telebasel.ch" tvg-name="|CH| TELEBASEL HD" tvg-logo="" group-title="Svájc",|CH| TELEBASEL HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400703
+#EXTINF:-1 tvg-ID="telebaern.ch" tvg-name="|CH| TELE BÄRN HD" tvg-logo="" group-title="Svájc",|CH| TELE BÄRN HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400704
+#EXTINF:-1 tvg-ID="telebielingue.ch" tvg-name="|CH| TELEBIELLINGUE HD" tvg-logo="" group-title="Svájc",|CH| TELEBIELLINGUE HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400705
+#EXTINF:-1 tvg-ID="swiss1.ch" tvg-name="|CH| SWISS 1 HD" tvg-logo="" group-title="Svájc",|CH| SWISS 1 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400706
+#EXTINF:-1 tvg-ID="s1.ch" tvg-name="|CH| S1 HD" tvg-logo="" group-title="Svájc",|CH| S1 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400707
+#EXTINF:-1 tvg-ID="tele1.ch" tvg-name="|CH| TELE 1 HD" tvg-logo="" group-title="Svájc",|CH| TELE 1 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400708
+#EXTINF:-1 tvg-ID="telem1.ch" tvg-name="|CH| TELE M1 HD" tvg-logo="" group-title="Svájc",|CH| TELE M1 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400709
+#EXTINF:-1 tvg-ID="teletop.ch" tvg-name="|CH| TELE TOP HD" tvg-logo="" group-title="Svájc",|CH| TELE TOP HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400710
+#EXTINF:-1 tvg-ID="tvo.ch" tvg-name="|CH| TVO HD" tvg-logo="" group-title="Svájc",|CH| TVO HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400711
+#EXTINF:-1 tvg-ID="teleticino.ch" tvg-name="|CH| TELETICINO HD" tvg-logo="" group-title="Svájc",|CH| TELETICINO HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400712
+#EXTINF:-1 tvg-ID="wettertv.ch" tvg-name="|CH| WETTER TV" tvg-logo="" group-title="Svájc",|CH| WETTER TV
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400714
+#EXTINF:-1 tvg-ID="DiscoveryScience.fr" tvg-name="|CH| TLC HD" tvg-logo="" group-title="Svájc",|CH| TLC HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400715
+#EXTINF:-1 tvg-ID="ComedyCentral.fr" tvg-name="|CH| COMEDY CENTRAL/VIVA HD" tvg-logo="" group-title="Svájc",|CH| COMEDY CENTRAL/VIVA HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400716
+#EXTINF:-1 tvg-ID="DisneyChannel.fr" tvg-name="|CH| DISNEY CHANNEL" tvg-logo="" group-title="Svájc",|CH| DISNEY CHANNEL
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400717
+#EXTINF:-1 tvg-ID="" tvg-name="|CH| HELVETIA ONE HD" tvg-logo="" group-title="Svájc",|CH| HELVETIA ONE HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400718
+#EXTINF:-1 tvg-ID="bluezoom.ch" tvg-name="|CH| BLUE ZOOM HD" tvg-logo="" group-title="Svájc",|CH| BLUE ZOOM HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400719
+#EXTINF:-1 tvg-ID="bluestars.ch" tvg-name="|CH| BLUE STARS HD" tvg-logo="" group-title="Svájc",|CH| BLUE STARS HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400720
+#EXTINF:-1 tvg-ID="" tvg-name="|CH| BLUE SPORT EVENT 1" tvg-logo="" group-title="Svájc",|CH| BLUE SPORT EVENT 1
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400721
+#EXTINF:-1 tvg-ID="" tvg-name="|CH| Blue Sport Event 1 FHD" tvg-logo="" group-title="Svájc",|CH| Blue Sport Event 1 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400722
+#EXTINF:-1 tvg-ID="bluesportevent2.ch" tvg-name="|CH| Blue Sport Event 2 FHD" tvg-logo="" group-title="Svájc",|CH| Blue Sport Event 2 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400723
+#EXTINF:-1 tvg-ID="bluesport1.ch" tvg-name="|CH| BLUE SPORT 1 HD" tvg-logo="" group-title="Svájc",|CH| BLUE SPORT 1 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400724
+#EXTINF:-1 tvg-ID="bluesport2.ch" tvg-name="|CH| BLUE SPORT 2 HD" tvg-logo="" group-title="Svájc",|CH| BLUE SPORT 2 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/400725
+
+
+
+
 
 
 #EXTM3U
