@@ -1637,6 +1637,26 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/60374.m3u8
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
 
+
+ #EXTINF:0 tvg-rec="3" group-title="Nagy-Britannia", BBC One HD UK
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/19176/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="Nagy-Britannia", BBC Two HD UK
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/19177/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="Nagy-Britannia",  BBC Alba UK
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/19179/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Franciaország",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 
@@ -2552,6 +2572,9 @@ http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
 #EXTINF:-1 group-title="Lengyelország",TVT Zgorzelec
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
 
+#EXTINF:-1 group-title="Lengyelország",FX Comedy HD PL
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/6107/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Bulgária",Travel TV
@@ -3314,7 +3337,6 @@ http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/112/index.m3u8
 #EXTGRP:Oroszország
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/523/index.m3u8
 #EXTINF:0 tvg-rec="3" group-title="Nagy-Britannia",BBC World News UK
-#EXTGRP:Oroszország
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/545/index.m3u8
 #EXTINF:0 tvg-rec="7" group-title="Oroszország", 24
 #EXTGRP:Oroszország
@@ -3489,6 +3511,9 @@ http://176.118.197.125/Draiv/index.m3u8
 #EXTINF:-1 group-title="Oroszország",Zdorovoe
 http://176.118.197.125/Zdorovoe-TV/index.m3u8
 
+#EXTINF:-1 group-title="Oroszország", 1 News HD BY
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31912/index.m3u8
+
 #EXTINF:-1 group-title="Oroszország",2x2
 http://176.118.197.101/2x2/index.m3u8
 
@@ -3531,6 +3556,90 @@ http://176.118.197.125/Match/index.m3u8
 #EXTINF:-1 group-title="Oroszország",KHL
 http://176.118.197.101/KHL/index.m3u8
 
+ #EXTINF:-1 group-title="Oroszország", VF Seria Túrki
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/9123/index.m3u8
+ #EXTINF:-1 group-title="Oroszország", ,VF 
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31553/index.m3u8
+#EXTINF:-1 group-title="Oroszország",  Viasat Kino World orig
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31447/index.m3u8
+#EXTINF:-1 group-title="Oroszország",   KinoLiving
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/16018/index.m3u8
+  #EXTINF:-1 group-title="Oroszország", Romance HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/2037/index.m3u8
+   #EXTINF:-1 group-title="Oroszország",  Suspense HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/2049/index.m3u8
+#EXTINF:-1 group-title="Oroszország",  Sumiko HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/2163/index.m3u8
+  #EXTINF:-1 group-title="Oroszország",  Seria HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/2034/index.m3u8
+ #EXTINF:-1 group-title="Oroszország",   Soviet Kino Klassika HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/2146/index.m3u8
+ #EXTINF:-1 group-title="Oroszország",   Viju TV1000 HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/2002/index.m3u8
+ #EXTINF:-1 group-title="Oroszország",Zolomaya Kollekciya   +4 HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/17022/index.m3u8
+ #EXTINF:-1 group-title="Oroszország", VHS-KA HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/5006/index.m3u8
+ #EXTINF:-1 group-title="Oroszország",  Viasat Serial HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/17056/index.m3u8
+#EXTINF:-1 group-title="Oroszország",   black HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/20019/index.m3u8
+#EXTINF:-1 group-title="Oroszország", .sci-fi HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/20020/index.m3u8
+#EXTINF:-1 group-title="Oroszország", Scream HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/20021/index.m3u8
+#EXTINF:-1 group-title="Oroszország", Shot TV HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/20022/index.m3u8
+
+#EXTINF:-1 group-title="Ukrajna", 4ever Drama HD UA
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/17051/index.m3u8
+#EXTINF:-1 group-title="Oroszország", NOW Series HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/15102/index.m3u8 4ever Drama HD UA
+#EXTINF:0 tvg-rec="0" group-title="Oroszország",Citrus Holiday
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/16089/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="Oroszország",VF Scaslivi Vmeste
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/9242/index.m3u8
+#EXTINF:0 tvg-rec="7" group-title="Oroszország",VF Besstizse
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/10075/index.m3u8
+#EXTINF:0 tvg-rec="7" group-title="Oroszország",VF 2 c Pollovino
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/10062/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="Oroszország",VF C Ljubim Godom
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/15524/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="Oroszország",VF Elki
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/14222/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="Oroszország",VF New Year
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/15522/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="Oroszország",VF Novolsgij
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/17035/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="Oroszország",VF Harry Potter
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/14230/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="Oroszország",VF Kartocsij Domik
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/14221/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="Oroszország",VF Sex y Newy York
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/14224/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="Oroszország",VF Disney Movie
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/15010/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="Oroszország",VF Teorija Bolsogo
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/15009/index.m3u8
+#EXTINF:0 tvg-rec="7" group-title="Oroszország",VF Vladimir Viszockij
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/10066/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="Oroszország",FX
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/6516/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="Oroszország",FX Life
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/9232/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="Oroszország",BOX M.Serial HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/19280/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="Oroszország",BOX Serial HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/19281/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="Oroszország",BCU TruMotion HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/17054/index.m3u8
+#EXTINF:0 tvg-rec="7" group-title="Oroszország",Viju TV1000 Russkoye
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/101/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="Oroszország",FX HD
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/19216/index.m3u8
+
+
+
 
 
 
@@ -3548,6 +3657,21 @@ https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=83
 #EXTINF:-1 group-title="RELAX ",Stingray Naturescape
 https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
+
+
+
+#EXTINF:-1 group-title="USA", Fox News FHD US
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31915/index.m3u8
+
+
+
+  #EXTINF:-1 group-title="IZRAEL", HOT Cinema Family HD IL
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/2151/index.m3u8
+ #EXTINF:-1 group-title="IZRAEL", 
+
+
+
+
 
 
 
@@ -4321,5 +4445,6 @@ http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42968.mkv
 http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42969.mkv
 
 
-
+ #EXTINF:-1 group-title="Litvánia", Duo 3 HD LT
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/20026/index.m3u8
 
