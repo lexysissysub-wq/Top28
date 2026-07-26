@@ -2845,7 +2845,14 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 
 
 
-
+#EXTINF:-1 group-title="RELAX ??",Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1 group-title="RELAX ??",Better Life Nature Channel
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1 group-title="RELAX ??",ID
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=83
+#EXTINF:-1 group-title="RELAX ??",Stingray Naturescape
+https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
 
 
 
