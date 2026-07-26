@@ -3364,18 +3364,785 @@ http://176.118.197.101/KHL/index.m3u8
 
 
 
-#EXTINF:-1 group-title="RELAX ??",Travel Guide TV
+#EXTINF:-1 group-title="RELAX ",Travel Guide TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
-#EXTINF:-1 group-title="RELAX ??",Better Life Nature Channel
+#EXTINF:-1 group-title="RELAX ",Better Life Nature Channel
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
-#EXTINF:-1 group-title="RELAX ??",ID
+#EXTINF:-1 group-title="RELAX ",ID
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=83
-#EXTINF:-1 group-title="RELAX ??",Stingray Naturescape
+#EXTINF:-1 group-title="RELAX ",Stingray Naturescape
 https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
 
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Amazing Stories S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AypKuJqIWAbGrrOGBwEORnF9e9.jpg" group-title="SERIES | APPLE TV+",Amazing Stories S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amazing Stories S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0gEbaxdpzjlv5OsH40U2mFm1Zq.jpg" group-title="SERIES | APPLE TV+",Amazing Stories S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amazing Stories S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPlNA7Zi6qE2DXqm3VwLRsLTSvK.jpg" group-title="SERIES | APPLE TV+",Amazing Stories S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amazing Stories S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1x6PeGtvRfMb67VLEjqFHVIg8O.jpg" group-title="SERIES | APPLE TV+",Amazing Stories S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amazing Stories S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68UQNy5uApEcWlX9Rt4qx96LI85.jpg" group-title="SERIES | APPLE TV+",Amazing Stories S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Becoming You S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dT88P0xANPsv5GUB5SaUXXAuXaS.jpg" group-title="SERIES | APPLE TV+",Becoming You S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Becoming You S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDLh6Bbf644cJC7iitS5WOxJ6Ev.jpg" group-title="SERIES | APPLE TV+",Becoming You S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Becoming You S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qp6GMI5GMAR4mN0Y4rTiBExdi3.jpg" group-title="SERIES | APPLE TV+",Becoming You S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Becoming You S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qqLxOYajq1RN3y4YHf74LoBRov.jpg" group-title="SERIES | APPLE TV+",Becoming You S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Becoming You S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gddDkVJVoqrUZ6j81gj7MvFsRco.jpg" group-title="SERIES | APPLE TV+",Becoming You S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Becoming You S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTqCPNRN4Gvb0UDk29wFbpPQVEI.jpg" group-title="SERIES | APPLE TV+",Becoming You S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Calls S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LkOJ8ZxsJbZXZAO7riWGTIrjha.jpg" group-title="SERIES | APPLE TV+",Calls S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Calls S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9s2hr99F6KZhSWyq43VroUkkchL.jpg" group-title="SERIES | APPLE TV+",Calls S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41958.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Calls S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axAIFhK2i4yht1umACyrmFgrQwA.jpg" group-title="SERIES | APPLE TV+",Calls S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Calls S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQWvgOF6b1BYACeExkRyyzYews.jpg" group-title="SERIES | APPLE TV+",Calls S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Calls S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xw4rJcWTPQe7gPmSl6WrzaG6Hte.jpg" group-title="SERIES | APPLE TV+",Calls S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41961.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Calls S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WZjo05Ick05VpozyO0YzxMetmT.jpg" group-title="SERIES | APPLE TV+",Calls S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Calls S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snv9xTQBj7GFyePJmw9xlEoqWf.jpg" group-title="SERIES | APPLE TV+",Calls S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Calls S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IMCypXYTLMsQVKH0OroI9MWPrn.jpg" group-title="SERIES | APPLE TV+",Calls S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Calls S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgoeJMvCUKDZSXu708XoKr3TGfr.jpg" group-title="SERIES | APPLE TV+",Calls S01 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/41965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xK2jJmcBsOuANPndTnVxw39IzXZ.jpg" group-title="SERIES | APPLE TV+",Central Park S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/43635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUnStRAVHciM475V2f5oVvCobWM.jpg" group-title="SERIES | APPLE TV+",Central Park S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/43636.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CCXfauEJadIwYYN4K4kHm5anIo.jpg" group-title="SERIES | APPLE TV+",Central Park S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/43637.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kq7A964B40kWDs9red7vIm6MnuU.jpg" group-title="SERIES | APPLE TV+",Central Park S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/43638.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYFIQkKDmRHm5bYLpz3yPBaVyve.jpg" group-title="SERIES | APPLE TV+",Central Park S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/43639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXprgFgwnWlR7ICL0uJX4Jn7Iqe.jpg" group-title="SERIES | APPLE TV+",Central Park S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/43640.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cx9Tz4YPHdzSNQZ1RbBnhUYpQRK.jpg" group-title="SERIES | APPLE TV+",Central Park S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/43641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCaUER2H3T9t7EzlBrlCGZyL3Ib.jpg" group-title="SERIES | APPLE TV+",Central Park S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/43642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYPy1CagwxolCsde7UhSzxM6jyR.jpg" group-title="SERIES | APPLE TV+",Central Park S01 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/43643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmHj3TetuTJt89vquPpoJe1MnbV.jpg" group-title="SERIES | APPLE TV+",Central Park S01 E10
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/43644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dear S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j79jaQpKlLlYrdcRaJIQ8hDJFHf.jpg" group-title="SERIES | APPLE TV+",Dear S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dear S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j79jaQpKlLlYrdcRaJIQ8hDJFHf.jpg" group-title="SERIES | APPLE TV+",Dear S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dear S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j79jaQpKlLlYrdcRaJIQ8hDJFHf.jpg" group-title="SERIES | APPLE TV+",Dear S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dear S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j79jaQpKlLlYrdcRaJIQ8hDJFHf.jpg" group-title="SERIES | APPLE TV+",Dear S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dear S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j79jaQpKlLlYrdcRaJIQ8hDJFHf.jpg" group-title="SERIES | APPLE TV+",Dear S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dear S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j79jaQpKlLlYrdcRaJIQ8hDJFHf.jpg" group-title="SERIES | APPLE TV+",Dear S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dear S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j79jaQpKlLlYrdcRaJIQ8hDJFHf.jpg" group-title="SERIES | APPLE TV+",Dear S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dear S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j79jaQpKlLlYrdcRaJIQ8hDJFHf.jpg" group-title="SERIES | APPLE TV+",Dear S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dear S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j79jaQpKlLlYrdcRaJIQ8hDJFHf.jpg" group-title="SERIES | APPLE TV+",Dear S01 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dear S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j79jaQpKlLlYrdcRaJIQ8hDJFHf.jpg" group-title="SERIES | APPLE TV+",Dear S01 E10
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Defending Jacob S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MrQgfs9SLAigaCgYe6G0tm2oyJ.jpg" group-title="SERIES | APPLE TV+",Defending Jacob S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Defending Jacob S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xE0L65TiwkE2uYLHftFYjHOokQl.jpg" group-title="SERIES | APPLE TV+",Defending Jacob S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Defending Jacob S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7gJruL50qt1cv0gsF1QQovmzFN.jpg" group-title="SERIES | APPLE TV+",Defending Jacob S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Defending Jacob S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqV73RG7IWfwoY8CwGoRwn4wncp.jpg" group-title="SERIES | APPLE TV+",Defending Jacob S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Defending Jacob S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7NBM1IT82wA37BjhpLei55nbE.jpg" group-title="SERIES | APPLE TV+",Defending Jacob S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Defending Jacob S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnixt9SlAwnq8eEVVdu7jUFgULk.jpg" group-title="SERIES | APPLE TV+",Defending Jacob S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Defending Jacob S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fXEV5iBI93jAkI8NRs3OJpZmKb.jpg" group-title="SERIES | APPLE TV+",Defending Jacob S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Defending Jacob S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tujWuOJNwXRqYtqtLlP97f3GBto.jpg" group-title="SERIES | APPLE TV+",Defending Jacob S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZe8ReZ4hqwxnvetiAF6djLy2r2.jpg" group-title="SERIES | APPLE TV+",Dickinson S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFnFG9eQPW63UvAkqBdB9R5HwEY.jpg" group-title="SERIES | APPLE TV+",Dickinson S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddt7OhlteFsF4NScjO4xllwzezm.jpg" group-title="SERIES | APPLE TV+",Dickinson S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4CoFHp4cnZW7HoqE685qJRFh3N.jpg" group-title="SERIES | APPLE TV+",Dickinson S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLQofMXq2hSankbCbMdFo5LcnYi.jpg" group-title="SERIES | APPLE TV+",Dickinson S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9exS09TWYnM5ii6SbkF7oXRgO1t.jpg" group-title="SERIES | APPLE TV+",Dickinson S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5T4FGOLNnIG4VgYWayjnBgiXpKo.jpg" group-title="SERIES | APPLE TV+",Dickinson S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQX7Mf27qFW8tonGSSpKbdkiTg3.jpg" group-title="SERIES | APPLE TV+",Dickinson S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4gZ6aHTgJrAQUvDwwCmrqVbI2n.jpg" group-title="SERIES | APPLE TV+",Dickinson S01 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epWt2etd28gyggA9AuCKNEzNJNk.jpg" group-title="SERIES | APPLE TV+",Dickinson S01 E10
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9QVpKgzQ53fcbuN6m2uSJqLihg.jpg" group-title="SERIES | APPLE TV+",Dickinson S02 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dN9TZnNiG0ApupcuFj4DVphelP.jpg" group-title="SERIES | APPLE TV+",Dickinson S02 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5J4TRX7ZKUHR6n0xwY1snmuUiTn.jpg" group-title="SERIES | APPLE TV+",Dickinson S02 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlNQKgZCSG0RPRry9VrviCBjviv.jpg" group-title="SERIES | APPLE TV+",Dickinson S02 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2jFZ9iBUlCWn1fOTfxRiOMdLba.jpg" group-title="SERIES | APPLE TV+",Dickinson S02 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUyQqCfdKbSrRMMcuwcMahNfBOQ.jpg" group-title="SERIES | APPLE TV+",Dickinson S02 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9YEYOl4YmfyA0FJ6Z6cG8FdBU4.jpg" group-title="SERIES | APPLE TV+",Dickinson S02 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWOXIaez62p4YehQEa5RRfgPSlo.jpg" group-title="SERIES | APPLE TV+",Dickinson S02 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLPZXz0sLELSH1JQvJfPuGCkw20.jpg" group-title="SERIES | APPLE TV+",Dickinson S02 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqBLnrHvcbIvSx6X0p9EPBBvdNf.jpg" group-title="SERIES | APPLE TV+",Dickinson S02 E10
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzkplUzKn63i0LkMCfEVNkkYtPv.jpg" group-title="SERIES | APPLE TV+",Dickinson S03 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNn9yvzkazHKGaXAQ2DvhC32gxV.jpg" group-title="SERIES | APPLE TV+",Dickinson S03 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFMvxwobv5rdtFQNA5sZtlcH17h.jpg" group-title="SERIES | APPLE TV+",Dickinson S03 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAO6CfMIkgTbauTRnCLuPtXzsmS.jpg" group-title="SERIES | APPLE TV+",Dickinson S03 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phig6vlw9BwVACVTnBfEqJOYNy9.jpg" group-title="SERIES | APPLE TV+",Dickinson S03 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xZ6DYJNBRRcyZBaLYLZ4Oom3Tw.jpg" group-title="SERIES | APPLE TV+",Dickinson S03 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UbVt3wNDUv8Jj7kE5A2TbaX5gC.jpg" group-title="SERIES | APPLE TV+",Dickinson S03 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcHbmsgfgEa0KYQaUn8iB2zzN4o.jpg" group-title="SERIES | APPLE TV+",Dickinson S03 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3Fxv7ZF3dAArZNd9iEw2Iz983J.jpg" group-title="SERIES | APPLE TV+",Dickinson S03 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54ZdazhQvbIKcbMlrNcZvewcIJA.jpg" group-title="SERIES | APPLE TV+",Dickinson S03 E10
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frCjSLPWXcAEqaBxH0MjgCbSx1C.jpg" group-title="SERIES | APPLE TV+",For All Mankind S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzS11xHVyQ0QapkwHbEShUJnZQe.jpg" group-title="SERIES | APPLE TV+",For All Mankind S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SsJXu7BIRqd10eu9pzdm4OsV0c.jpg" group-title="SERIES | APPLE TV+",For All Mankind S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwsgucFhhTsAuC4UH5ckFbmXhWP.jpg" group-title="SERIES | APPLE TV+",For All Mankind S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8sMUt3JAFYp5zcGp2x3A9fKqkA.jpg" group-title="SERIES | APPLE TV+",For All Mankind S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfcd5CQ1X2AZMLmQm9zrp4GYrC4.jpg" group-title="SERIES | APPLE TV+",For All Mankind S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJmMJjYnXBf8g217McdA59zDgfw.jpg" group-title="SERIES | APPLE TV+",For All Mankind S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXe5Pow00sh5pvdYAlT9w93ftCs.jpg" group-title="SERIES | APPLE TV+",For All Mankind S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAmXiD6DvLeGO3AowxpyYKJ5wpJ.jpg" group-title="SERIES | APPLE TV+",For All Mankind S01 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50knWydiQ9C8gUquGliDRC31h3j.jpg" group-title="SERIES | APPLE TV+",For All Mankind S01 E10
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsxaOksBiD8QcHqSdhamHmbpo3z.jpg" group-title="SERIES | APPLE TV+",For All Mankind S02 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSUuMg2o6omqVs83r4BbYXgAwXC.jpg" group-title="SERIES | APPLE TV+",For All Mankind S02 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvz3ddXbqmcdZO7lujrB6wymwb9.jpg" group-title="SERIES | APPLE TV+",For All Mankind S02 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMah25eXkvmMksudY8TQO4M0B6x.jpg" group-title="SERIES | APPLE TV+",For All Mankind S02 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CqJcVeQAFUjvYKMnBiDfddx36H.jpg" group-title="SERIES | APPLE TV+",For All Mankind S02 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfrV0TIaOM151QvzJYfL1vgsG5h.jpg" group-title="SERIES | APPLE TV+",For All Mankind S02 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLKQoeoXjc255BQWm34z2o1o4bf.jpg" group-title="SERIES | APPLE TV+",For All Mankind S02 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6tfCJKHMcJRlzeV0ZS2GdLFbsz.jpg" group-title="SERIES | APPLE TV+",For All Mankind S02 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dXfCMJLXriUQR0BX66ocZbG0kc.jpg" group-title="SERIES | APPLE TV+",For All Mankind S02 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBwxrxyFuTyumkfTbfBKlHAqVB1.jpg" group-title="SERIES | APPLE TV+",For All Mankind S03 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gN7zOrkA9nfSlAC0tvebYk4Bmm.jpg" group-title="SERIES | APPLE TV+",For All Mankind S03 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qe0QFqg8ioG0EViJnpGFhi7yDnx.jpg" group-title="SERIES | APPLE TV+",For All Mankind S03 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRNswhCQOrijh91HJPkSKwF8SOJ.jpg" group-title="SERIES | APPLE TV+",For All Mankind S03 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQGaF72xP3xeMZS7JY2J1nIxeFA.jpg" group-title="SERIES | APPLE TV+",For All Mankind S03 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7aqktplalQB6lU1x3OisDVyITX.jpg" group-title="SERIES | APPLE TV+",For All Mankind S03 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXrlEq1fjHaNjUvOQmoeaevPJhp.jpg" group-title="SERIES | APPLE TV+",For All Mankind S03 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For All Mankind S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uB7dpov3WlSfmEXNBChBld6JXYS.jpg" group-title="SERIES | APPLE TV+",For All Mankind S03 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greatness Code S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YSe9SdSOc5KA2JgTEl2Ikbq4lq.jpg" group-title="SERIES | APPLE TV+",Greatness Code S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greatness Code S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqqPUeK1hmngIebR5nbjAly6Oiv.jpg" group-title="SERIES | APPLE TV+",Greatness Code S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greatness Code S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvtqy5goyUrEC67rPKZsuKELpFG.jpg" group-title="SERIES | APPLE TV+",Greatness Code S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greatness Code S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjPULkPI37WtTkP1jUL2HxdioO3.jpg" group-title="SERIES | APPLE TV+",Greatness Code S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greatness Code S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6J5FXnluVoR8lK5UpUt5NEF2hLV.jpg" group-title="SERIES | APPLE TV+",Greatness Code S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greatness Code S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcdFmmKA2MArtDOA7vKpCQiYRm8.jpg" group-title="SERIES | APPLE TV+",Greatness Code S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greatness Code S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BZaAwYUi4piNjCDPoR8uMR4AamonjgkU5.jpg" group-title="SERIES | APPLE TV+",Greatness Code S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greatness Code S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzAmhyTPe5Pis3bJj6qsRJ1YeHL.jpg" group-title="SERIES | APPLE TV+",Greatness Code S02 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greatness Code S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHjmK0ZLFRsskgALYVoQntSxr3X.jpg" group-title="SERIES | APPLE TV+",Greatness Code S02 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greatness Code S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyFMCrNste0V8EvebJbIhrBfNjb.jpg" group-title="SERIES | APPLE TV+",Greatness Code S02 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greatness Code S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3oP3oKrMEAvkavZuXUFksXAxii.jpg" group-title="SERIES | APPLE TV+",Greatness Code S02 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greatness Code S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pW6omepQEKZWuv0IUJMV6xeO0W.jpg" group-title="SERIES | APPLE TV+",Greatness Code S02 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greatness Code S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrYNE4j7mZWgEKnJDhjRXMPT2Cd.jpg" group-title="SERIES | APPLE TV+",Greatness Code S02 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXBlMzr3VoMSN3OObCf2b6Ipn2O.jpg" group-title="SERIES | APPLE TV+",Home S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BZaAwYUi4piNjCDPoR8uMR4AamonjgkU5.jpg" group-title="SERIES | APPLE TV+",Home S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43jaYUWROQasJeQX2MslWw3hOTa.jpg" group-title="SERIES | APPLE TV+",Home S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wsu6WaKl23vm0yL9vkCj7AK9bx.jpg" group-title="SERIES | APPLE TV+",Home S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mvZsgkoDCSjFpwcJYuAY8cKkPA.jpg" group-title="SERIES | APPLE TV+",Home S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQXEIgdrTvOxcduZyxjs1mDgzzG.jpg" group-title="SERIES | APPLE TV+",Home S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DNfSkPOGxOP9oLs6bPW6SPPwe3.jpg" group-title="SERIES | APPLE TV+",Home S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpPBKeFlYaTUn0GqeoNJpZRgcct.jpg" group-title="SERIES | APPLE TV+",Home S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0JlYI4kFuCOXUULXsZtnTydZB3.jpg" group-title="SERIES | APPLE TV+",Home S01 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home Before Dark S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOWWItPquhqhxsvfmRYt29VGtB5.jpg" group-title="SERIES | APPLE TV+",Home Before Dark S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home Before Dark S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDtsqShsht2ZIQ5f0zMQ7pIN6P9.jpg" group-title="SERIES | APPLE TV+",Home Before Dark S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home Before Dark S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jow0ffuFRr8lAMpG8cjyhBXs5KP.jpg" group-title="SERIES | APPLE TV+",Home Before Dark S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home Before Dark S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A145hy0HJEmOh6FC7tPDAV9LTJB.jpg" group-title="SERIES | APPLE TV+",Home Before Dark S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home Before Dark S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dESO92VTgVXYXyMv58n0CuOxbOr.jpg" group-title="SERIES | APPLE TV+",Home Before Dark S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home Before Dark S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgtPT9HdOMzYhhBjfcwHuy5AWTP.jpg" group-title="SERIES | APPLE TV+",Home Before Dark S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home Before Dark S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgmqoYd6nmu9jRQM0kF56p9lfuK.jpg" group-title="SERIES | APPLE TV+",Home Before Dark S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home Before Dark S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDIXCg1FtoOlu3q6CiJtswCFUGY.jpg" group-title="SERIES | APPLE TV+",Home Before Dark S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home Before Dark S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5H7DrIiOdXzrz4NKvVHKBWhzQR.jpg" group-title="SERIES | APPLE TV+",Home Before Dark S01 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home Before Dark S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1LtDBuEqqYAGyGxd3Ur7eXK1pf.jpg" group-title="SERIES | APPLE TV+",Home Before Dark S01 E10
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home Before Dark S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpriablncl7NTO58LINIP1jetPs.jpg" group-title="SERIES | APPLE TV+",Home Before Dark S02 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home Before Dark S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lFRI904XcceZs4IDjTN96VE6QY.jpg" group-title="SERIES | APPLE TV+",Home Before Dark S02 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home Before Dark S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzOfao3LsUlvO8frDYQIt0dtcSa.jpg" group-title="SERIES | APPLE TV+",Home Before Dark S02 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little America S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XSbv1O1aeIIePbRoa5KtdNDf3r.jpg" group-title="SERIES | APPLE TV+",Little America S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little America S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2THIhJHL8FtWDTCCultCJGYS6S.jpg" group-title="SERIES | APPLE TV+",Little America S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little America S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jlUXIVpT8HvAIS6LzqwbmONbsE.jpg" group-title="SERIES | APPLE TV+",Little America S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little America S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rik6gVycpTEQXg6rzBYTir6K8XP.jpg" group-title="SERIES | APPLE TV+",Little America S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little America S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uN2h0pZmL8fnhJA2ZIfajbp5bv.jpg" group-title="SERIES | APPLE TV+",Little America S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little America S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdIGKsF86zTK1BzKCWh1eq0qcrf.jpg" group-title="SERIES | APPLE TV+",Little America S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little America S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxE1RxYb1gWDnKTrZB8jGB2Di6N.jpg" group-title="SERIES | APPLE TV+",Little America S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little America S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNAXMK5Ebkc0ntLYftCFIJWDb5s.jpg" group-title="SERIES | APPLE TV+",Little America S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nlIJTtXl24Yk10kjqWi4p92F0h.jpg" group-title="SERIES | APPLE TV+",Little Voice S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vy3jdOaDm01CGvE7ZZWmCMnnBIR.jpg" group-title="SERIES | APPLE TV+",Little Voice S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naJw9cnkhG76HQwOe5rfDDzirQr.jpg" group-title="SERIES | APPLE TV+",Little Voice S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BZaAwYUi4piNjCDPoR8uMR4AamonjgkU5.jpg" group-title="SERIES | APPLE TV+",Little Voice S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdsL6UVdxIZVeX4geMBE4Nb8nGI.jpg" group-title="SERIES | APPLE TV+",Little Voice S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVQ0aXVNzBatTVN9OmUezfjP0N6.jpg" group-title="SERIES | APPLE TV+",Little Voice S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0SDvNrEs6A67waobIlApmpyG8t.jpg" group-title="SERIES | APPLE TV+",Little Voice S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fEmltBUL5FF3sVwzYW5ZmlGIFS.jpg" group-title="SERIES | APPLE TV+",Little Voice S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sj8LMYKXv2rQoYJgGjAa1Wucp3Z.jpg" group-title="SERIES | APPLE TV+",Little Voice S01 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Long Way Up S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tefq5bfODTKLaikJuUe4NYyvK3s.jpg" group-title="SERIES | APPLE TV+",Long Way Up S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Long Way Up S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BZaAwYUi4piNjCDPoR8uMR4AamonjgkU5.jpg" group-title="SERIES | APPLE TV+",Long Way Up S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Long Way Up S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lF5RfhfvB8ShOTuKURejYZ0HCmy.jpg" group-title="SERIES | APPLE TV+",Long Way Up S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Long Way Up S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJY45qgVqQTFbEpkX9S8M0kOL6K.jpg" group-title="SERIES | APPLE TV+",Long Way Up S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Long Way Up S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrHGEVRJRBbMeUXhvsOJc08zTmJ.jpg" group-title="SERIES | APPLE TV+",Long Way Up S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Long Way Up S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99JqDUfWMH7GvOQPRAM2eaDm4YV.jpg" group-title="SERIES | APPLE TV+",Long Way Up S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Long Way Up S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAkZ9Ai15NA1WLzESD6isXNwxam.jpg" group-title="SERIES | APPLE TV+",Long Way Up S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Long Way Up S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3Uoett5alPG6gTQgr3jPQgEBVx.jpg" group-title="SERIES | APPLE TV+",Long Way Up S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Long Way Up S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HSAKq7BeFH6URxb58s5jDqBUP6.jpg" group-title="SERIES | APPLE TV+",Long Way Up S01 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Long Way Up S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hw16pts0HSvUpNSu9eaEbtIYHyD.jpg" group-title="SERIES | APPLE TV+",Long Way Up S01 E10
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Long Way Up S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmlqu8QwIiKy0fymIWY9CJyPZpC.jpg" group-title="SERIES | APPLE TV+",Long Way Up S01 E11
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Losing Alice S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4Nr89rNqNBXTMtCQ84rnbzg2gG.jpg" group-title="SERIES | APPLE TV+",Losing Alice S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Losing Alice S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wPn67vBlwMmPQV9TZrJNYlNbTm.jpg" group-title="SERIES | APPLE TV+",Losing Alice S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Losing Alice S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSh5HZF0YTVCpTNuzZzZjLZIDfj.jpg" group-title="SERIES | APPLE TV+",Losing Alice S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Losing Alice S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Kd5FGFrPT2CVBZjagLW4tdiKNh.jpg" group-title="SERIES | APPLE TV+",Losing Alice S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Losing Alice S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTGSpw2p5KgNDzrwgbxMBokYImj.jpg" group-title="SERIES | APPLE TV+",Losing Alice S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Losing Alice S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyGUMDZF2iH8zEzUTyJE4Wr8NyX.jpg" group-title="SERIES | APPLE TV+",Losing Alice S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Losing Alice S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/628DAq9R1oPlgGEicYvXlF63hjm.jpg" group-title="SERIES | APPLE TV+",Losing Alice S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Losing Alice S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLzIWkLm2YHhk0nP1jnOAMLPqI9.jpg" group-title="SERIES | APPLE TV+",Losing Alice S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cH05hp9qX1nd9VwBIsRXaTclxB.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZNohuRuxYWLNjEs87aCvLImR11.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBjuPnirT4jezcLs7pk3uZzFhEk.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BZaAwYUi4piNjCDPoR8uMR4AamonjgkU5.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onouuwMnfe2B7TeQjFQdJl0pkys.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekSzOSRGfi9Rhh1pNfWghhqRXZm.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6YsOLebSBU5j1Ueb4rMlDXfFY1.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PlEZaATnfDYCCU0cuozxCGnGlW.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yna3PTw1y4pywtHxBGBCCdbD8VM.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S01 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BZaAwYUi4piNjCDPoR8uMR4AamonjgkU5.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S02 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1L7ikiENel5ah1mYzDxUiIpmya3.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S02 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WTluCcyzd3oqN1O35vyMZr7VpP.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S02 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGKPRZ7IJTZ74O6AegBjDu9YjHP.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S02 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGVXHTtKuvsICVxXs3GU19vQSZa.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S02 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BZaAwYUi4piNjCDPoR8uMR4AamonjgkU5.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S02 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taP0KjoP1hUS1unMyKh3PuNzNqB.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S02 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CW0M66d73WgiOUMf2JuQ4CZHNf.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S02 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VTyGqKuyYq79VTu420zLQyLuvI.jpg" group-title="SERIES | APPLE TV+",Mythic Quest S02 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oprah Talks COVID-19 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9RzhOump1xhfA0JBZKItIYOmwF.jpg" group-title="SERIES | APPLE TV+",Oprah Talks COVID-19 S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oprah Talks COVID-19 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dR9SQc0HhKZ0RBCbdoPGakJdea.jpg" group-title="SERIES | APPLE TV+",Oprah Talks COVID-19 S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oprah Talks COVID-19 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OcOHUC5kV9in7Xt8dzFjX1Ow3v.jpg" group-title="SERIES | APPLE TV+",Oprah Talks COVID-19 S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oprah Talks COVID-19 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhsdmmvv441ka9zOLcaEreIRc4n.jpg" group-title="SERIES | APPLE TV+",Oprah Talks COVID-19 S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oprah Talks COVID-19 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCrywwYdpmwCk3GDk9tK27WAlCH.jpg" group-title="SERIES | APPLE TV+",Oprah Talks COVID-19 S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42368.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oprah Talks COVID-19 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGcXx7p9Zi2RIKDyg3EVoYPhi4f.jpg" group-title="SERIES | APPLE TV+",Oprah Talks COVID-19 S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oprah Talks COVID-19 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkAoTmPFqCV6ehNOpO3XS01PdxG.jpg" group-title="SERIES | APPLE TV+",Oprah Talks COVID-19 S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oprah Talks COVID-19 S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keqsO4StnU7GC0YPr69N8JxTcIN.jpg" group-title="SERIES | APPLE TV+",Oprah Talks COVID-19 S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oprah Talks COVID-19 S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jggcBp2glBtqEg6w5GNPo93Ux7r.jpg" group-title="SERIES | APPLE TV+",Oprah Talks COVID-19 S01 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oprah Talks COVID-19 S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iahW9oKRuSKV33KHADmNwNZLDaj.jpg" group-title="SERIES | APPLE TV+",Oprah Talks COVID-19 S01 E10
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oprah Talks COVID-19 S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1BB7YxUOAapRYqPzo70gK22TLU.jpg" group-title="SERIES | APPLE TV+",Oprah Talks COVID-19 S01 E11
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oprah Talks COVID-19 S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTjkU8L2WywUudGWc7eac9Zl6Rj.jpg" group-title="SERIES | APPLE TV+",Oprah Talks COVID-19 S01 E12
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXMYCIALBMYTrimBeJqcqpmpeuB.jpg" group-title="SERIES | APPLE TV+",See S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnBZ9eY01nzNAWPf691UySZVcI0.jpg" group-title="SERIES | APPLE TV+",See S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Mq2p5o2DR5VbNiVOOqqU0nf1X2.jpg" group-title="SERIES | APPLE TV+",See S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5Lqm0M3UJFPjyUNXfVhYQRnooI.jpg" group-title="SERIES | APPLE TV+",See S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYkGfl1ulpm0e6gps8uvLub2Ky1.jpg" group-title="SERIES | APPLE TV+",See S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4G7UsI5SdNXgv4OTWQQ83JBSfD9.jpg" group-title="SERIES | APPLE TV+",See S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fTXWzWPU8uqljCbKhF1J5qdWHU.jpg" group-title="SERIES | APPLE TV+",See S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yqnFbSZskNfIpqULdjmA2ruxzR.jpg" group-title="SERIES | APPLE TV+",See S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeY8Oj7n0amXU5DKFIcyVbH9bW2.jpg" group-title="SERIES | APPLE TV+",See S02 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3SfstpFPRJjD0mb8osLKKYVQ1T.jpg" group-title="SERIES | APPLE TV+",See S02 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nfqRoYnWATomOwQFkeJT9p9kxx.jpg" group-title="SERIES | APPLE TV+",See S02 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEpfNIdIY2Qmjf8weq6Gm35RdfT.jpg" group-title="SERIES | APPLE TV+",See S02 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42387.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUrDDzcx3WKjJD4o7itMuxgZ195.jpg" group-title="SERIES | APPLE TV+",See S02 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqN8j3m8tyRYfGSJCazkWm9KAya.jpg" group-title="SERIES | APPLE TV+",See S02 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42389.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16z9I068CbNtD9ux4etfaZXswGt.jpg" group-title="SERIES | APPLE TV+",See S02 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42390.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5NgxarUrc2KYr8MAIacokIkU4S.jpg" group-title="SERIES | APPLE TV+",See S02 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42391.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ch5fCayQtmswDBgA3OLhZVGx4QL.jpg" group-title="SERIES | APPLE TV+",See S03 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42392.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCbewuCwPln4QMsMAc5NImdVIC3.jpg" group-title="SERIES | APPLE TV+",See S03 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42393.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQejB64G459Kg7ak4DARi0CR7Xw.jpg" group-title="SERIES | APPLE TV+",See S03 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42394.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bh9TMojjAxg94SqVxNnY4KmXhiB.jpg" group-title="SERIES | APPLE TV+",See S03 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42395.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7P3QDiKud1YkNFncIZmwCJCiXrs.jpg" group-title="SERIES | APPLE TV+",See S03 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bS88sDCeRRwK3aDdGaTqzp5et94.jpg" group-title="SERIES | APPLE TV+",See S03 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmspTnTe47AxPurp6A0xTMWRUxA.jpg" group-title="SERIES | APPLE TV+",See S03 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djszHnqbO7fd8M7KHns5eUDA6Ig.jpg" group-title="SERIES | APPLE TV+",Servant S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jOxttHrQU7HyuwrT21GoZyAovT.jpg" group-title="SERIES | APPLE TV+",Servant S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIxOVwmdeOUtZZ5jeIlCVa1o4Ve.jpg" group-title="SERIES | APPLE TV+",Servant S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42414.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQ0mHlb73e7rdcgyWmNLGGFrp79.jpg" group-title="SERIES | APPLE TV+",Servant S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42415.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MiIexC3CrO2m2melcaeU9ajBoM.jpg" group-title="SERIES | APPLE TV+",Servant S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h61UmOjjgjZrFGdwvmfdwVOHsUW.jpg" group-title="SERIES | APPLE TV+",Servant S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42417.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPxi3hlf3xhaq9XozBjaDjioLbc.jpg" group-title="SERIES | APPLE TV+",Servant S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6YEtBbX5QeBEUaFyHrEN6V73S1.jpg" group-title="SERIES | APPLE TV+",Servant S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3h2WbXiG8mqj4mVKUJEcBFCwle.jpg" group-title="SERIES | APPLE TV+",Servant S01 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xH7uFDoDVKFZddNCyIbAz2X8wal.jpg" group-title="SERIES | APPLE TV+",Servant S01 E10
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42421.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJ4yg2b6noMETHuv7WT3VTDA5u8.jpg" group-title="SERIES | APPLE TV+",Servant S02 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0ExeG7nynRJS5DRZdaRpAkpqUg.jpg" group-title="SERIES | APPLE TV+",Servant S02 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faIDKSUZuAGnos0Tv3byj5mhaxl.jpg" group-title="SERIES | APPLE TV+",Servant S02 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmoWmvoa3Ngt06fxDkeUu0f8BeR.jpg" group-title="SERIES | APPLE TV+",Servant S02 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwyEUcA8Ecce5SYi15EEyaQ92Aq.jpg" group-title="SERIES | APPLE TV+",Servant S02 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgSdhm4EFRXPVegl61ahLEZlFM8.jpg" group-title="SERIES | APPLE TV+",Servant S02 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A94WBIZWotVp5sL4XhGkxpHZZqr.jpg" group-title="SERIES | APPLE TV+",Servant S02 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42441.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fclZWheQbHXzINxOJtK81SPlJa.jpg" group-title="SERIES | APPLE TV+",Servant S02 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iW4r66qI1grKVWdjv4lgM8pcqwo.jpg" group-title="SERIES | APPLE TV+",Servant S02 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJnPLp0MFbxLT1RsmdcfKt9JatZ.jpg" group-title="SERIES | APPLE TV+",Servant S03 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42444.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNvfwPDIXVofaae6uDXDMmhJPmM.jpg" group-title="SERIES | APPLE TV+",Servant S03 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42445.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccAiHrIC9R8Dk9wKaV890HliHKr.jpg" group-title="SERIES | APPLE TV+",Servant S03 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42446.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5p2oOuC5hc5tBxJhh3GdpRZ1uml.jpg" group-title="SERIES | APPLE TV+",Servant S03 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1nqGP4S3RLP04ZuSVRr50v5fYV.jpg" group-title="SERIES | APPLE TV+",Servant S03 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42448.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCtsGYy54odBbClwkhBtgLjUQC7.jpg" group-title="SERIES | APPLE TV+",Servant S03 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8M2ZdGVnblvfqxzF0ItxkYvY11.jpg" group-title="SERIES | APPLE TV+",Servant S03 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Servant S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsVklbvfCL8DmSWZWnoMtjbfjq9.jpg" group-title="SERIES | APPLE TV+",Servant S03 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42451.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stillwater S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZmT9eOjHXaEdQkpVTxAzbf5oyl.jpg" group-title="SERIES | APPLE TV+",Stillwater S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stillwater S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uo1yQXsS1HQQTDWBEUm3ZPxVj5x.jpg" group-title="SERIES | APPLE TV+",Stillwater S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stillwater S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyP40GU8fPMO4tCn7TYx44uZc86.jpg" group-title="SERIES | APPLE TV+",Stillwater S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stillwater S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xev63JO6jFJJCNuSloARoqANdfF.jpg" group-title="SERIES | APPLE TV+",Stillwater S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stillwater S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jC23z6NDZ9YvT4WTSVO2Wu7Aj92.jpg" group-title="SERIES | APPLE TV+",Stillwater S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stillwater S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkKbusSOEiARu3c47YjqFEAELEx.jpg" group-title="SERIES | APPLE TV+",Stillwater S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YJqx02JNMu9gNX7Ok7qgaNJJgl.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pNZYWhkY0DdUyVU8FEaYDSSfTW.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiuQbGLBgXltDTZ95YyL2vCoIKr.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42504.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbWzpmQlFENbnS6GbvHZhzywozo.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4KDV9hxszklNHdkRm564qWfq9R.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42506.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9g5v73OPWNA0lP4R0QrOgTrH0k.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHc295TFzpmAMstLQvJe00oiF6G.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEs22idG5SWG1qObfyMnCGavjMN.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmNyV9dUPi7VeluqxYq0OFFCKNs.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S01 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6AD9UGfac5wyP2wADG5cWS7EIZ.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S01 E10
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aF1iNdd5TPohcgju8Rp2bd1Xw2j.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S02 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87k8iaXYpfzpCkHpZ80naE4K6z4.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S02 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42526.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9HkUQ5aGCdseKy971ljwiiUREn.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S02 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ps8bQRagfz1N4GD1RYdcacuETmV.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S02 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42530.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fd9D6vtC4oXwGoo6fMEs8bOlJ7I.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S02 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42531.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZTUnRqBUid0GDZXZI5PAS0kcNt.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S02 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dc4tFi28QBr88Ceg5gr3a6Hv52k.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S02 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj17acHQ9wz6uaADDzBL1D1mmCp.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S02 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cofiHu8S96oZry9ovOJhIpO8gN.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S02 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ViXiMxiKH7WYYB6OfQzkoegdK9.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S02 E10
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clp0O56bsvz707xQAI44KfSMOft.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S02 E11
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42539.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rc1YAVoHcTexCtVL8RGqdorzVUP.jpg" group-title="SERIES | APPLE TV+",Ted Lasso S02 E12
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tehran S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziijoQYq0tpSA2t7li7nggvk0gY.jpg" group-title="SERIES | APPLE TV+",Tehran S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tehran S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wv6Smma7sts6C4LKBHNaMyVX9Nf.jpg" group-title="SERIES | APPLE TV+",Tehran S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tehran S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNlEENZmKwakHq4PUPUbgZAUjfm.jpg" group-title="SERIES | APPLE TV+",Tehran S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tehran S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSKQKCZMGD7DsW5Ag3AXB1syMVn.jpg" group-title="SERIES | APPLE TV+",Tehran S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tehran S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hI569JoZu5Mry19dsbzR8YbpcBz.jpg" group-title="SERIES | APPLE TV+",Tehran S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tehran S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoSHd5bapr3Xr38kUCmeaiqYlBp.jpg" group-title="SERIES | APPLE TV+",Tehran S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tehran S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15ygKBzC956vKldIoGs5touihXy.jpg" group-title="SERIES | APPLE TV+",Tehran S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tehran S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCSToK3lXrjtdm3D2f6wehrwKfL.jpg" group-title="SERIES | APPLE TV+",Tehran S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tehran S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQepUd37ixkRdfI9YsPs3gI8Rs0.jpg" group-title="SERIES | APPLE TV+",Tehran S02 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42580.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tehran S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7QLCOydX0PQazSRbIRplqbfMxj.jpg" group-title="SERIES | APPLE TV+",Tehran S02 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tehran S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpUBjrd5JjZepu5MbU72nLAKVTk.jpg" group-title="SERIES | APPLE TV+",Tehran S02 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tehran S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/po4fa88hWnTnfgCpkc6sEGmZxFp.jpg" group-title="SERIES | APPLE TV+",Tehran S02 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tehran S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khI7l3fJgBm28vHI8xbCdHgT4K7.jpg" group-title="SERIES | APPLE TV+",Tehran S02 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42584.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tehran S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2kzvoVhFmZXbnQhr6MVwIeRdXZ.jpg" group-title="SERIES | APPLE TV+",Tehran S02 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42585.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tehran S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onx6r62K0bInLsqWNs2t2FpAQn6.jpg" group-title="SERIES | APPLE TV+",Tehran S02 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tehran S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BZaAwYUi4piNjCDPoR8uMR4AamonjgkU5.jpg" group-title="SERIES | APPLE TV+",Tehran S02 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LLA11omdJMR2fFSK37OyRarwyl.jpg" group-title="SERIES | APPLE TV+",The Morning Show S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42638.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BZaAwYUi4piNjCDPoR8uMR4AamonjgkU5.jpg" group-title="SERIES | APPLE TV+",The Morning Show S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQnUtJyha1kNLZwtzkOZYZedh4Y.jpg" group-title="SERIES | APPLE TV+",The Morning Show S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42640.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cAbe8KbuvwXeiv4ZJxYfJFuHf1.jpg" group-title="SERIES | APPLE TV+",The Morning Show S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7D2IPXDpqkZvb3jlB3NUlZX8DRc.jpg" group-title="SERIES | APPLE TV+",The Morning Show S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOWvzG2dEsbDe4Vpvyji8dypX1r.jpg" group-title="SERIES | APPLE TV+",The Morning Show S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhLWMrEyI301YBXCe4su5gFAVUu.jpg" group-title="SERIES | APPLE TV+",The Morning Show S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdbToqS5m2pCXUKtH7jqtJmx8n7.jpg" group-title="SERIES | APPLE TV+",The Morning Show S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gO8stHiBwm3jn45OuQZVkpX7YK2.jpg" group-title="SERIES | APPLE TV+",The Morning Show S01 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/R4CEzGtOnfGeyaZzOkkib8W6RC.jpg" group-title="SERIES | APPLE TV+",The Morning Show S01 E10
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9K4Al9Si4O0oeMb533OLtpmhxd3.jpg" group-title="SERIES | APPLE TV+",The Morning Show S02 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vlh4yWz6G7PJ7ZfPsLEpEwqQMr.jpg" group-title="SERIES | APPLE TV+",The Morning Show S02 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSPNYNaa2hpYeeZZSHVUdjpVLVu.jpg" group-title="SERIES | APPLE TV+",The Morning Show S02 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opiT8Qu9f2eQUyo8nE8Bl9RT7vg.jpg" group-title="SERIES | APPLE TV+",The Morning Show S02 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypnMWwkU1GSSqVw2nZCyMUntUIN.jpg" group-title="SERIES | APPLE TV+",The Morning Show S02 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WesHVha6WvJEfHdinMYOFJQ3Tk.jpg" group-title="SERIES | APPLE TV+",The Morning Show S02 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNa2gEkb4gSJxhc8Lf76Wby0qhs.jpg" group-title="SERIES | APPLE TV+",The Morning Show S02 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSm7oNOc2xo2K2WI2a6qIxmyt0L.jpg" group-title="SERIES | APPLE TV+",The Morning Show S02 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Morning Show S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8QO6MagM2PVzUB6AZRRJZbhq00.jpg" group-title="SERIES | APPLE TV+",The Morning Show S02 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Snoopy Show S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s242YIqC9GIM46HLs3Ae8sBtFqR.jpg" group-title="SERIES | APPLE TV+",The Snoopy Show S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Snoopy Show S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsWR7nVNuuNoXA8sNRuy7p7RX6d.jpg" group-title="SERIES | APPLE TV+",The Snoopy Show S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Snoopy Show S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gvtC5KnW8E1XQBydUY0MHYN8oK.jpg" group-title="SERIES | APPLE TV+",The Snoopy Show S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Snoopy Show S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQuzUH9zzWZukCqLde8VZmGPx3W.jpg" group-title="SERIES | APPLE TV+",The Snoopy Show S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Snoopy Show S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJxnJXXzCxppUmo0zhlKq47faum.jpg" group-title="SERIES | APPLE TV+",The Snoopy Show S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42792.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Snoopy Show S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BZaAwYUi4piNjCDPoR8uMR4AamonjgkU5.jpg" group-title="SERIES | APPLE TV+",The Snoopy Show S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiny World S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWTOBCw37KPXTB0NLCMCAEhHTbR.jpg" group-title="SERIES | APPLE TV+",Tiny World S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiny World S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arbGpq4dJVCa6PsAUPnvXxSmlhH.jpg" group-title="SERIES | APPLE TV+",Tiny World S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42813.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiny World S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skymRlK6LW5icAlEDaaWNTPkDdm.jpg" group-title="SERIES | APPLE TV+",Tiny World S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiny World S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miV1VRlMtnVemZYAMor95x90hEM.jpg" group-title="SERIES | APPLE TV+",Tiny World S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiny World S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFpT2uu6rR87toSlj76pKQuu4J4.jpg" group-title="SERIES | APPLE TV+",Tiny World S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiny World S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Qr80fXBM2bveijvvKBvRDVMhTz.jpg" group-title="SERIES | APPLE TV+",Tiny World S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42817.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVLcnt28R1b8tXjDAxZkprba2wJ.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amcPz3KtJa67sFU8fWm6293wKn1.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42832.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aztaxIziFmDtaHOZgacUlqac8HK.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42833.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoQ2tTtNVEBCiZrE1SYM8jFYyE8.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42834.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0J9xSkAcukGSoZnHJPIdJw1ye8.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42835.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88115S3gG3tqiyP7a9HXQMQUEOY.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42836.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiny World S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWTOBCw37KPXTB0NLCMCAEhHTbR.jpg" group-title="SERIES | APPLE TV+",Tiny World S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiny World S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arbGpq4dJVCa6PsAUPnvXxSmlhH.jpg" group-title="SERIES | APPLE TV+",Tiny World S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiny World S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skymRlK6LW5icAlEDaaWNTPkDdm.jpg" group-title="SERIES | APPLE TV+",Tiny World S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiny World S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miV1VRlMtnVemZYAMor95x90hEM.jpg" group-title="SERIES | APPLE TV+",Tiny World S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiny World S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFpT2uu6rR87toSlj76pKQuu4J4.jpg" group-title="SERIES | APPLE TV+",Tiny World S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiny World S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Qr80fXBM2bveijvvKBvRDVMhTz.jpg" group-title="SERIES | APPLE TV+",Tiny World S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x43RJXZzCnrP72Pi2cY15sxAjxb.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTFIn2inPrdf7hntHTzNkQlcqpU.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q0PdegZvT8v2HhlQWbrWONcd6I.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCcHti4JXoD0lGoRrU0TnZJVyQz.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhmwDbcDtelGoyQ5UXEGiI1NBxd.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5P3TAC83JgB5JiJxU0gJOKqYmG.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4ycSQ9hWbC8CZCBDy4Alxf05ml.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u74SEV2Jy7AulSEVtLCAu6dEVhY.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6AzYiyI82YZrhjAmGy2RmC9IsD.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S02 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6AzYiyI82YZrhjAmGy2RmC9IsD.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S02 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6AzYiyI82YZrhjAmGy2RmC9IsD.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S02 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6AzYiyI82YZrhjAmGy2RmC9IsD.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S02 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6AzYiyI82YZrhjAmGy2RmC9IsD.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S02 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6AzYiyI82YZrhjAmGy2RmC9IsD.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S02 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6AzYiyI82YZrhjAmGy2RmC9IsD.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S02 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6AzYiyI82YZrhjAmGy2RmC9IsD.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S02 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6AzYiyI82YZrhjAmGy2RmC9IsD.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S02 E09
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6AzYiyI82YZrhjAmGy2RmC9IsD.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S02 E10
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o28WB1afDS68zAkVrhd3ZC4OGeF.jpg" group-title="SERIES | APPLE TV+",Trying S01 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgMGKuSh24nrmA9NgG0rTM5yYEB.jpg" group-title="SERIES | APPLE TV+",Trying S01 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHxTSoPXJzcxehYoRbybDqiDurh.jpg" group-title="SERIES | APPLE TV+",Trying S01 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTVCtV39hebXJbAUHMSV3mD3KM5.jpg" group-title="SERIES | APPLE TV+",Trying S01 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozNoXTG2KkJdlpcouFxiCFnE38o.jpg" group-title="SERIES | APPLE TV+",Trying S01 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAyyJ8G192jHj7bBy9n9N3H9k0B.jpg" group-title="SERIES | APPLE TV+",Trying S01 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUWfAvG8I4QbQ6U0lugygdns29j.jpg" group-title="SERIES | APPLE TV+",Trying S01 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTjU6T0c5c1z8T8w3z5F1M7rogU.jpg" group-title="SERIES | APPLE TV+",Trying S01 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42941.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdUKUvI66snhQ50QbagrsMIht8v.jpg" group-title="SERIES | APPLE TV+",Trying S02 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bs4Wn2hhEJk9Cb8LBMadHujIbi.jpg" group-title="SERIES | APPLE TV+",Trying S02 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udXi7izmzle2JUyUnuC4gL5jHWK.jpg" group-title="SERIES | APPLE TV+",Trying S02 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42952.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IqrivJ2S4MIqrhKkdaPS7ApSaJ.jpg" group-title="SERIES | APPLE TV+",Trying S02 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opPXz9wvvL9t4OPiy96uYFN7gHi.jpg" group-title="SERIES | APPLE TV+",Trying S02 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvS20CtNLec4wPZ44181OTi1Hqi.jpg" group-title="SERIES | APPLE TV+",Trying S02 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ue4BzMWcQrAWgi3K0bZCwgLcRcF.jpg" group-title="SERIES | APPLE TV+",Trying S03 E01
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IRjoVWJxbqTIZzZNzMqxr02N9W.jpg" group-title="SERIES | APPLE TV+",Trying S03 E02
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cblviEO62cNFMJN4C5KZi9yOEF8.jpg" group-title="SERIES | APPLE TV+",Trying S03 E03
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeBBvux2I22QY8FoaHLHjxBNZFJ.jpg" group-title="SERIES | APPLE TV+",Trying S03 E04
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9PhltU3WwnXHis43SMzw2YopQo.jpg" group-title="SERIES | APPLE TV+",Trying S03 E05
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42966.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6W8plRlGVAWTP8SF4FUvdnbcSIm.jpg" group-title="SERIES | APPLE TV+",Trying S03 E06
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42967.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNCcR5A7FH2MJedbCGHktyCcOvc.jpg" group-title="SERIES | APPLE TV+",Trying S03 E07
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42968.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trying S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd8PyXkbpW76HiDyWFXdqJHwprw.jpg" group-title="SERIES | APPLE TV+",Trying S03 E08
+http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42969.mkv
 
 
 
