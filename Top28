@@ -1828,6 +1828,219 @@ https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 https://elche7tv.gestec-video.com/hls/canal2.m3u8
 
 
+#EXTM3U
+#EXTINF:-1 group-title="Svédország",SVT1
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/136
+#EXTINF:-1 group-title="Svédország",SVT2
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/139
+#EXTINF:-1 group-title="Svédország",SVT2 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/140
+#EXTINF:-1 group-title="Svédország",SVTB/SVT24
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/160
+#EXTINF:-1 group-title="Svédország",SVTB/SVT24 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112360
+#EXTINF:-1 group-title="Svédország",Kunskapskanalen
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/161
+#EXTINF:-1 group-title="Svédország",TV3
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/141
+#EXTINF:-1 group-title="Svédország",TV3 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/142
+#EXTINF:-1 group-title="Svédország",TV4
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/143
+#EXTINF:-1 group-title="Svédország",TV4 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/144
+#EXTINF:-1 group-title="Svédország",TV4 Fakta
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/262
+#EXTINF:-1 group-title="Svédország",TV4 Film
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/260
+#EXTINF:-1 group-title="Svédország",TV4 Guld
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/261
+#EXTINF:-1 group-title="Svédország",Kanal 5
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/145
+#EXTINF:-1 group-title="Svédország",Kanal 5 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/146
+#EXTINF:-1 group-title="Svédország",TV6
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112361
+#EXTINF:-1 group-title="Svédország",TV6 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/147
+#EXTINF:-1 group-title="Svédország",Sjuan
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/149
+#EXTINF:-1 group-title="Svédország",Sjuan HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/150
+#EXTINF:-1 group-title="Svédország",TV8
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112344
+#EXTINF:-1 group-title="Svédország",TV8 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/151
+#EXTINF:-1 group-title="Svédország",Kanal 9
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/152
+#EXTINF:-1 group-title="Svédország",Kanal 9 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/153
+#EXTINF:-1 group-title="Svédország",TV10
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/154
+#EXTINF:-1 group-title="Svédország",TV10 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/155
+#EXTINF:-1 group-title="Svédország",Kanal 11
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/156
+#EXTINF:-1 group-title="Svédország",Kanal 11 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/157
+#EXTINF:-1 group-title="Svédország",TV12
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112345
+#EXTINF:-1 group-title="Svédország",TV12 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/158
+#EXTINF:-1 group-title="Svédország",MTV Aitio
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/246
+#EXTINF:-1 group-title="Svédország",MTV Aitio HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/9947
+#EXTINF:-1 group-title="Svédország",TV4 Hits
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/247
+#EXTINF:-1 group-title="Svédország",TV4 Hits HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/9948
+#EXTINF:-1 group-title="Svédország",TV4 Stars
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/248
+#EXTINF:-1 group-title="Svédország",TV4 Stars HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/9950
+#EXTINF:-1 group-title="Svédország",MTV Viidhe
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/249
+#EXTINF:-1 group-title="Svédország",MTV Viidhe HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/9949
+#EXTINF:-1 group-title="Svédország",Sky Showtime 1
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112428
+#EXTINF:-1 group-title="Svédország",Sky Showtime 1 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112429
+#EXTINF:-1 group-title="Svédország",Sky Showtime 2
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112430
+#EXTINF:-1 group-title="Svédország",Sky Showtime 2 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112431
+#EXTINF:-1 group-title="Svédország",Godare
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/297
+#EXTINF:-1 group-title="Svédország",TLC Sverige
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/290
+#EXTINF:-1 group-title="Svédország",TLC Sverige HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/8378
+#EXTINF:-1 group-title="Svédország",BBC Nordic
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/269
+#EXTINF:-1 group-title="Svédország",BBC Nordic HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/9974
+#EXTINF:-1 group-title="Svédország",Discovery
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/276
+#EXTINF:-1 group-title="Svédország",Discovery HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/277
+#EXTINF:-1 group-title="Svédország",ID
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/279
+#EXTINF:-1 group-title="Svédország",ID HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/280
+#EXTINF:-1 group-title="Svédország",Nat Geo
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112432
+#EXTINF:-1 group-title="Svédország",TV4 Sportkanalen
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112
+#EXTINF:-1 group-title="Svédország",TV4 Sportkanalen HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/184
+#EXTINF:-1 group-title="Svédország",Eurosport 1
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/185
+#EXTINF:-1 group-title="Svédország",Eurosport 1 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/186
+#EXTINF:-1 group-title="Svédország",Eurosport 2
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/187
+#EXTINF:-1 group-title="Svédország",Eurosport 2 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/188
+#EXTINF:-1 group-title="Svédország",TV4 Sport Live 1 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/114
+#EXTINF:-1 group-title="Svédország",TV4 Sport Live 1 HD | raw
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/164
+#EXTINF:-1 group-title="Svédország",TV4 Sport Live 2 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/115
+#EXTINF:-1 group-title="Svédország",TV4 Sport Live 2 HD | raw
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/116
+#EXTINF:-1 group-title="Svédország",TV4 Sport Live 3 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/117
+#EXTINF:-1 group-title="Svédország",TV4 Sport Live 3 HD | raw
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/26296
+#EXTINF:-1 group-title="Svédország",TV4 Sport Live 4 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/167
+#EXTINF:-1 group-title="Svédország",TV4 Tennis HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/168
+#EXTINF:-1 group-title="Svédország",TV4 Tennis HD | raw
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/119
+#EXTINF:-1 group-title="Svédország",V sport golf
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/83
+#EXTINF:-1 group-title="Svédország",V sport golf HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/84
+#EXTINF:-1 group-title="Svédország",V sport motor
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/104
+#EXTINF:-1 group-title="Svédország",V sport motor HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/182
+#EXTINF:-1 group-title="Svédország",V sport motor HD | raw
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112442
+#EXTINF:-1 group-title="Svédország",V sport premium
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/174
+#EXTINF:-1 group-title="Svédország",V sport 1
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/172
+#EXTINF:-1 group-title="Svédország",V sport 1 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/173
+#EXTINF:-1 group-title="Svédország",V sport 1 HD | raw
+#EXTINF:0,TV4 Play Direkte 1 HD
+#EXTINF:-1 group-title="Svédország",TV4 Play Direkte 4 HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/193
+#EXTINF:-1 group-title="Svédország",ATG
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/205
+#EXTINF:-1 group-title="Svédország",ATG HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/346
+#EXTINF:-1 group-title="Svédország",V series
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112434
+#EXTINF:-1 group-title="Svédország",V series HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/250
+#EXTINF:-1 group-title="Svédország",V film hits
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/251
+#EXTINF:-1 group-title="Svédország",V film hits HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/252
+#EXTINF:-1 group-title="Svédország",V film action
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112435
+#EXTINF:-1 group-title="Svédország",V film action HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/254
+#EXTINF:-1 group-title="Svédország",V film family
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/287
+#EXTINF:-1 group-title="Svédország",Viasat Explorer
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112437
+#EXTINF:-1 group-title="Svédország",Viasat Explore HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/282
+#EXTINF:-1 group-title="Svédország",Viasat Nature
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112438
+#EXTINF:-1 group-title="Svédország",Viasat Nature HD
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/283
+#EXTINF:-1 group-title="Svédország",H&C
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/285
+#EXTINF:-1 group-title="Svédország",Nick Jr
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/288
+#EXTINF:-1 group-title="Svédország",SVT1 Dalarna
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/299
+#EXTINF:-1 group-title="Svédország",SVT1 Gävleborg
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/300
+#EXTINF:-1 group-title="Svédország",SVT1 Jämtland
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/301
+#EXTINF:-1 group-title="Svédország",SVT1 Jönköping
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/302
+#EXTINF:-1 group-title="Svédország",SVT1 Örebro
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/303
+#EXTINF:-1 group-title="Svédország",SVT1 Öst
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/304
+#EXTINF:-1 group-title="Svédország",SVT1 Skane
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/305
+#EXTINF:-1 group-title="Svédország",SVT1 Smaland
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/306
+#EXTINF:-1 group-title="Svédország",SVT1 Värmland
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/307
+#EXTINF:-1 group-title="Svédország",SVT1 Väst
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/308
+#EXTINF:-1 group-title="Svédország",V sport golf HD | raw
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/113227
+
+
+
+
+
+
+
+
 
  #EXTINF:-1 group-title="VILÁG",  Canal 8 COSTA RICA
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -1835,7 +2048,14 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
 #EXTINF:-1 group-title="VILÁG",  AZTECA INT MEXICO
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
+ #EXTINF:-1 group-title="VILÁG",  SZUCSOU 4K Kina
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+#EXTINF:-1 group-title="VILÁG", ARIRANG Korea
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 group-title="VILÁG", 1 Georgia
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 group-title="VILÁG", Imedi Tv Georgia
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
 
 
 
