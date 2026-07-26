@@ -1788,6 +1788,598 @@ http://o5dbsm3jgr.hyblu.xyz:80/live/figli@m@ss1221/051221/348.ts
 #EXTINF:-1 group-title="Olaszország",Sky Tg 24
 http://o5dbsm3jgr.hyblu.xyz:80/live/figli@m@ss1221/051221/112.ts
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - ITALY #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="Olaszország",##### IT - ITALY #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68916.m3u8
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="IT - RAI 1 UHD ?" tvg-logo="https://go4.pw/EUROPE/ITALY/rai1.png" group-title="Olaszország",IT - RAI 1 UHD ?
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68441.m3u8
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="IT - RAI 1 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/rai1.png" group-title="Olaszország",IT - RAI 1 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68620.m3u8
+#EXTINF:-1 tvg-id="rai2.it" tvg-name="IT - RAI 2 UHD ?" tvg-logo="https://go4.pw/EUROPE/ITALY/rai2.png" group-title="Olaszország",IT - RAI 2 UHD ?
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68442.m3u8
+#EXTINF:-1 tvg-id="rai2.it" tvg-name="IT - RAI 2 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/rai2.png" group-title="Olaszország",IT - RAI 2 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68621.m3u8
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="IT - RAI 3 UHD ?" tvg-logo="https://go4.pw/EUROPE/ITALY/rai3.png" group-title="Olaszország",IT - RAI 3 UHD ?
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68443.m3u8
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="IT - RAI 3 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/rai3.png" group-title="Olaszország",IT - RAI 3 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68622.m3u8
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="IT - RAI 4 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/rai4.png" group-title="Olaszország",IT - RAI 4 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68472.m3u8
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="IT - RAI 4 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/rai4.png" group-title="Olaszország",IT - RAI 4 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900916.m3u8
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="IT - RAI 5 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/rai5.png" group-title="Olaszország",IT - RAI 5 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68473.m3u8
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="IT - RAI 5 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/rai5.png" group-title="Olaszország",IT - RAI 5 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/893166.m3u8
+#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="IT - RAI SCUOLA UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/raiscuola.png" group-title="Olaszország",IT - RAI SCUOLA UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68558.m3u8
+#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="IT - RAI SCUOLA HD" tvg-logo="https://go4.pw/EUROPE/ITALY/raiscuola.png" group-title="Olaszország",IT - RAI SCUOLA HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68667.m3u8
+#EXTINF:-1 tvg-id="raistoria.it" tvg-name="IT - RAI STORIA UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/raistoria.png" group-title="Olaszország",IT - RAI STORIA UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68559.m3u8
+#EXTINF:-1 tvg-id="raistoria.it" tvg-name="IT - RAI STORIA HD" tvg-logo="https://go4.pw/EUROPE/ITALY/raistoria.png" group-title="Olaszország",IT - RAI STORIA HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68668.m3u8
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="IT - RAI NEWS 24 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/rainews24.png" group-title="Olaszország",IT - RAI NEWS 24 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68612.m3u8
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="IT - RAI YOYO UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/raiyoyo.png" group-title="Olaszország",IT - RAI YOYO UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68583.m3u8
+#EXTINF:-1 tvg-id="raigulp.it" tvg-name="IT - RAI GULP UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/raigulp.png" group-title="Olaszország",IT - RAI GULP UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68584.m3u8
+#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="IT - RAI ITALIA HD" tvg-logo="https://go4.pw/EUROPE/ITALY/raiitalia.png" group-title="Olaszország",IT - RAI ITALIA HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1151348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - RAI WORLD PREMIUM SD" tvg-logo="https://go4.pw/EUROPE/ITALY/raiworld.png" group-title="Olaszország",IT - RAI WORLD PREMIUM SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/677126.m3u8
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="IT - SKY TG24 UHD" tvg-logo="https://go4.pw/ITALY/skytg24.png" group-title="Olaszország",IT - SKY TG24 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900939.m3u8
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="IT - SKY TG 24 HD" tvg-logo="https://go4.pw/ITALY/skytg24.png" group-title="Olaszország",IT - SKY TG 24 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247075.m3u8
+#EXTINF:-1 tvg-id="skynature.it" tvg-name="IT - SKY NATURE UHD" tvg-logo="https://go4.pw/ITALY/skynature.png" group-title="Olaszország",IT - SKY NATURE UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900933.m3u8
+#EXTINF:-1 tvg-id="skynature.it" tvg-name="IT - SKY NATURE HD" tvg-logo="https://go4.pw/ITALY/skynature.png" group-title="Olaszország",IT - SKY NATURE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/448579.m3u8
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="IT - SKY UNO UHD" tvg-logo="https://go4.pw/ITALY/skyuno.png" group-title="Olaszország",IT - SKY UNO UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68490.m3u8
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="IT - SKY UNO HD" tvg-logo="https://go4.pw/ITALY/skyuno.png" group-title="Olaszország",IT - SKY UNO HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY MTV UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/MTV.png" group-title="Olaszország",IT - SKY MTV UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68507.m3u8
+#EXTINF:-1 tvg-id="skyinvestigation.it" tvg-name="IT - SKY INVESTIGATION UHD" tvg-logo="https://go4.pw/ITALY/skyinv.png" group-title="Olaszország",IT - SKY INVESTIGATION UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CACCIA HD" tvg-logo="https://go4.pw/EUROPE/Cacciatv.png" group-title="Olaszország",IT - SKY CACCIA HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/893169.m3u8
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="IT - SKY ARTE HD" tvg-logo="https://go4.pw/ITALY/Skyarte.png" group-title="Olaszország",IT - SKY ARTE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900930.m3u8
+#EXTINF:-1 tvg-id="skyinvestigation.it" tvg-name="IT - SKY INVESTIGATION HD" tvg-logo="https://go4.pw/ITALY/skyinv.png" group-title="Olaszország",IT - SKY INVESTIGATION HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900932.m3u8
+#EXTINF:-1 tvg-id="retequattro.it" tvg-name="IT - RETE 4 UHD ?" tvg-logo="https://go4.pw/EUROPE/ITALY/rete4.png" group-title="Olaszország",IT - RETE 4 UHD ?
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68444.m3u8
+#EXTINF:-1 tvg-id="retequattro.it" tvg-name="IT - RETE 4 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/rete4.png" group-title="Olaszország",IT - RETE 4 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68623.m3u8
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="IT - CANALE 5 UHD ?" tvg-logo="https://go4.pw/EUROPE/ITALY/canal55.png" group-title="Olaszország",IT - CANALE 5 UHD ?
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68445.m3u8
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="IT - CANALE 5 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/canal55.png" group-title="Olaszország",IT - CANALE 5 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68624.m3u8
+#EXTINF:-1 tvg-id="la5.it" tvg-name="IT - LA5 FHD" tvg-logo="https://go4.pw/EUROPE/ITALY/LA5.png" group-title="Olaszország",IT - LA5 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68475.m3u8
+#EXTINF:-1 tvg-id="la5.it" tvg-name="IT - LA5 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/LA5.png" group-title="Olaszország",IT - LA5 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1411173.m3u8
+#EXTINF:-1 tvg-id="la7.it" tvg-name="IT - LA7 UHD ?" tvg-logo="https://go4.pw/EUROPE/ITALY/la77.png" group-title="Olaszország",IT - LA7 UHD ?
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68447.m3u8
+#EXTINF:-1 tvg-id="la7d.it" tvg-name="IT - LA7 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/la77.png" group-title="Olaszország",IT - LA7 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68484.m3u8
+#EXTINF:-1 tvg-id="tv8.it" tvg-name="IT - TV 8 UHD ?" tvg-logo="https://go4.pw/EUROPE/ITALY/tv8.png" group-title="Olaszország",IT - TV 8 UHD ?
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - CANALE 8 SD" tvg-logo="https://go4.pw/EUROPE/ITALY/tv8.png" group-title="Olaszország",IT - CANALE 8 SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - CANALE 10 HD" tvg-logo="https://go4.pw/ITALY/c10.png" group-title="Olaszország",IT - CANALE 10 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/893163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - CANALE ITALIA HD" tvg-logo="https://go4.pw/ITALY/canaleitalia.png" group-title="Olaszország",IT - CANALE ITALIA HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/779196.m3u8
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="IT - CIELO UHD" tvg-logo="https://go4.pw/ITALY/cielo0.png" group-title="Olaszország",IT - CIELO UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68450.m3u8
+#EXTINF:-1 tvg-id="iris.it" tvg-name="IT - IRIS UHD" tvg-logo="https://go4.pw/ITALY/iris0.png" group-title="Olaszország",IT - IRIS UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68454.m3u8
+#EXTINF:-1 tvg-id="tv2000.it" tvg-name="IT - TV2000 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/TV2000.png" group-title="Olaszország",IT - TV2000 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68485.m3u8
+#EXTINF:-1 tvg-id="gamberorosso.it" tvg-name="IT - GAMBERO ROSSO UHD" tvg-logo="https://go4.pw/ITALY/gamberorosso.png" group-title="Olaszország",IT - GAMBERO ROSSO UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68572.m3u8
+#EXTINF:-1 tvg-id="rtl1025tv.it" tvg-name="IT - RTL 102.5 UHD" tvg-logo="https://go4.pw/EUROPE/rtl102.png" group-title="Olaszország",IT - RTL 102.5 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - VH1 UHD" tvg-logo="https://go4.pw/EUROPE/SWEDEN/vh1_.png" group-title="Olaszország",IT - VH1 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68582.m3u8
+#EXTINF:-1 tvg-id="tgnorba24.it" tvg-name="IT - TG NORBA 24 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/tgcom.png" group-title="Olaszország",IT - TG NORBA 24 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68613.m3u8
+#EXTINF:-1 tvg-id="20mediaset.it" tvg-name="IT - MEDIASET 20 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/mediaset20.png" group-title="Olaszország",IT - MEDIASET 20 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/329577.m3u8
+#EXTINF:-1 tvg-id="mydeejay.it" tvg-name="IT - DEEJAY TV UHD" tvg-logo="https://go4.pw/ITALY/deejay.png" group-title="Olaszország",IT - DEEJAY TV UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/893164.m3u8
+#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="IT - COMEDY CENTRAL UHD" tvg-logo="https://go4.pw/LATINO/Comedy-Central.png" group-title="Olaszország",IT - COMEDY CENTRAL UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247065.m3u8
+#EXTINF:-1 tvg-id="radioitalia.it" tvg-name="IT - RADIO ITALIA TV UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/RADIOITALIATV.png" group-title="Olaszország",IT - RADIO ITALIA TV UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - RADIO ZETA UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/RADIOITALIATV.png" group-title="Olaszország",IT - RADIO ZETA UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - RADIO TICINO CHANNEL HD" tvg-logo="https://go4.pw/EUROPE/ITALY/RADIOITALIATV.png" group-title="Olaszország",IT - RADIO TICINO CHANNEL HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/779197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - RADIO KISS KISS HD" tvg-logo="https://go4.pw/ITALY/RADIOKISSKISS.png" group-title="Olaszország",IT - RADIO KISS KISS HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/893168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - RADIO 51 HD" tvg-logo="https://go4.pw/EUROPE/radio51.png" group-title="Olaszország",IT - RADIO 51 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1178759.m3u8
+#EXTINF:-1 tvg-id="cacciapesca.it" tvg-name="IT - CACCIA E PESCA FHD" tvg-logo="https://go4.pw/EUROPE/cacciapesca.png" group-title="Olaszország",IT - CACCIA E PESCA FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - GRANDE FRATELL REGIA 1 FHD" tvg-logo="https://go4.pw/ITALY/GRANDE_FRATELL_REGIA_1.png" group-title="Olaszország",IT - GRANDE FRATELL REGIA 1 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/521197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - GRANDE FRATELL REGIA 2 HD" tvg-logo="https://go4.pw/ITALY/GRANDE_FRATELL_REGIA_1.png" group-title="Olaszország",IT - GRANDE FRATELL REGIA 2 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/521196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - GRANDE FRATELL UN ORA FA FHD" tvg-logo="https://go4.pw/ITALY/GRANDE_FRATELL_REGIA_1.png" group-title="Olaszország",IT - GRANDE FRATELL UN ORA FA FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/521195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - GRANDE FRATELLO PARTY HD" tvg-logo="https://go4.pw/ITALY/GRANDE_FRATELL_REGIA_1.png" group-title="Olaszország",IT - GRANDE FRATELLO PARTY HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/521194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - RDS SOCIAL TV FHD" tvg-logo="https://go4.pw/ITALY/rdssoctv.png" group-title="Olaszország",IT - RDS SOCIAL TV FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1135911.m3u8
+#EXTINF:-1 tvg-id="hgtv.it" tvg-name="IT - HGTV FHD" tvg-logo="https://go4.pw/ITALY/HGTV.png" group-title="Olaszország",IT - HGTV FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - EQU TV FHD" tvg-logo="https://go4.pw/ITALY/EQUTV.png" group-title="Olaszország",IT - EQU TV FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/779194.m3u8
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="IT - ITALIA 1 HD ?" tvg-logo="https://go4.pw/EUROPE/ITALY/ITALIA1.png" group-title="Olaszország",IT - ITALIA 1 HD ?
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68446.m3u8
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="IT - ITALIA 1 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/ITALIA1.png" group-title="Olaszország",IT - ITALIA 1 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68625.m3u8
+#EXTINF:-1 tvg-id="italia2.it" tvg-name="IT - ITALIA 2 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/Italia2.png" group-title="Olaszország",IT - ITALIA 2 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/302827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - RSI LA1 HD" tvg-logo="https://go4.pw/ITALY/RSILA1.png" group-title="Olaszország",IT - RSI LA1 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - RSI LA2 HD" tvg-logo="https://go4.pw/ITALY/RSILA2.png" group-title="Olaszország",IT - RSI LA2 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - ALICE HD" tvg-logo="https://go4.pw/ITALY/ALMATV.png" group-title="Olaszország",IT - ALICE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68556.m3u8
+#EXTINF:-1 tvg-id="super.it" tvg-name="IT - SUPER SD" tvg-logo="https://go4.pw/EUROPE/ITALY/SUPER-1.png" group-title="Olaszország",IT - SUPER SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68587.m3u8
+#EXTINF:-1 tvg-id="k2.it" tvg-name="IT - K2 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/K2.png" group-title="Olaszország",IT - K2 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68588.m3u8
+#EXTINF:-1 tvg-id="frisbee.it" tvg-name="IT - FRISBEE HD" tvg-logo="https://go4.pw/EUROPE/ITALY/ITALY/FRISBEE.png" group-title="Olaszország",IT - FRISBEE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68589.m3u8
+#EXTINF:-1 tvg-id="tgcom24.it" tvg-name="IT - TGCOM24 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/tgcom.png" group-title="Olaszország",IT - TGCOM24 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - VIDEOLINA HD" tvg-logo="https://go4.pw/EUROPE/videolina.png" group-title="Olaszország",IT - VIDEOLINA HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68784.m3u8
+#EXTINF:-1 tvg-id="27mediaset.it" tvg-name="IT -  MEDIASET TWENTYSEVEN HD" tvg-logo="https://go4.pw/EUROPE/MALTA/Twentyseven.png" group-title="Olaszország",IT -  MEDIASET TWENTYSEVEN HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/326205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - VIDEO ITALIA HD" tvg-logo="https://go4.pw/ITALY/VIDEOITALIAHD.png" group-title="Olaszország",IT - VIDEO ITALIA HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/779198.m3u8
+#EXTINF:-1 tvg-id="italianfishingtv.it" tvg-name="IT - ITALIAN FISHING HD" tvg-logo="https://go4.pw/ITALY/italianfish.png" group-title="Olaszország",IT - ITALIAN FISHING HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/893162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - TVRS HD" tvg-logo="https://go4.pw/ITALY/Tvrs.png" group-title="Olaszország",IT - TVRS HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/893165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SOPHIA TV HD" tvg-logo="https://go4.pw/EUROPE/ITALY/sophia.png" group-title="Olaszország",IT - SOPHIA TV HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/893170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - REGGIO TV HD" tvg-logo="https://go4.pw/ITALY/REGGIOTV.png" group-title="Olaszország",IT - REGGIO TV HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/893171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - TELE TICINO HD" tvg-logo="https://go4.pw/ITALY/TELECINCO0.png" group-title="Olaszország",IT - TELE TICINO HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/893172.m3u8
+#EXTINF:-1 tvg-id="mtv.it" tvg-name="IT - MTV HD" tvg-logo="https://go4.pw/EUROPE/ITALY/MTV.png" group-title="Olaszország",IT - MTV HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - LAC NEWS 24 SD" tvg-logo="https://go4.pw/ITALY/lactv.png" group-title="Olaszország",IT - LAC NEWS 24 SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1134019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - RADIO MONTE CARLO FHD" tvg-logo="https://go4.pw/EUROPE/RADIOMONTECARLO.png" group-title="Olaszország",IT - RADIO MONTE CARLO FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1414002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - FILM E SERIE TV #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="Olaszország",##### IT - FILM E SERIE TV #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/639802.m3u8
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="IT - SKY CINEMA UNO UHD" tvg-logo="https://go4.pw/ITALY/SKYCINEMAUNO.png" group-title="Olaszország",IT - SKY CINEMA UNO UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68456.m3u8
+#EXTINF:-1 tvg-id="skycinemaunoplus24.it" tvg-name="IT - SKY CINEMA UNO 24 UHD" tvg-logo="https://go4.pw/ITALY/SKYCINEMAUNO24.png" group-title="Olaszország",IT - SKY CINEMA UNO 24 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68465.m3u8
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="IT - SKY CINEMA UNO HD" tvg-logo="https://go4.pw/ITALY/SKYCINEMAUNO.png" group-title="Olaszország",IT - SKY CINEMA UNO HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68629.m3u8
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="IT - SKY CINEMA DUE UHD" tvg-logo="https://go4.pw/ITALY/SKYCINEMADUE.png" group-title="Olaszország",IT - SKY CINEMA DUE UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68457.m3u8
+#EXTINF:-1 tvg-id="skycinemadueplus24.it" tvg-name="IT - SKY CINEMA DUE 24 UHD" tvg-logo="https://go4.pw/ITALY/SKYCINEMADUE.png" group-title="Olaszország",IT - SKY CINEMA DUE 24 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68466.m3u8
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="IT - SKY CINEMA DUE HD" tvg-logo="https://go4.pw/ITALY/SKYCINEMADUE.png" group-title="Olaszország",IT - SKY CINEMA DUE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68630.m3u8
+#EXTINF:-1 tvg-id="skycinemacollection.it" tvg-name="IT - SKY CINEMA COLLECTION UHD" tvg-logo="https://go4.pw/ITALY/SKYCINEMACOLLECTION.png" group-title="Olaszország",IT - SKY CINEMA COLLECTION UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68458.m3u8
+#EXTINF:-1 tvg-id="skycinemacollection.it" tvg-name="IT - SKY CINEMA COLLECTION FHD" tvg-logo="https://go4.pw/ITALY/SKYCINEMACOLLECTION.png" group-title="Olaszország",IT - SKY CINEMA COLLECTION FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76640.m3u8
+#EXTINF:-1 tvg-id="skycinemacollection.it" tvg-name="IT - SKY CINEMA COLLECTION HD" tvg-logo="https://go4.pw/ITALY/SKYCINEMACOLLECTION.png" group-title="Olaszország",IT - SKY CINEMA COLLECTION HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76679.m3u8
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="IT - SKY CINEMA FAMILY UHD" tvg-logo="https://go4.pw/germany/skycnf.png" group-title="Olaszország",IT - SKY CINEMA FAMILY UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68459.m3u8
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="IT - SKY CINEMA FAMILY HD" tvg-logo="https://go4.pw/germany/skycnf.png" group-title="Olaszország",IT - SKY CINEMA FAMILY HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68631.m3u8
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="IT - SKY CINEMA ACTION UHD" tvg-logo="https://go4.pw/UK/skycnac.png" group-title="Olaszország",IT - SKY CINEMA ACTION UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68460.m3u8
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="IT - SKY CINEMA ACTION HD" tvg-logo="https://go4.pw/UK/skycnac.png" group-title="Olaszország",IT - SKY CINEMA ACTION HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68632.m3u8
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="IT - SKY CINEMA SUSPENCE UHD" tvg-logo="https://go4.pw/ITALY/_skycinsus.png" group-title="Olaszország",IT - SKY CINEMA SUSPENCE UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68461.m3u8
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="IT - SKY CINEMA SUSPENCE HD" tvg-logo="https://go4.pw/ITALY/_skycinsus.png" group-title="Olaszország",IT - SKY CINEMA SUSPENCE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68633.m3u8
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="IT - SKY CINEMA ROMANCE UHD" tvg-logo="https://go4.pw/ITALY/SKYCINEMAROMANCE.png" group-title="Olaszország",IT - SKY CINEMA ROMANCE UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68462.m3u8
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="IT - SKY CINEMA ROMANCE HD" tvg-logo="https://go4.pw/ITALY/SKYCINEMAROMANCE.png" group-title="Olaszország",IT - SKY CINEMA ROMANCE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68634.m3u8
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="IT - SKY CINEMA DRAMA UHD" tvg-logo="https://go4.pw/ITALY/_skycindr.png" group-title="Olaszország",IT - SKY CINEMA DRAMA UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68463.m3u8
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="IT - SKY CINEMA DRAMA HD" tvg-logo="https://go4.pw/ITALY/_skycindr.png" group-title="Olaszország",IT - SKY CINEMA DRAMA HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68635.m3u8
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="IT - SKY CINEMA COMEDY UHD" tvg-logo="https://go4.pw/ITALY/_SKYCINEMACOMEDY.png" group-title="Olaszország",IT - SKY CINEMA COMEDY UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68464.m3u8
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="IT - SKY CINEMA COMEDY HD" tvg-logo="https://go4.pw/ITALY/_SKYCINEMACOMEDY.png" group-title="Olaszország",IT - SKY CINEMA COMEDY HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68636.m3u8
+#EXTINF:-1 tvg-id="skycinemadueplus24.it" tvg-name="IT - SKY CINEMA DUE +24 HD" tvg-logo="https://go4.pw/ITALY/SKYCINEMADUE.png" group-title="Olaszország",IT - SKY CINEMA DUE +24 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68638.m3u8
+#EXTINF:-1 tvg-id="skyserie.it" tvg-name="IT - SKY SERIES HD" tvg-logo="https://go4.pw/EUROPE/ITALY/SKYSeriesHD.png" group-title="Olaszország",IT - SKY SERIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900934.m3u8
+#EXTINF:-1 tvg-id="skyserie.it" tvg-name="IT - SKY SERIES SD" tvg-logo="https://go4.pw/EUROPE/ITALY/SKYSeriesHD.png" group-title="Olaszország",IT - SKY SERIES SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498745.m3u8
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="IT - RAI PREMIUM UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/raipremium.png" group-title="Olaszország",IT - RAI PREMIUM UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68471.m3u8
+#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="IT - MEDIASET EXTRA UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/mediasetextra.png" group-title="Olaszország",IT - MEDIASET EXTRA UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68477.m3u8
+#EXTINF:-1 tvg-id="topcrime.it" tvg-name="IT - TOP CRIME UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/TOPCRIME.png" group-title="Olaszország",IT - TOP CRIME UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68478.m3u8
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="IT - RAI MOVIE UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/raimovie.png" group-title="Olaszország",IT - RAI MOVIE UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68453.m3u8
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="IT - RAI MOVIE HD" tvg-logo="https://go4.pw/EUROPE/ITALY/raimovie.png" group-title="Olaszország",IT - RAI MOVIE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68628.m3u8
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="IT - CINE34 FHD" tvg-logo="https://go4.pw/EUROPE/ITALY/cine34.png" group-title="Olaszország",IT - CINE34 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="#####  IT - SKY PRIMAFILA  #####	" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="Olaszország",#####  IT - SKY PRIMAFILA  #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1134676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT -  SKY PRIMAFILA 1 FHD" tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="Olaszország",IT -  SKY PRIMAFILA 1 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/184493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT -  SKY PRIMAFILA 2 FHD" tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="Olaszország",IT -  SKY PRIMAFILA 2 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/184494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT -  SKY PRIMAFILA 3 FHD" tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="Olaszország",IT -  SKY PRIMAFILA 3 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/184495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT -  SKY PRIMAFILA 4 FHD" tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="Olaszország",IT -  SKY PRIMAFILA 4 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/184496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT -  SKY PRIMAFILA 5 FHD" tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="Olaszország",IT -  SKY PRIMAFILA 5 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/184497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT -  SKY PRIMAFILA 6 FHD" tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="Olaszország",IT -  SKY PRIMAFILA 6 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/184498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT -  SKY PRIMAFILA 7 FHD" tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="Olaszország",IT -  SKY PRIMAFILA 7 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/184499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT -  SKY PRIMAFILA 8 FHD" tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="Olaszország",IT -  SKY PRIMAFILA 8 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/184500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT -  SKY PRIMAFILA 9 FHD" tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="Olaszország",IT -  SKY PRIMAFILA 9 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/184501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT -  SKY PRIMAFILA 10 FHD" tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="Olaszország",IT -  SKY PRIMAFILA 10 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/184502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - DOCUMENTARIO #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="Olaszország",##### IT - DOCUMENTARIO #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76567.m3u8
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="IT - SKY ATLANTIC UHD" tvg-logo="https://go4.pw/UK/skyatl.png" group-title="Olaszország",IT - SKY ATLANTIC UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68492.m3u8
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="IT - SKY ATLANTIC HD" tvg-logo="https://go4.pw/UK/skyatl.png" group-title="Olaszország",IT - SKY ATLANTIC HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68641.m3u8
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="IT - SKY ARTE UHD" tvg-logo="https://go4.pw/ITALY/Skyarte.png" group-title="Olaszország",IT - SKY ARTE UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68570.m3u8
+#EXTINF:-1 tvg-id="crimeinvestigation.it" tvg-name="IT - SKY CRIME FHD" tvg-logo="https://go4.pw/ITALY/skycrime.png" group-title="Olaszország",IT - SKY CRIME FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68571.m3u8
+#EXTINF:-1 tvg-id="crimeinvestigation.it" tvg-name="IT - SKY CRIME HD" tvg-logo="https://go4.pw/ITALY/skycrime.png" group-title="Olaszország",IT - SKY CRIME HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68677.m3u8
+#EXTINF:-1 tvg-id="skydocumentaries.it" tvg-name="IT - SKY DOCUMENTARIES FHD" tvg-logo="https://go4.pw/ITALY/SKYDOCUMENTARIES.png" group-title="Olaszország",IT - SKY DOCUMENTARIES FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498744.m3u8
+#EXTINF:-1 tvg-id="skydocumentaries.it" tvg-name="IT - SKY DOCUMENTARIES HD" tvg-logo="https://go4.pw/ITALY/SKYDOCUMENTARIES.png" group-title="Olaszország",IT - SKY DOCUMENTARIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900931.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="IT - DISCOVERY UHD" tvg-logo="https://go4.pw/RUSSIA/discoveryhd.png" group-title="Olaszország",IT - DISCOVERY UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68565.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="IT - DISCOVERY HD" tvg-logo="https://go4.pw/RUSSIA/discoveryhd.png" group-title="Olaszország",IT - DISCOVERY HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68674.m3u8
+#EXTINF:-1 tvg-id="historychannel.it" tvg-name="IT - HISTORY UHD" tvg-logo="https://go4.pw/ALBANIA/15.png" group-title="Olaszország",IT - HISTORY UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68568.m3u8
+#EXTINF:-1 tvg-id="historychannel.it" tvg-name="IT - HISTORY HD" tvg-logo="https://go4.pw/ALBANIA/15.png" group-title="Olaszország",IT - HISTORY HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900928.m3u8
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="IT - DMAX UHD" tvg-logo="https://go4.pw/germany/20.png" group-title="Olaszország",IT - DMAX UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68482.m3u8
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="IT - DMAX+1 HD" tvg-logo="https://go4.pw/germany/20.png" group-title="Olaszország",IT - DMAX+1 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68483.m3u8
+#EXTINF:-1 tvg-id="giallo.it" tvg-name="IT - GIALLO UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/GIALLO.png" group-title="Olaszország",IT - GIALLO UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68479.m3u8
+#EXTINF:-1 tvg-id="motortrend.it" tvg-name="IT - MOTOR TREND UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/MOTOR.png" group-title="Olaszország",IT - MOTOR TREND UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76633.m3u8
+#EXTINF:-1 tvg-id="realtime.it" tvg-name="IT - REAL TIME UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/REALTIME.png" group-title="Olaszország",IT - REAL TIME UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68480.m3u8
+#EXTINF:-1 tvg-id="realtime.it" tvg-name="IT - REAL TIME +1 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/REALTIME.png" group-title="Olaszország",IT - REAL TIME +1 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68481.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="IT - FOOD NETWORK UHD" tvg-logo="https://go4.pw/ARABE/BEIN_FOOD_NETWORK.png" group-title="Olaszország",IT - FOOD NETWORK UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68489.m3u8
+#EXTINF:-1 tvg-id="focustv.it" tvg-name="IT - FOCUS FHD" tvg-logo="https://go4.pw/EUROPE/ITALY/FOCUS.png" group-title="Olaszország",IT - FOCUS FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68555.m3u8
+#EXTINF:-1 tvg-id="nove.it" tvg-name="IT - NOVE UHD" tvg-logo="https://go4.pw/ITALY/nove.png" group-title="Olaszország",IT - NOVE UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68449.m3u8
+#EXTINF:-1 tvg-id="nove.it" tvg-name="IT - NOVE HD" tvg-logo="https://go4.pw/ITALY/nove.png" group-title="Olaszország",IT - NOVE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/893167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - BAMBINI #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="Olaszország",##### IT - BAMBINI #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/639800.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="IT - CARTOON NETWORK UHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONNETWORKFHD.png" group-title="Olaszország",IT - CARTOON NETWORK UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68597.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="IT - CARTOON NETWORK HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONNETWORKFHD.png" group-title="Olaszország",IT - CARTOON NETWORK HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900925.m3u8
+#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="IT - CARTOONITO FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png" group-title="Olaszország",IT - CARTOONITO FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68586.m3u8
+#EXTINF:-1 tvg-id="nickjunior.it" tvg-name="IT - NICK JR HD" tvg-logo="https://go4.pw/EUROPE/ITALY/NICKJUNIOR.png" group-title="Olaszország",IT - NICK JR HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68603.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="IT - NICKELODEON SD" tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png" group-title="Olaszország",IT - NICKELODEON SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68601.m3u8
+#EXTINF:-1 tvg-id="boomerang.it" tvg-name="IT - BOOMERANG SD" tvg-logo="https://go4.pw/EUROPE/PORTUGALVIP/BOOMERANG.png" group-title="Olaszország",IT - BOOMERANG SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68599.m3u8
+#EXTINF:-1 tvg-id="deajunior.it" tvg-name="IT - DEA JUNIOR HD" tvg-logo="https://go4.pw/ITALY/deakids.png" group-title="Olaszország",IT - DEA JUNIOR HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68607.m3u8
+#EXTINF:-1 tvg-id="deakids.it" tvg-name="IT - DEA KIDS SD" tvg-logo="https://go4.pw/ITALY/deakids.png" group-title="Olaszország",IT - DEA KIDS SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68608.m3u8
+#EXTINF:-1 tvg-id="boing.it" tvg-name="IT - BOING PLUS HD" tvg-logo="https://go4.pw/EUROPE/ITALY/boing.png" group-title="Olaszország",IT - BOING PLUS HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/779195.m3u8
+#EXTINF:-1 tvg-id="boing.it" tvg-name="IT - BOING HD" tvg-logo="https://go4.pw/EUROPE/ITALY/boing.png" group-title="Olaszország",IT - BOING HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - BABY TV SD" tvg-logo="https://go4.pw/EUROPE/ITALY/BABYTV-1.png" group-title="Olaszország",IT - BABY TV SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - TELEBIMBI SD" tvg-logo="https://go4.pw/EUROPE/ITALY/tembimbi.png" group-title="Olaszország",IT - TELEBIMBI SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/677127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - SPORT #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="Olaszország",##### IT - SPORT #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76630.m3u8
+#EXTINF:-1 tvg-id="eurosport.it" tvg-name="IT - EUROSPORT 1 UHD" tvg-logo="https://go4.pw/ITALY/eurosport1.png" group-title="Olaszország",IT - EUROSPORT 1 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76645.m3u8
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="IT - EUROSPORT 2 UHD" tvg-logo="https://go4.pw/ITALY/eurosport2.png" group-title="Olaszország",IT - EUROSPORT 2 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76646.m3u8
+#EXTINF:-1 tvg-id="eurosport.it" tvg-name="IT - EUROSPORT 1 HD" tvg-logo="https://go4.pw/ITALY/eurosport1.png" group-title="Olaszország",IT - EUROSPORT 1 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900926.m3u8
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="IT - EUROSPORT 2 HD" tvg-logo="https://go4.pw/ITALY/eurosport2.png" group-title="Olaszország",IT - EUROSPORT 2 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900927.m3u8
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="IT - RAI SPORT UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/raisport.png" group-title="Olaszország",IT - RAI SPORT UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900915.m3u8
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="IT - RAI SPORT HD" tvg-logo="https://go4.pw/EUROPE/ITALY/raisport.png" group-title="Olaszország",IT - RAI SPORT HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76631.m3u8
+#EXTINF:-1 tvg-id="interchannel.it" tvg-name="IT - INTER CHANNEL UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/intertv.png" group-title="Olaszország",IT - INTER CHANNEL UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247062.m3u8
+#EXTINF:-1 tvg-id="laziostylechannel.it" tvg-name="IT - LAZIO CHANNEL UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/latziotv.png" group-title="Olaszország",IT - LAZIO CHANNEL UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247063.m3u8
+#EXTINF:-1 tvg-id="milantv.it" tvg-name="IT - MILAN CHANNEL HD" tvg-logo="https://go4.pw/EUROPE/ITALY/milantv.png" group-title="Olaszország",IT - MILAN CHANNEL HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/183883.m3u8
+#EXTINF:-1 tvg-id="sportitalia.it" tvg-name="IT - SPORT ITALIA HD" tvg-logo="https://go4.pw/ITALY/sportitaliasolocalcio.png" group-title="Olaszország",IT - SPORT ITALIA HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SPORT ITALIA LIVE24 HD" tvg-logo="https://go4.pw/ITALY/sportitaliasolocalcio.png" group-title="Olaszország",IT - SPORT ITALIA LIVE24 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SPORT ITALIA SOLO CALCIO HD" tvg-logo="https://go4.pw/ITALY/sportitaliasolocalcio.png" group-title="Olaszország",IT - SPORT ITALIA SOLO CALCIO HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - TOP CALCIO 24 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/topcalio.png" group-title="Olaszország",IT - TOP CALCIO 24 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - ZONA GOAL SERIE A HD" tvg-logo="https://go4.pw/ITALY/ZONAGOAL.png" group-title="Olaszország",IT - ZONA GOAL SERIE A HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900924.m3u8
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="IT - SUPER TENNIS UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/SUPERTENNIS.png" group-title="Olaszország",IT - SUPER TENNIS UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - SKY SPORTS #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="Olaszország",##### IT - SKY SPORTS #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1135344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT F1 FHD" tvg-logo="https://go4.pw/germany/sky_f12.png" group-title="Olaszország",IT - SKY SPORT F1 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1379846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT F1 HD" tvg-logo="https://go4.pw/germany/sky_f12.png" group-title="Olaszország",IT - SKY SPORT F1 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1379847.m3u8
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="IT - SKY SPORT 24 UHD" tvg-logo="https://go4.pw/ITALY/skysport24.png" group-title="Olaszország",IT - SKY SPORT 24 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76635.m3u8
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="IT - SKY SPORT 24 HD" tvg-logo="https://go4.pw/ITALY/skysport24.png" group-title="Olaszország",IT - SKY SPORT 24 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76674.m3u8
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="IT - SKY SPORT UNO UHD " tvg-logo="https://go4.pw/ITALY/skysportuno.png" group-title="Olaszország",IT - SKY SPORT UNO UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76636.m3u8
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="IT - SKY SPORT UNO HD" tvg-logo="https://go4.pw/ITALY/skysportuno.png" group-title="Olaszország",IT - SKY SPORT UNO HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76675.m3u8
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="IT - SKY SPORT FOOTBALL UHD " tvg-logo="https://go4.pw/ITALY/skysportfootb.png" group-title="Olaszország",IT - SKY SPORT FOOTBALL UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76637.m3u8
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="IT - SKY SPORT FOOTBALL HD " tvg-logo="https://go4.pw/ITALY/skysportfootb.png" group-title="Olaszország",IT - SKY SPORT FOOTBALL HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76676.m3u8
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="IT - SKY SPORT ARENA UHD" tvg-logo="https://go4.pw/ITALY/skysportarena.png" group-title="Olaszország",IT - SKY SPORT ARENA UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76638.m3u8
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="IT - SKY SPORT ARENA HD" tvg-logo="https://go4.pw/ITALY/skysportarena.png" group-title="Olaszország",IT - SKY SPORT ARENA HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76677.m3u8
+#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="IT - SKY SPORT NBA UHD" tvg-logo="https://go4.pw/ITALY/skysportnba.png" group-title="Olaszország",IT - SKY SPORT NBA UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76639.m3u8
+#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="IT - SKY SPORT NBA HD" tvg-logo="https://go4.pw/ITALY/skysportnba.png" group-title="Olaszország",IT - SKY SPORT NBA HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76678.m3u8
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="IT - SKY SPORT MOTOGP UHD ?" tvg-logo="https://go4.pw/ITALY/skysportmotogp.png" group-title="Olaszország",IT - SKY SPORT MOTOGP UHD ?
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76641.m3u8
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="IT - SKY SPORT MOTOGP HD" tvg-logo="https://go4.pw/ITALY/skysportmotogp.png" group-title="Olaszország",IT - SKY SPORT MOTOGP HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76680.m3u8
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="IT - SKY SPORT CALCIO UHD" tvg-logo="https://go4.pw/ITALY/skysportcalcio.png" group-title="Olaszország",IT - SKY SPORT CALCIO UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/366309.m3u8
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="IT - SKY SPORT CALCIO HD" tvg-logo="https://go4.pw/ITALY/skysportcalcio.png" group-title="Olaszország",IT - SKY SPORT CALCIO HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900937.m3u8
+#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="IT - SKY SPORT GOLF FHD" tvg-logo="https://go4.pw/ITALY/skysportgolf.png" group-title="Olaszország",IT - SKY SPORT GOLF FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498731.m3u8
+#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="IT - SKY SPORT GOLF HD" tvg-logo="https://go4.pw/ITALY/skysportgolf.png" group-title="Olaszország",IT - SKY SPORT GOLF HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900936.m3u8
+#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="IT - SKY SPORT MAX HD" tvg-logo="https://go4.pw/ITALY/skysportmax.png" group-title="Olaszország",IT - SKY SPORT MAX HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900935.m3u8
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="IT - SKY SPORT TENNIS FHD" tvg-logo="https://go4.pw/ITALY/skysporttennis.png" group-title="Olaszország",IT - SKY SPORT TENNIS FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498732.m3u8
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="IT - SKY SPORT TENNIS HD" tvg-logo="https://go4.pw/ITALY/skysporttennis.png" group-title="Olaszország",IT - SKY SPORT TENNIS HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT BAR PRIMEVIDEO FHD" tvg-logo="https://go4.pw/EUROPE/NORWAY/PRIME_PPV.png" group-title="Olaszország",IT - SKY SPORT BAR PRIMEVIDEO FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1416600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT BAR PRIMEVIDEO HD" tvg-logo="https://go4.pw/EUROPE/NORWAY/PRIME_PPV.png" group-title="Olaszország",IT - SKY SPORT BAR PRIMEVIDEO HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1416599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT BAR PRIMEVIDEO SD" tvg-logo="https://go4.pw/EUROPE/NORWAY/PRIME_PPV.png" group-title="Olaszország",IT - SKY SPORT BAR PRIMEVIDEO SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1416598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - INFINITY  #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="Olaszország",##### IT - INFINITY  #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1137565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - INFINITY 1 FHD" tvg-logo="https://go4.pw/ITALY/INFINITY.png" group-title="Olaszország",IT - INFINITY 1 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/521192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - INFINITY 2 FHD " tvg-logo="https://go4.pw/ITALY/INFINITY.png" group-title="Olaszország",IT - INFINITY 2 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/521191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - INFINITY 3 FHD" tvg-logo="https://go4.pw/ITALY/INFINITY.png" group-title="Olaszország",IT - INFINITY 3 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/521190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - INFINITY 4 FHD" tvg-logo="https://go4.pw/ITALY/INFINITY.png" group-title="Olaszország",IT - INFINITY 4 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/521189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - INFINITY 5 FHD" tvg-logo="https://go4.pw/ITALY/INFINITY.png" group-title="Olaszország",IT - INFINITY 5 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/521188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - INFINITY 6 FHD" tvg-logo="https://go4.pw/ITALY/INFINITY.png" group-title="Olaszország",IT - INFINITY 6 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/521187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - MY SPORTS #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="Olaszország",##### IT - MY SPORTS #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1136951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - MY SPORTS 1 UHD  " tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="Olaszország",IT - MY SPORTS 1 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/269026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - MY SPORTS 2 UHD  " tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="Olaszország",IT - MY SPORTS 2 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/269027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - MY SPORTS 3 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="Olaszország",IT - MY SPORTS 3 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/269028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - MY SPORTS 4 UHD  " tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="Olaszország",IT - MY SPORTS 4 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/269029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - MY SPORTS 5 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="Olaszország",IT - MY SPORTS 5 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - MY SPORTS 6 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="Olaszország",IT - MY SPORTS 6 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - MY SPORTS 7 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="Olaszország",IT - MY SPORTS 7 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - MY SPORTS 8 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="Olaszország",IT - MY SPORTS 8 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - SKY CALCIO #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="Olaszország",##### IT - SKY CALCIO #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1118813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 1 UHD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="Olaszország",IT - SKY CALCIO 1 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 2 UHD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="Olaszország",IT - SKY CALCIO 2 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 3 UHD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="Olaszország",IT - SKY CALCIO 3 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 4 UHD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="Olaszország",IT - SKY CALCIO 4 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 5 UHD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="Olaszország",IT - SKY CALCIO 5 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 6 UHD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="Olaszország",IT - SKY CALCIO 6 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 7 UHD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="Olaszország",IT - SKY CALCIO 7 UHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 1 HD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="Olaszország",IT - SKY CALCIO 1 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/312288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 2 HD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="Olaszország",IT - SKY CALCIO 2 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 3 HD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="Olaszország",IT - SKY CALCIO 3 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 4 HD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="Olaszország",IT - SKY CALCIO 4 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 5 HD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="Olaszország",IT - SKY CALCIO 5 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 6 HD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="Olaszország",IT - SKY CALCIO 6 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - EQU TV" tvg-logo="https://go4.pw/EUROPE/equ.png" group-title="Olaszország",IT - EQU TV
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1425213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - DAZN #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="Olaszország",##### IT - DAZN #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1110507.m3u8
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-name="IT - DAZN 01" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN 01
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/254511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 02" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN 02
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/254512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 03" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN 03
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/254513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 04" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN 04
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/254514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 05 " tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN 05
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/254515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 06" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN 06
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/254516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 07" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN 07
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/254517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 08" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN 08
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/254518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 09" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN 09
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/254519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 10" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN 10
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/254520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN  11 :  " tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN  11 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/451878.m3u8
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-name="IT - ZONA DAZN HD" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - ZONA DAZN HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/521193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - DAZN SERIE A #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="Olaszország",##### IT - DAZN SERIE A #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1336867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - VETRINA-DAZN-SERIE-A FHD" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - VETRINA-DAZN-SERIE-A FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427429.m3u8
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-name="IT - ZONA DAZN SERIE A HD" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - ZONA DAZN SERIE A HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 1 HD JUVENTUS  " tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 1 HD JUVENTUS
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 2 HD-INTER" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 2 HD-INTER
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 3 HD MILAN" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 3 HD MILAN
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 4 HD NAPOLI" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 4 HD NAPOLI
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 5 HD ROMA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 5 HD ROMA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 6 HD" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 6 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 7 HD COMO" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 7 HD COMO
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 8 HD ATALANTA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 8 HD ATALANTA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 9 HD BOLOGNA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 9 HD BOLOGNA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 10 HD GENOA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 10 HD GENOA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 11 HD FIORENTINA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 11 HD FIORENTINA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 12 HD MONZA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 12 HD MONZA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 13 HD EMPOLI" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 13 HD EMPOLI
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 14 HD UDINESE" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 14 HD UDINESE
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 15 HD HELLAS VERONA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 15 HD HELLAS VERONA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 16 HD TORINO" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 16 HD TORINO
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 17 HD VENEZIA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 17 HD VENEZIA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 18 HD LECCE" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 18 HD LECCE
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 19 HD CAGLIARI" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 19 HD CAGLIARI
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 20 HD PARMA " tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE A 20 HD PARMA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/427488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - DAZN SERIE B #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="Olaszország",##### IT - DAZN SERIE B #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1336866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 1 BARI" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 1 BARI
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 2 BRESCIA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 2 BRESCIA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 3 CARRARESE" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 3 CARRARESE
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 4 CATANZARO" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 4 CATANZARO
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 5 CESENA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 5 CESENA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 6 CITTADELLA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 6 CITTADELLA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 7 COSENZA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 7 COSENZA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 8 CREMONESE" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 8 CREMONESE
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 9 FROSINONE" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 9 FROSINONE
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 10 JUVE STABIA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 10 JUVE STABIA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 11 MANTOVA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 11 MANTOVA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 12 MODENA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 12 MODENA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 13 PALERMO" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 13 PALERMO
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 14 PISA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 14 PISA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 15 REGGIANA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 15 REGGIANA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 16 SALERNITANA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 16 SALERNITANA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 17 SAMPDORIA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 17 SAMPDORIA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 18 SASSUOLO" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 18 SASSUOLO
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 19 SPEZIA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 19 SPEZIA
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 20 SÜDTIROL" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="Olaszország",IT - DAZN SERIE B 20 SÜDTIROL
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1039564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - DAZN FORMULA 1 #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="Olaszország",##### IT - DAZN FORMULA 1 #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1336868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT - VETRINA DAZN F2 HD" tvg-logo="https://go4.pw/SPAIN/DAZNF.png" group-title="Olaszország",IT - VETRINA DAZN F2 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68755.m3u8
+
 
 
 
