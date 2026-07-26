@@ -2554,7 +2554,14 @@ https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
 #EXTINF:-1 group-title="Románia-Moldova",Moldova 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 
+#EXTINF:-1 group-title="Románia-Moldova",Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 
+#EXTINF:-1 group-title="Románia-Moldova",Est TV (Neamt)
+http://89.38.8.130:39435
+
+#EXTINF:-1 group-title="Románia-Moldova",Super TV HD
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
 
 
 
