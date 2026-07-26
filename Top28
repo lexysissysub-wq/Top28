@@ -2281,6 +2281,56 @@ https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="VILÁG", 8  COSTA RICA
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+ #EXTINF:-1 group-title="VILÁG",   30A The Beach Show
+https://30a-tv.com/beachy.m3u8
+
+#EXTINF:-1 group-title="VILÁG" tvg-logo="https://i.imgur.com/hSYez3V.png",Atlanta Channel (720p)
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+
+#EXTINF:-1 group-title="VILÁG" tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/live_beachtv30a_0_0.jpg",Beach TV (30A) (720p)
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="VILÁG" tvg-logo="https://image.roku.com/developer_channels/prod/35acf46bccd9f553b11b66ef1fa709c1fbd3a480c1d9394d3880e69911bafa2e.png",Beach TV (Panama City) (720p)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="VILÁG" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV (Pawleys Island) (720p)
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="VILÁG" tvg-logo="https://i.imgur.com/fEjPBk3.png",Key TV (720p)
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="VILÁG" tvg-logo="https://i.imgur.com/tf3KGP4.jpg",New Orleans TV (720p)
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="VILÁG" tvg-logo="https://i.imgur.com/QSH4Z4p.png",Nothing Scripted
+https://30a-tv.com/NothingScripted.m3u8
+
+#EXTINF:-1 group-title="VILÁG",Orange TV (720p)
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="VILÁG" tvg-logo="https://i.imgur.com/ocMGZM6.png",PBS KET (720p)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
+
+#EXTINF:-1 group-title="VILÁG" tvg-logo="https://worcester.vod.castus.tv/wccalive.png",WCCA-TV (Worcester)
+https://worcester.vod.castus.tv/live/ch1.m3u8
+
+#EXTINF:-1 group-title="VILÁG",Alhayat TV
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b2128000.m3u8
+
+#EXTINF:-1 group-title="VILÁG",Reshet 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index_3.m3u8
+
+#EXTINF:-1 group-title="VILÁG",Ran TV Israel
+https://streaminglive.co.il:3730/live/raniamranilive.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
