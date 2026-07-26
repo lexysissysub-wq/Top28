@@ -2827,6 +2827,7 @@ http://hls127.freeott.top:8080/STS_Kids/video.m3u8
 
 
 
+
 #EXTINF:-1 group-title="Románia-Moldova",Realitatea TV
 https://realitatealive.md/tv/rlive.m3u8
 
@@ -2927,6 +2928,102 @@ https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
 
 #EXTINF:-1 group-title="Örményország",Re TV
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Oroszország",Bollywood HD
+http://176.118.197.101/Bollywood_HD/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Cinema
+http://176.118.197.101/Cinema/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Dom Kino
+http://176.118.197.101/Dom_kino/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Evrokino
+http://176.118.197.101/Evrokino/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",HCT
+http://176.118.197.101/HCT/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Illuzion+
+http://176.118.197.101/Illuzion+/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Kino Komediya
+http://176.118.197.101/Kinokomediya/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",KinoMix
+http://176.118.197.101/Kinomix/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Rodnoe Kino
+http://176.118.197.101/RodnoeKino/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Kinopokaz
+http://176.118.197.101/Kinopokaz/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Kinoseria
+http://176.118.197.101/Kinoseria/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Komediya
+http://176.118.197.101/Komediya/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Lubimoe Kino
+http://176.118.197.101/LubimoeKino/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Mir Seriale
+http://176.118.197.101/MirSeriala/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Draiv
+http://176.118.197.125/Draiv/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Zdorovoe
+http://176.118.197.125/Zdorovoe-TV/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",2x2
+http://176.118.197.101/2x2/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",CTC
+http://176.118.197.101/CTC/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Che
+http://176.118.197.101/Che/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Nostalgiya
+http://176.118.197.101/Nostalgiya/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Retro
+http://176.118.197.101/Retro/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Boomerang
+http://176.118.197.125/Boomerang/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Bober
+http://176.118.197.125/Bober/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Ani
+http://176.118.197.125/Ani/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Gulli Girl
+http://176.118.197.125/Gulli-Girl/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",JimJam
+http://176.118.197.125/JimJam/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Karusel
+http://176.118.197.125/Karusel/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Mama
+http://176.118.197.125/Mama/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",Match
+http://176.118.197.125/Match/index.m3u8
+
+#EXTINF:-1 group-title="Oroszország",KHL
+http://176.118.197.101/KHL/index.m3u8
+
+
+
+
+
 
 
 
