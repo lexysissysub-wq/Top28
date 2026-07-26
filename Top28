@@ -1978,11 +1978,1301 @@ http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/19188/index.m3u8
 
 
 
-
-
-
-
-
+#EXTM3U
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TF1 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/634532
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE 2 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127275
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE 3 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127276
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_21FD_44C_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE 4 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127278
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2330_442_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE 5 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127279
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="|FR| 6TER FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="Franciaország",|FR| 6TER FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127280
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="|FR| ARTE FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2081_432_1_C00000_0_0_0.png" group-title="Franciaország",|FR| ARTE FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127281
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| M6 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127282
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 INTERNATIONAL FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| M6 INTERNATIONAL FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/272388
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="|FR| W9 FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2458_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| W9 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127283
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="|FR| NRJ 12 FHD" tvg-logo="http://vodkom.com/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="Franciaország",|FR| NRJ 12 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127284
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="|FR| TFX FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TFX FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127285
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="|FR| TF1 SERIES FILMS FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TF1 SERIES FILMS FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127286
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name="|FR| CSTAR FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png " group-title="Franciaország",|FR| CSTAR FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127288
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="|FR| TMC FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TMC FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127289
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="|FR| RMC STORY FHD" tvg-logo="http://vodkom.com/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="Franciaország",|FR| RMC STORY FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127290
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="|FR| CHERIE 25 FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_1_2F6D_454_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CHERIE 25 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127291
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 INTERNATIONAL HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| M6 INTERNATIONAL HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/272387
+#EXTINF:-1 tvg-ID="" tvg-name="-----| MUSIQUE FRANCE FHD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| MUSIQUE FRANCE FHD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127337
+#EXTINF:-1 tvg-ID="CStarHitsFrance.fr" tvg-name="|FR| CSTAR HITS FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/CSTAR_HITS_FRANCE.png" group-title="Franciaország",|FR| CSTAR HITS FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127339
+#EXTINF:-1 tvg-ID="traceurban.fr" tvg-name="|FR| TRACE URBAN FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/TRACE_URBAN.png" group-title="Franciaország",|FR| TRACE URBAN FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127340
+#EXTINF:-1 tvg-ID="TraceLatina.fr" tvg-name="|FR| TRACE LATINA FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/TRACE_LATINA.png" group-title="Franciaország",|FR| TRACE LATINA FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127341
+#EXTINF:-1 tvg-ID="melody.fr" tvg-name="|FR| MELODY FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/MELODY.png" group-title="Franciaország",|FR| MELODY FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127342
+#EXTINF:-1 tvg-ID="nrjhits.fr" tvg-name="|FR| NRJ HITS FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/NRJ_HITS.png" group-title="Franciaország",|FR| NRJ HITS FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127343
+#EXTINF:-1 tvg-ID="m6music.fr" tvg-name="|FR| M6 MUSIC FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/M6_MUSIC.png" group-title="Franciaország",|FR| M6 MUSIC FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127344
+#EXTINF:-1 tvg-ID="mcm.fr" tvg-name="|FR| MCM FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/MCM.png" group-title="Franciaország",|FR| MCM FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127345
+#EXTINF:-1 tvg-ID="mcmtop.fr" tvg-name="|FR| MCM TOP FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/" group-title="Franciaország",|FR| MCM TOP FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127346
+#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="|FR| MTV FRANCE FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/MTV.png" group-title="Franciaország",|FR| MTV FRANCE FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127347
+#EXTINF:-1 tvg-ID="rfmtv.fr" tvg-name="|FR| RFM TV FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/RFM_TV.png" group-title="Franciaország",|FR| RFM TV FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127349
+#EXTINF:-1 tvg-ID="mezzo.fr" tvg-name="|FR| MEZZO FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/MEZZO.png" group-title="Franciaország",|FR| MEZZO FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127351
+#EXTINF:-1 tvg-ID="mezzolive.fr" tvg-name="|FR| MEZZO LIVE FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/MEZZO_LIVE.png" group-title="Franciaország",|FR| MEZZO LIVE FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127352
+#EXTINF:-1 tvg-ID="OlympiaTV.fr" tvg-name="|FR| OLYMPIA TV FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/OLYMPIA_TV.png" group-title="Franciaország",|FR| OLYMPIA TV FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127353
+#EXTINF:-1 tvg-ID="" tvg-name="-----| INFOS FRANCE FHD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| INFOS FRANCE FHD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126749
+#EXTINF:-1 tvg-ID="lachainemeteo.fr" tvg-name="|FR| LA CHAINE METEO FHD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/LA_CHAINE_METEO.png" group-title="Franciaország",|FR| LA CHAINE METEO FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126750
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="|FR| CNEWS FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2336_442_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CNEWS FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126751
+#EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name="|FR| FRANCE INFO FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_1F45_42E_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE INFO FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126752
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="|FR| BFM TV FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_206D_432_1_C00000_0_0_0.png" group-title="Franciaország",|FR| BFM TV FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126753
+#EXTINF:-1 tvg-ID="bfmbusiness.fr" tvg-name="|FR| BFM BUSINESS FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_2_2397_44A_1_C00000_0_0_0.png" group-title="Franciaország",|FR| BFM BUSINESS FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126754
+#EXTINF:-1 tvg-ID="publicsenat.fr" tvg-name="|FR| LCP FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2337_442_1_C00000_0_0_0.png" group-title="Franciaország",|FR| LCP FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126757
+#EXTINF:-1 tvg-ID="euronews.fr" tvg-name="|FR| EURONEWS FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_1_79F4_443_1_C00000_0_0_0.png" group-title="Franciaország",|FR| EURONEWS FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126758
+#EXTINF:-1 tvg-ID="TV5MondeEurope.fr" tvg-name="|FR| TV5 MONDE FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_26B6_43E_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TV5 MONDE FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126760
+#EXTINF:-1 tvg-ID="france24.fr" tvg-name="|FR| FRANCE24 FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_1_1AFA_3FE_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE24 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126761
+#EXTINF:-1 tvg-ID="i24news.fr" tvg-name="|FR| I24 NEWS FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_1_7A4B_410_1_C00000_0_0_0.png" group-title="Franciaország",|FR| I24 NEWS FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126762
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| RT NEWS FHD" tvg-logo="" group-title="Franciaország",|FR| RT NEWS FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/1054874
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ROUGE TV FHD" tvg-logo="http://vodkom.com/Logo/FRANCE.INFO/Rouge_TV_CH.png" group-title="Franciaország",|FR| ROUGE TV FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126763
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| RT NEWS HD" tvg-logo="" group-title="Franciaország",|FR| RT NEWS HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/1054875
+#EXTINF:-1 tvg-ID="EvenementsSports4KUHD.fr" tvg-name="|FR| CANAL+ EVENEMENT " tvg-logo="" group-title="Franciaország",|FR| CANAL+ EVENEMENT
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/1003904
+#EXTINF:-1 tvg-ID="CanalPlusLive1.fr" tvg-name="|FR| CANAL+LIVE 1" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live1.png" group-title="Franciaország",|FR| CANAL+LIVE 1
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666026
+#EXTINF:-1 tvg-ID="CanalPlusLive2.fr" tvg-name="|FR| CANAL+LIVE 2" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live2.png" group-title="Franciaország",|FR| CANAL+LIVE 2
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666027
+#EXTINF:-1 tvg-ID="CanalPlusLive3.fr" tvg-name="|FR| CANAL+LIVE 3" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live3.png" group-title="Franciaország",|FR| CANAL+LIVE 3
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666028
+#EXTINF:-1 tvg-ID="CanalPlusLive4.fr" tvg-name="|FR| CANAL+LIVE 4" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live4.png" group-title="Franciaország",|FR| CANAL+LIVE 4
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666029
+#EXTINF:-1 tvg-ID="CanalPlusLive5.fr" tvg-name="|FR| CANAL+LIVE 5" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live5.png" group-title="Franciaország",|FR| CANAL+LIVE 5
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666030
+#EXTINF:-1 tvg-ID="CanalPlusLive6.fr" tvg-name="|FR| CANAL+LIVE 6" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live6.png" group-title="Franciaország",|FR| CANAL+LIVE 6
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666031
+#EXTINF:-1 tvg-ID="CanalPlusLive7.fr" tvg-name="|FR| CANAL+LIVE 7" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live7.png" group-title="Franciaország",|FR| CANAL+LIVE 7
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666032
+#EXTINF:-1 tvg-ID="CanalPlusLive8.fr" tvg-name="|FR| CANAL+LIVE 8" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live8.png" group-title="Franciaország",|FR| CANAL+LIVE 8
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666033
+#EXTINF:-1 tvg-ID="CanalPlusLive9.fr" tvg-name="|FR| CANAL+LIVE 9" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live9.png" group-title="Franciaország",|FR| CANAL+LIVE 9
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666034
+#EXTINF:-1 tvg-ID="CanalPlusLive10.fr" tvg-name="|FR| CANAL+LIVE 10" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live10.png" group-title="Franciaország",|FR| CANAL+LIVE 10
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666035
+#EXTINF:-1 tvg-ID="CanalPlusLive11.fr" tvg-name="|FR| CANAL+LIVE 11" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live11.png" group-title="Franciaország",|FR| CANAL+LIVE 11
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666036
+#EXTINF:-1 tvg-ID="CanalPlusLive12.fr" tvg-name="|FR| CANAL+LIVE 12" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live12.png" group-title="Franciaország",|FR| CANAL+LIVE 12
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666037
+#EXTINF:-1 tvg-ID="CanalPlusLive13.fr" tvg-name="|FR| CANAL+LIVE 13" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live13.png" group-title="Franciaország",|FR| CANAL+LIVE 13
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666038
+#EXTINF:-1 tvg-ID="CanalPlusLive14.fr" tvg-name="|FR| CANAL+LIVE 14" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live14.png" group-title="Franciaország",|FR| CANAL+LIVE 14
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666039
+#EXTINF:-1 tvg-ID="CanalPlusLive15.fr" tvg-name="|FR| CANAL+LIVE 15" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live15.png" group-title="Franciaország",|FR| CANAL+LIVE 15
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666040
+#EXTINF:-1 tvg-ID="CanalPlusLive16.fr" tvg-name="|FR| CANAL+LIVE 16" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live16.png" group-title="Franciaország",|FR| CANAL+LIVE 16
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666041
+#EXTINF:-1 tvg-ID="CanalPlusLive17.fr" tvg-name="|FR| CANAL+LIVE 17" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live17.png" group-title="Franciaország",|FR| CANAL+LIVE 17
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666042
+#EXTINF:-1 tvg-ID="CanalPlusLive18.fr" tvg-name="|FR| CANAL+LIVE 18" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live18.png" group-title="Franciaország",|FR| CANAL+LIVE 18
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666043
+#EXTINF:-1 tvg-ID="CanalPlusLive19.fr" tvg-name="|FR| CANAL+LIVE 19" tvg-logo="http://vodkom.com/MYFRANCE/Canal_plus_live19.png" group-title="Franciaország",|FR| CANAL+LIVE 19
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/666044
+#EXTINF:-1 tvg-ID="" tvg-name="-----| RMC SPORT FHD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| RMC SPORT FHD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126917
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="|FR| RMC SPORT 1 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/RMC_SPORT_1.png" group-title="Franciaország",|FR| RMC SPORT 1 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658067
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT 2 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/RMC_SPORT_2.png" group-title="Franciaország",|FR| RMC SPORT 2 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658068
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT LIVE 3 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/rmcsport3.png" group-title="Franciaország",|FR| RMC SPORT LIVE 3 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658069
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT LIVE 4 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/rmcsport4.png" group-title="Franciaország",|FR| RMC SPORT LIVE 4 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658070
+#EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="|FR| RMC SPORT LIVE 5 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/38608.png" group-title="Franciaország",|FR| RMC SPORT LIVE 5 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126923
+#EXTINF:-1 tvg-ID="rmcsportlive7.fr" tvg-name="|FR| RMC SPORT LIVE 7 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/38602.png" group-title="Franciaország",|FR| RMC SPORT LIVE 7 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126925
+#EXTINF:-1 tvg-ID="rmcsportlive8.fr" tvg-name="|FR| RMC SPORT LIVE 8 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/38599.png" group-title="Franciaország",|FR| RMC SPORT LIVE 8 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126926
+#EXTINF:-1 tvg-ID="rmcsportlive9.fr" tvg-name="|FR| RMC SPORT LIVE 9 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/38596.png" group-title="Franciaország",|FR| RMC SPORT LIVE 9 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126927
+#EXTINF:-1 tvg-ID="rmcsportlive10.fr" tvg-name="|FR| RMC SPORT LIVE 10 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/38593.png" group-title="Franciaország",|FR| RMC SPORT LIVE 10 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126928
+#EXTINF:-1 tvg-ID="rmcsportlive11.fr" tvg-name="|FR| RMC SPORT LIVE 11 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/38590.png" group-title="Franciaország",|FR| RMC SPORT LIVE 11 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126929
+#EXTINF:-1 tvg-ID="rmcsportlive12.fr" tvg-name="|FR| RMC SPORT LIVE 12 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/38587.png" group-title="Franciaország",|FR| RMC SPORT LIVE 12 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126930
+#EXTINF:-1 tvg-ID="" tvg-name="-----| BEIN SPORTS FHD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| BEIN SPORTS FHD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126934
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="|FR| BEIN SPORTS 1 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/9913.png" group-title="Franciaország",|FR| BEIN SPORTS 1 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126935
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="|FR| BEIN SPORTS 2 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/9914.png" group-title="Franciaország",|FR| BEIN SPORTS 2 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126936
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="|FR| BEIN SPORTS 3 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/9915.png" group-title="Franciaország",|FR| BEIN SPORTS 3 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126937
+#EXTINF:-1 tvg-ID="beINSPORTSMAX4.fr" tvg-name="|FR| BEIN MAX 4 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_4.png" group-title="Franciaország",|FR| BEIN MAX 4 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126938
+#EXTINF:-1 tvg-ID="beINSPORTSMAX5.fr" tvg-name="|FR| BEIN MAX 5 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_5.png" group-title="Franciaország",|FR| BEIN MAX 5 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126939
+#EXTINF:-1 tvg-ID="beINSPORTSMAX6.fr" tvg-name="|FR| BEIN MAX 6 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_6.png" group-title="Franciaország",|FR| BEIN MAX 6 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126940
+#EXTINF:-1 tvg-ID="beINSPORTSMAX7.fr" tvg-name="|FR| BEIN MAX 7 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_7.png" group-title="Franciaország",|FR| BEIN MAX 7 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126941
+#EXTINF:-1 tvg-ID="beINSPORTSMAX8.fr" tvg-name="|FR| BEIN MAX 8 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_8.png" group-title="Franciaország",|FR| BEIN MAX 8 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126942
+#EXTINF:-1 tvg-ID="beINSPORTSMAX9.fr" tvg-name="|FR| BEIN MAX 9 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_9.png" group-title="Franciaország",|FR| BEIN MAX 9 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126943
+#EXTINF:-1 tvg-ID="beINSPORTSMAX10.fr" tvg-name="|FR| BEIN MAX 10 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_10.png" group-title="Franciaország",|FR| BEIN MAX 10 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126944
+#EXTINF:-1 tvg-ID="" tvg-name="-----| SPORTS FHD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| SPORTS FHD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126945
+#EXTINF:-1 tvg-ID="equidia.fr" tvg-name="|FR| EQUIDIA LIVE FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/EQUIDIA.png" group-title="Franciaország",|FR| EQUIDIA LIVE FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126956
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="|FR| EUROSPORT 1 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/EUROSPORT_1.png" group-title="Franciaország",|FR| EUROSPORT 1 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126957
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="|FR| EUROSPORT 2 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/EUROSPORT_2.png" group-title="Franciaország",|FR| EUROSPORT 2 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126958
+#EXTINF:-1 tvg-ID="oltv.fr" tvg-name="|FR| OL TV FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/" group-title="Franciaország",|FR| OL TV FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126952
+#EXTINF:-1 tvg-ID="infosportplus.fr" tvg-name="|FR| INFOSPORT+ FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/INFOSPORT+.png" group-title="Franciaország",|FR| INFOSPORT+ FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126954
+#EXTINF:-1 tvg-ID="lequipe21.fr" tvg-name="|FR| L EQUIPE FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/L_EQUIPE.png" group-title="Franciaország",|FR| L EQUIPE FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126955
+#EXTINF:-1 tvg-ID="eurosport3601.fr" tvg-name="|FR| EUROSPORT 360 1 FHD" tvg-logo="" group-title="Franciaország",|FR| EUROSPORT 360 1 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/606119
+#EXTINF:-1 tvg-ID="eurosport3602.fr" tvg-name="|FR| EUROSPORT 360 2 FHD" tvg-logo="" group-title="Franciaország",|FR| EUROSPORT 360 2 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/606120
+#EXTINF:-1 tvg-ID="eurosport3603.fr" tvg-name="|FR| EUROSPORT 360 3 FHD" tvg-logo="" group-title="Franciaország",|FR| EUROSPORT 360 3 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/606121
+#EXTINF:-1 tvg-ID="eurosport3604.fr" tvg-name="|FR| EUROSPORT 360 4 FHD" tvg-logo="" group-title="Franciaország",|FR| EUROSPORT 360 4 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/606122
+#EXTINF:-1 tvg-ID="eurosport3605.fr" tvg-name="|FR| EUROSPORT 360 5 FHD" tvg-logo="" group-title="Franciaország",|FR| EUROSPORT 360 5 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/606123
+#EXTINF:-1 tvg-ID="automotolachaine.fr" tvg-name="|FR| AUTOMOTO FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/AUTOMOTO_la_chaine.png" group-title="Franciaország",|FR| AUTOMOTO FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126959
+#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="|FR| GOLF+ FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/GOLF+.png" group-title="Franciaország",|FR| GOLF+ FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126960
+#EXTINF:-1 tvg-ID="es1.fr" tvg-name="|FR| ES1 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/ES1.png" group-title="Franciaország",|FR| ES1 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126961
+#EXTINF:-1 tvg-ID="MotorVisionTV.fr" tvg-name="|FR| MOTORVISION HD" tvg-logo="" group-title="Franciaország",|FR| MOTORVISION HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/260524
+#EXTINF:-1 tvg-ID="LEquipeLive1.fr" tvg-name="|FR| LEQUIPE LIVE 1 HD" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 1 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631889
+#EXTINF:-1 tvg-ID="LEquipeLive2.fr" tvg-name="|FR| LEQUIPE LIVE 2 HD" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 2 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631890
+#EXTINF:-1 tvg-ID="LEquipeLive3.fr" tvg-name="|FR| LEQUIPE LIVE 3 HD (EVENT)" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 3 HD (EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631891
+#EXTINF:-1 tvg-ID="LEquipeLive4.fr" tvg-name="|FR| LEQUIPE LIVE 4 HD (EVENT)" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 4 HD (EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631892
+#EXTINF:-1 tvg-ID="LEquipeLive5.fr" tvg-name="|FR| LEQUIPE LIVE 5 HD (EVENT)" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 5 HD (EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631893
+#EXTINF:-1 tvg-ID="LEquipeLive6.fr" tvg-name="|FR| LEQUIPE LIVE 6 HD (EVENT)" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 6 HD (EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631894
+#EXTINF:-1 tvg-ID="LEquipeLive7.fr" tvg-name="|FR| LEQUIPE LIVE 7 HD (EVENT)" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 7 HD (EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631895
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 8 HD (EVENT)" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 8 HD (EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631896
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 9 HD (EVENT)" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 9 HD (EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631897
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 10 HD (EVENT)" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 10 HD (EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631898
+#EXTINF:-1 tvg-ID="LEquipeLive1.fr" tvg-name="|FR| LEQUIPE LIVE 1 4K" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 1 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631899
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 2 4K" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 2 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631900
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 3 4K (EVENT)" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 3 4K (EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631901
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 4 4K (EVENT)" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 4 4K (EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631902
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 5 4K (EVENT)" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 5 4K (EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631903
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 6 4K (EVENT)" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 6 4K (EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631904
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 7 4K (EVENT)" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 7 4K (EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631905
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 8 4K (EVENT)" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 8 4K (EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631906
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 9 4K (EVENT)" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 9 4K (EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631907
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 10 4K (EVENT)" tvg-logo="" group-title="Franciaország",|FR| LEQUIPE LIVE 10 4K (EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/631908
+#EXTINF:-1 tvg-ID="dazn.fr" tvg-name="|FR| DAZN 1 FRANCE HD" tvg-logo="http://vodkom.com/MYFRANCE/DAZN_PPV_HD.png" group-title="Franciaország",|FR| DAZN 1 FRANCE HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560825
+#EXTINF:-1 tvg-ID="DAZNLigue1M1.fr" tvg-name="|FR| DAZN EVENTS 1 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/Logo/Logo/International/DAZN/DAZN.png" group-title="Franciaország",|FR| DAZN EVENTS 1 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560826
+#EXTINF:-1 tvg-ID="DAZNLigue1M2.fr" tvg-name="|FR| DAZN EVENTS 2 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/Logo/Logo/International/DAZN/DAZN.png" group-title="Franciaország",|FR| DAZN EVENTS 2 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560827
+#EXTINF:-1 tvg-ID="DAZNLigue1M3.fr" tvg-name="|FR| DAZN EVENTS 3 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/Logo/Logo/International/DAZN/DAZN.png" group-title="Franciaország",|FR| DAZN EVENTS 3 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560828
+#EXTINF:-1 tvg-ID="DAZNLigue1M4.fr" tvg-name="|FR| DAZN EVENTS 4 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/Logo/Logo/International/DAZN/DAZN.png" group-title="Franciaország",|FR| DAZN EVENTS 4 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560829
+#EXTINF:-1 tvg-ID="DAZNLigue1M4.fr" tvg-name="|FR| DAZN EVENTS 5 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/Logo/Logo/International/DAZN/DAZN.png" group-title="Franciaország",|FR| DAZN EVENTS 5 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560830
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 6 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/Logo/Logo/International/DAZN/DAZN.png" group-title="Franciaország",|FR| DAZN EVENTS 6 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560831
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 7 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/Logo/Logo/International/DAZN/DAZN.png" group-title="Franciaország",|FR| DAZN EVENTS 7 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560832
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 8 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/Logo/Logo/International/DAZN/DAZN.png" group-title="Franciaország",|FR| DAZN EVENTS 8 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560833
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 9 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/Logo/Logo/International/DAZN/DAZN.png" group-title="Franciaország",|FR| DAZN EVENTS 9 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560834
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 10 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/Logo/Logo/International/DAZN/DAZN.png" group-title="Franciaország",|FR| DAZN EVENTS 10 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560835
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (SKWEEK) - LIVE 1 FHD (ONLY ON EVENT)" tvg-logo="" group-title="Franciaország",|FR| (SKWEEK) - LIVE 1 FHD (ONLY ON EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560836
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (SKWEEK) - LIVE 2 FHD (ONLY ON EVENT)" tvg-logo="" group-title="Franciaország",|FR| (SKWEEK) - LIVE 2 FHD (ONLY ON EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560837
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (SKWEEK) - LIVE 3 FHD (ONLY ON EVENT)" tvg-logo="" group-title="Franciaország",|FR| (SKWEEK) - LIVE 3 FHD (ONLY ON EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560838
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (SKWEEK) - LIVE 4 FHD (ONLY ON EVENT)" tvg-logo="" group-title="Franciaország",|FR| (SKWEEK) - LIVE 4 FHD (ONLY ON EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560839
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (SKWEEK) - LIVE 5 FHD (ONLY ON EVENT)" tvg-logo="" group-title="Franciaország",|FR| (SKWEEK) - LIVE 5 FHD (ONLY ON EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560840
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (SKWEEK) - LIVE 6 FHD (ONLY ON EVENT)" tvg-logo="" group-title="Franciaország",|FR| (SKWEEK) - LIVE 6 FHD (ONLY ON EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560841
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (SKWEEK) - LIVE 7 FHD (ONLY ON EVENT)" tvg-logo="" group-title="Franciaország",|FR| (SKWEEK) - LIVE 7 FHD (ONLY ON EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560842
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (SKWEEK) - LIVE 8 FHD (ONLY ON EVENT)" tvg-logo="" group-title="Franciaország",|FR| (SKWEEK) - LIVE 8 FHD (ONLY ON EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560843
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 1 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 1 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560844
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 2 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 2 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560845
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 3 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 3 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560846
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 4 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 4 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560847
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 5 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 5 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560848
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 6 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 6 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560849
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 7 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 7 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560850
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 8 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 8 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560851
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 9 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 9 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560852
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 10 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 10 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560853
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 11 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 11 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560854
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 12 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 12 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560855
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 13 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 13 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560856
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 14 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 14 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560857
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 15 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 15 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560858
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 16 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 16 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560859
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 17 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 17 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560860
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 18 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 18 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/560861
+#EXTINF:-1 tvg-ID="" tvg-name="-----| DÉCOUVERTE FRANCE FHD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| DÉCOUVERTE FRANCE FHD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127034
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/PLANETE+.png" group-title="Franciaország",|FR| PLANETE+ FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127035
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="|FR| PLANETE+ A&E FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/PLANETE+A_end_E.png" group-title="Franciaország",|FR| PLANETE+ A&E FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127036
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ CI FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/PLANETE+CI.png" group-title="Franciaország",|FR| PLANETE+ CI FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127037
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="|FR| NAT GEO FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/NATIONAL_GEO.png" group-title="Franciaország",|FR| NAT GEO FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127038
+#EXTINF:-1 tvg-ID="NatGeoWild.fr" tvg-name="|FR| NAT GEO WILD FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/NATIONAL_GEOGRAPHIC_WILD.png" group-title="Franciaország",|FR| NAT GEO WILD FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127039
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="|FR| DISCOVERY FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| DISCOVERY FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127040
+#EXTINF:-1 tvg-ID="discoveryinvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/INVESTIGATION_DISCOVERY_HD.png" group-title="Franciaország",|FR| DISCOVERY INVESTIGATION FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127042
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name="|FR| TREK FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/TREK.png" group-title="Franciaország",|FR| TREK FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127044
+#EXTINF:-1 tvg-ID="histoire.fr" tvg-name="|FR| HISTOIRE TV FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/HISTOIRE_TV.png" group-title="Franciaország",|FR| HISTOIRE TV FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127045
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="|FR| TOUTE L HISTOIRE FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/Toute_L_Histoire.png" group-title="Franciaország",|FR| TOUTE L HISTOIRE FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127046
+#EXTINF:-1 tvg-ID="seasons.fr" tvg-name="|FR| SEASONS FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/SEASONS.png" group-title="Franciaország",|FR| SEASONS FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127047
+#EXTINF:-1 tvg-ID="scienceandvie.fr" tvg-name="|FR| SCIENCE & VIE TV FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/Science_et_Vie.png" group-title="Franciaország",|FR| SCIENCE & VIE TV FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127048
+#EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="|FR| RMC DECOUVERTE FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/RMC_DECOUVERTE.png" group-title="Franciaország",|FR| RMC DECOUVERTE FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127049
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA TV FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/USHUAIA_TV.png" group-title="Franciaország",|FR| USHUAIA TV FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127050
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="|FR| ANIMAUX FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/ANIMAUX.png" group-title="Franciaország",|FR| ANIMAUX FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127051
+#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="|FR| CHASSE ET PECHE FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/CHASSE_ET_PECHE.png" group-title="Franciaország",|FR| CHASSE ET PECHE FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127052
+#EXTINF:-1 tvg-ID="nauticalchannel.fr" tvg-name="|FR| NAUTICAL FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/Nautical_HD.png" group-title="Franciaország",|FR| NAUTICAL FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127054
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| MOTORVISION HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| MOTORVISION HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224411
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| TEBEO HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| TEBEO HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224417
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| TOP SANTE TV HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| TOP SANTE TV HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224418
+#EXTINF:-1 tvg-ID="" tvg-name="|FR|  MY ZEN TV HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR|  MY ZEN TV HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224420
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| FRANCE 3 NOA HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| FRANCE 3 NOA HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224422
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| GOURMAND TV HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| GOURMAND TV HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224427
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| GONG HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| GONG HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224428
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| GONG MAX HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| GONG MAX HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224429
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| VIA MATELE HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| VIA MATELE HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224431
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| MAISON ET TRAVAUX HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| MAISON ET TRAVAUX HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224433
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LUXE TV HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| LUXE TV HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224434
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LUCKY JACK HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| LUCKY JACK HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224435
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LA CHAINE NORMANDE HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| LA CHAINE NORMANDE HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224436
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| BFM COTE D AZUR HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| BFM COTE D AZUR HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224440
+#EXTINF:-1 tvg-ID="bfmgrandlille.fr" tvg-name="|FR| BFM MARSEILLE HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| BFM MARSEILLE HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224441
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| BFM ALPES SUD HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| BFM ALPES SUD HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224442
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| BFM HAUTE PROVINCE HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| BFM HAUTE PROVINCE HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224443
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| IMEARTH HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| IMEARTH HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224450
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ZOUK TV HD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/" group-title="Franciaország",|FR| ZOUK TV HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224451
+#EXTINF:-1 tvg-ID="Ligue1Plus.fr" tvg-name="|FR| LIGUE1+ 1 4K" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 1 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662720
+#EXTINF:-1 tvg-ID="Ligue1Plus.fr" tvg-name="|FR| LIGUE1+ 1 HD" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 1 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662721
+#EXTINF:-1 tvg-ID="Ligue1Plus2.fr" tvg-name="|FR| LIGUE1+ 2 4K" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 2 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662722
+#EXTINF:-1 tvg-ID="Ligue1Plus2.fr" tvg-name="|FR| LIGUE1+ 2 HD" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 2 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662723
+#EXTINF:-1 tvg-ID="Ligue1Plus3.fr" tvg-name="|FR| LIGUE1+ 3 4K" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 3 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662724
+#EXTINF:-1 tvg-ID="Ligue1Plus3.fr" tvg-name="|FR| LIGUE1+ 3 HD" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 3 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662725
+#EXTINF:-1 tvg-ID="Ligue1Plus4.fr" tvg-name="|FR| LIGUE1+ 4 4K" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 4 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662726
+#EXTINF:-1 tvg-ID="Ligue1Plus4.fr" tvg-name="|FR| LIGUE1+ 4 HD" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 4 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662727
+#EXTINF:-1 tvg-ID="Ligue1Plus5.fr" tvg-name="|FR| LIGUE1+ 5 4K" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 5 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662728
+#EXTINF:-1 tvg-ID="Ligue1Plus5.fr" tvg-name="|FR| LIGUE1+ 5 HD" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 5 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662729
+#EXTINF:-1 tvg-ID="Ligue1Plus6.fr" tvg-name="|FR| LIGUE1+ 6 4K" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 6 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662730
+#EXTINF:-1 tvg-ID="Ligue1Plus6.fr" tvg-name="|FR| LIGUE1+ 6 HD" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 6 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662731
+#EXTINF:-1 tvg-ID="Ligue1Plus7.fr" tvg-name="|FR| LIGUE1+ 7 4K" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 7 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662732
+#EXTINF:-1 tvg-ID="Ligue1Plus7.fr" tvg-name="|FR| LIGUE1+ 7 HD" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 7 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662733
+#EXTINF:-1 tvg-ID="Ligue1Plus8.fr" tvg-name="|FR| LIGUE1+ 8 4K" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 8 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662734
+#EXTINF:-1 tvg-ID="Ligue1Plus8.fr" tvg-name="|FR| LIGUE1+ 8 HD" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 8 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662735
+#EXTINF:-1 tvg-ID="Ligue1Plus9.fr" tvg-name="|FR| LIGUE1+ 9 4K" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 9 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662736
+#EXTINF:-1 tvg-ID="Ligue1Plus9.fr" tvg-name="|FR| LIGUE1+ 9 HD" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 9 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662737
+#EXTINF:-1 tvg-ID="Ligue1Plus10.fr" tvg-name="|FR| LIGUE1+ 10 4K" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 10 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662738
+#EXTINF:-1 tvg-ID="Ligue1Plus10.fr" tvg-name="|FR| LIGUE1+ 10 HD" tvg-logo="http://vodkom.com/MYFRANCE/LIGUE1+.png" group-title="Franciaország",|FR| LIGUE1+ 10 HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/662739
+#EXTINF:-1 tvg-ID="" tvg-name="-----| JEUNESSE FRANCE FHD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| JEUNESSE FRANCE FHD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127099
+#EXTINF:-1 tvg-ID="disneychannel.fr" tvg-name="|FR| DISNEY CHANNEL FHD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/DISNEYCHANNELHD.png" group-title="Franciaország",|FR| DISNEY CHANNEL FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127101
+#EXTINF:-1 tvg-ID="disneyjunior.fr" tvg-name="|FR| DISNEY JUNIOR FHD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/DISNEYJUNIOR.png" group-title="Franciaország",|FR| DISNEY JUNIOR FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127104
+#EXTINF:-1 tvg-ID="nickjr.fr" tvg-name="|FR| NICKELODEON JR FHD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/NICKEODEONJUNIOR.png" group-title="Franciaország",|FR| NICKELODEON JR FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127105
+#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="|FR| NICKELODEON FHD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/NICKELODEON.png" group-title="Franciaország",|FR| NICKELODEON FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127106
+#EXTINF:-1 tvg-ID="nickelodeonteen.fr" tvg-name="|FR| NICKELODEON TEEN FHD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/NICKELODEONTEEN.png" group-title="Franciaország",|FR| NICKELODEON TEEN FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127107
+#EXTINF:-1 tvg-ID="boomerang.fr" tvg-name="|FR| BOOMERANG FHD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/BOOMERANG.png" group-title="Franciaország",|FR| BOOMERANG FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127108
+#EXTINF:-1 tvg-ID="boing.fr" tvg-name="|FR| BOING FHD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/BOING.png" group-title="Franciaország",|FR| BOING FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127109
+#EXTINF:-1 tvg-ID="piwi.fr" tvg-name="|FR| PIWI+ FHD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/PIWI.png" group-title="Franciaország",|FR| PIWI+ FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127111
+#EXTINF:-1 tvg-ID="teletoonplus.fr" tvg-name="|FR| TELETOON+ FHD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/TELETOON+.png" group-title="Franciaország",|FR| TELETOON+ FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127112
+#EXTINF:-1 tvg-ID="cartoonnetwork.fr" tvg-name="|FR| CARTOON NETWORK FHD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/CARTOONNETWORK.png" group-title="Franciaország",|FR| CARTOON NETWORK FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127113
+#EXTINF:-1 tvg-ID="gulli.fr" tvg-name="|FR| GULLI FHD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/GULLI.png" group-title="Franciaország",|FR| GULLI FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127114
+#EXTINF:-1 tvg-ID="canalj.fr" tvg-name="|FR| CANAL J FHD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/CANALJ.png" group-title="Franciaország",|FR| CANAL J FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127115
+#EXTINF:-1 tvg-ID="tiji.fr" tvg-name="|FR| TIJI FHD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/TIJI.png" group-title="Franciaország",|FR| TIJI FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127116
+#EXTINF:-1 tvg-ID="mangas.fr" tvg-name="|FR| MANGAS FHD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/MANGAS.png" group-title="Franciaország",|FR| MANGAS FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127117
+#EXTINF:-1 tvg-ID="jone.fr" tvg-name="|FR| J ONE FHD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/J-ONE.png" group-title="Franciaország",|FR| J ONE FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127118
+#EXTINF:-1 tvg-ID="gameone.fr" tvg-name="|FR| GAME ONE FHD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/GAMEONE.png" group-title="Franciaország",|FR| GAME ONE FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127119
+#EXTINF:-1 tvg-ID="" tvg-name="-----| CINÉMA FRANCE FHD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| CINÉMA FRANCE FHD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127214
+#EXTINF:-1 tvg-ID="CinePlusPremier.be" tvg-name="|FR| CINE+ PREMIER FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CINE+ PREMIER FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127215
+#EXTINF:-1 tvg-ID="CinePlusFrisson.ch" tvg-name="|FR| CINE+ FRISSON FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CINE+ FRISSON FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127216
+#EXTINF:-1 tvg-ID="CinePlusEmotion.fr" tvg-name="|FR| CINE+ EMOTION FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CINE+ EMOTION FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127217
+#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_26B9_43E_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CINE+ CLUB FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127219
+#EXTINF:-1 tvg-ID="CinePlusClassic.fr" tvg-name="|FR| CINE+ CLASSIC FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CINE+ CLASSIC FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127220
+#EXTINF:-1 tvg-ID="NovelasTV.fr" tvg-name="|FR| NOVELAS TV FHD" tvg-logo="http://vodkom.com/Logo/FRANCE.CINEMA/NOVELAS_TV.png" group-title="Franciaország",|FR| NOVELAS TV FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127227
+#EXTINF:-1 tvg-ID="polarplus.fr" tvg-name="|FR| POLAR+ FHD" tvg-logo="http://vodkom.com/Logo/FRANCE.CINEMA/POLAR+.png" group-title="Franciaország",|FR| POLAR+ FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127228
+#EXTINF:-1 tvg-ID="CrimeDistrict.fr" tvg-name="|FR| CRIME DISTRICT FHD" tvg-logo="http://vodkom.com/images/Atlantic_5w/1_0_16_D7_4EE8_55F_DDE0000_0_0_0.png" group-title="Franciaország",|FR| CRIME DISTRICT FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127229
+#EXTINF:-1 tvg-ID="ParamountChannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="Franciaország",|FR| PARAMOUNT CHANNEL FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127230
+#EXTINF:-1 tvg-ID="ParamountChannelDecale.fr" tvg-name="|FR| PARAMOUNT DECALE FHD" tvg-logo="" group-title="Franciaország",|FR| PARAMOUNT DECALE FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127231
+#EXTINF:-1 tvg-ID="Action.fr" tvg-name="|FR| ACTION FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_4286_446_1_C00000_0_0_0.png" group-title="Franciaország",|FR| ACTION FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127232
+#EXTINF:-1 tvg-ID="TCM.fr" tvg-name="|FR| TCM CINEMA FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_26AE_43E_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TCM CINEMA FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127233
+#EXTINF:-1 tvg-ID="cineplusocs.fr" tvg-name="|FR| CINE+ OCS HD" tvg-logo="" group-title="Franciaország",|FR| CINE+ OCS HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861322
+#EXTINF:-1 tvg-ID="CinePlusClub.fr" tvg-name="|FR| CINE+ FESTIVAL HD 4?" tvg-logo="" group-title="Franciaország",|FR| CINE+ FESTIVAL HD 4?
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861323
+#EXTINF:-1 tvg-ID="CinePlusClub.fr" tvg-name="|FR| CINE+ FESTIVAL SD" tvg-logo="" group-title="Franciaország",|FR| CINE+ FESTIVAL SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861324
+#EXTINF:-1 tvg-ID="cineplusocs.fr" tvg-name="|FR| CINE+ OCS SD" tvg-logo="" group-title="Franciaország",|FR| CINE+ OCS SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861325
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ BOX OFFICE SD" tvg-logo="" group-title="Franciaország",|FR| CANAL+ BOX OFFICE SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861326
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX THRILLER" tvg-logo="" group-title="Franciaország",|FR| NETFLIX THRILLER
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861327
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX SCI-FI" tvg-logo="" group-title="Franciaország",|FR| NETFLIX SCI-FI
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861328
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX FANTASY" tvg-logo="" group-title="Franciaország",|FR| NETFLIX FANTASY
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861329
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX ACTION" tvg-logo="" group-title="Franciaország",|FR| NETFLIX ACTION
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861330
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX ADVENTURE" tvg-logo="" group-title="Franciaország",|FR| NETFLIX ADVENTURE
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861331
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX ROMANCE" tvg-logo="" group-title="Franciaország",|FR| NETFLIX ROMANCE
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861332
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX DRAMA" tvg-logo="" group-title="Franciaország",|FR| NETFLIX DRAMA
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861333
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX COMEDY" tvg-logo="" group-title="Franciaország",|FR| NETFLIX COMEDY
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861334
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX HORROR" tvg-logo="" group-title="Franciaország",|FR| NETFLIX HORROR
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861335
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX DOCUMENTARY" tvg-logo="" group-title="Franciaország",|FR| NETFLIX DOCUMENTARY
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861336
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX SPORTS" tvg-logo="" group-title="Franciaország",|FR| NETFLIX SPORTS
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861337
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX KIDS" tvg-logo="" group-title="Franciaország",|FR| NETFLIX KIDS
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861338
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| AVENGERS" tvg-logo="" group-title="Franciaország",|FR| AVENGERS
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/861416
+#EXTINF:-1 tvg-ID="" tvg-name="-----| DIVERTISSEMENT FRANCE FHD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| DIVERTISSEMENT FRANCE FHD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127162
+#EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="|FR| COMEDIE+  FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/COMEDIE+.png" group-title="Franciaország",|FR| COMEDIE+  FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127164
+#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="|FR| SYFY FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/Syfy_HD.png" group-title="Franciaország",|FR| SYFY FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127165
+#EXTINF:-1 tvg-ID="eentertainment.fr" tvg-name="|FR| E! FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/E!_Entertainment.png" group-title="Franciaország",|FR| E! FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127166
+#EXTINF:-1 tvg-ID="13emerue.fr" tvg-name="|FR| 13EME RUE FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/13eme_Rue.png" group-title="Franciaország",|FR| 13EME RUE FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127167
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name="|FR| TEVA FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/TEVA.png" group-title="Franciaország",|FR| TEVA FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127168
+#EXTINF:-1 tvg-ID="rtl9.fr" tvg-name="|FR| RTL9 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/RTL9.png" group-title="Franciaország",|FR| RTL9 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127169
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="|FR| AB1 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/AB1.png" group-title="Franciaország",|FR| AB1 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127170
+#EXTINF:-1 tvg-ID="serieclub.fr" tvg-name="|FR| SERIE CLUB FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/SERIE_CLUB.png" group-title="Franciaország",|FR| SERIE CLUB FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127171
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="|FR| PARIS PREMIERE FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/PARIS_PREMIERE.png" group-title="Franciaország",|FR| PARIS PREMIERE FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127172
+#EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="|FR| TV BREIZH FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/TV_BREIZH.png" group-title="Franciaország",|FR| TV BREIZH FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127173
+#EXTINF:-1 tvg-ID="vicetv.fr" tvg-name="|FR| VICELAND FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/VICETV.png" group-title="Franciaország",|FR| VICELAND FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127174
+#EXTINF:-1 tvg-ID="bet.fr" tvg-name="|FR| BET FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/BET.png" group-title="Franciaország",|FR| BET FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127175
+#EXTINF:-1 tvg-ID="comedycentral.fr" tvg-name="|FR| COMEDY CENTRAL FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/COMEDY_CENTRAL.png" group-title="Franciaország",|FR| COMEDY CENTRAL FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127178
+#EXTINF:-1 tvg-ID="kto.fr" tvg-name="|FR| KTO FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/KTO.png" group-title="Franciaország",|FR| KTO FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/147875
+#EXTINF:-1 tvg-ID="" tvg-name="-----| AFRIQUE FRANCE FHD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| AFRIQUE FRANCE FHD |-----
+http://promo.sansat.biz/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| A+ FHD" tvg-logo="" group-title="Franciaország",|FR| A+ FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127387
+#EXTINF:-1 tvg-ID="nollywood.fr" tvg-name="|FR| NOLLYWOOD FHD" tvg-logo="" group-title="Franciaország",|FR| NOLLYWOOD FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127388
+#EXTINF:-1 tvg-ID="traceafrica.fr" tvg-name="|FR| TRACE AFRICA FHD" tvg-logo="" group-title="Franciaország",|FR| TRACE AFRICA FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127389
+#EXTINF:-1 tvg-ID="" tvg-name="-----| TNT FRANCE SD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| TNT FRANCE SD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127317
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TF1 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127318
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE 2 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127319
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| FRANCE 3 SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE 3 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127320
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="|FR| FRANCE 4 SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_21FD_44C_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE 4 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127322
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="|FR| FRANCE 5 SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2330_442_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE 5 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127323
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="|FR| ARTE SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2081_432_1_C00000_0_0_0.png" group-title="Franciaország",|FR| ARTE SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127324
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| M6 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127325
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="|FR| 6TER SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="Franciaország",|FR| 6TER SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127326
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="|FR| W9 SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2458_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| W9 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127327
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="|FR| NRJ12 SD" tvg-logo="http://vodkom.com/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="Franciaország",|FR| NRJ12 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127328
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="|FR| TFX SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TFX SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127329
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="|FR| TF1 SERIES FILMS SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TF1 SERIES FILMS SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127330
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name="|FR| CSTAR SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png " group-title="Franciaország",|FR| CSTAR SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127332
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="|FR| TMC SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TMC SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127333
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="|FR| RMC STORY SD" tvg-logo="http://vodkom.com/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="Franciaország",|FR| RMC STORY SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127334
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="|FR| CHERIE 25 SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_1_2F6D_454_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CHERIE 25 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127335
+#EXTINF:-1 tvg-ID="" tvg-name="-----| TNT FRANCE HEVC |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| TNT FRANCE HEVC |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127295
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TF1 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127296
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE 2 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127297
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| FRANCE 3 HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE 3 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127298
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="|FR| FRANCE 4 HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_21FD_44C_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE 4 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127300
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="|FR| FRANCE 5 HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2330_442_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE 5 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127301
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="|FR| ARTE HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2081_432_1_C00000_0_0_0.png" group-title="Franciaország",|FR| ARTE HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127302
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| M6 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127303
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="|FR| 6TER HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="Franciaország",|FR| 6TER HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127304
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="|FR| W9 HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2458_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| W9 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127305
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="|FR| NRJ 12 HEVC" tvg-logo="http://vodkom.com/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="Franciaország",|FR| NRJ 12 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127306
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="|FR| TFX HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TFX HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127307
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="|FR| TF1 SERIES-FILMS HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TF1 SERIES-FILMS HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127308
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name="|FR| CSTAR HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png " group-title="Franciaország",|FR| CSTAR HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127310
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="|FR| TMC HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TMC HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127311
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="|FR| RMC STORY HEVC" tvg-logo="http://vodkom.com/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="Franciaország",|FR| RMC STORY HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127312
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="|FR| CHERIE 25 HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_1_2F6D_454_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CHERIE 25 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127313
+#EXTINF:-1 tvg-ID="" tvg-name="-----| CINÉMA FRANCE SD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| CINÉMA FRANCE SD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127254
+#EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="|FR| CINE+ PREMIER SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CINE+ PREMIER SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127255
+#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="|FR| CINE+ FRISSON SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CINE+ FRISSON SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127256
+#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="|FR| CINE+ EMOTION SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CINE+ EMOTION SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127257
+#EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="|FR| CINE+ FAMIZ SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CINE+ FAMIZ SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127258
+#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_26B9_43E_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CINE+ CLUB SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127259
+#EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="|FR| CINE+  CLASSIC SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CINE+  CLASSIC SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127260
+#EXTINF:-1 tvg-ID="warnertv.fr" tvg-name="|FR| WARNER TV SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="Franciaország",|FR| WARNER TV SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127266
+#EXTINF:-1 tvg-ID="novelastv.fr" tvg-name="|FR| NOVELAS TV SD" tvg-logo="http://vodkom.com/Logo/FRANCE.CINEMA/NOVELAS_TV.png" group-title="Franciaország",|FR| NOVELAS TV SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127267
+#EXTINF:-1 tvg-ID="polarplus.fr" tvg-name="|FR| POLAR  SD" tvg-logo="http://vodkom.com/Logo/FRANCE.CINEMA/POLAR+.png" group-title="Franciaország",|FR| POLAR  SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127268
+#EXTINF:-1 tvg-ID="crimedistrict.fr" tvg-name="|FR| CRIME DISTRICT SD" tvg-logo="http://vodkom.com/images/Atlantic_5w/1_0_16_D7_4EE8_55F_DDE0000_0_0_0.png" group-title="Franciaország",|FR| CRIME DISTRICT SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127269
+#EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="Franciaország",|FR| PARAMOUNT CHANNEL SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127270
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="|FR| ACTION SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_4286_446_1_C00000_0_0_0.png" group-title="Franciaország",|FR| ACTION SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127271
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="|FR| TCM CINEMA SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_26AE_43E_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TCM CINEMA SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127272
+#EXTINF:-1 tvg-ID="" tvg-name="-----| CINÉMA FRANCE HEVC |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| CINÉMA FRANCE HEVC |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127234
+#EXTINF:-1 tvg-ID="CinePlusPremier.be" tvg-name="|FR| CINE+ PREMIER HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CINE+ PREMIER HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127235
+#EXTINF:-1 tvg-ID="CinePlusFrisson.fr" tvg-name="|FR| CINE+ FRISSON HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CINE+ FRISSON HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127236
+#EXTINF:-1 tvg-ID="CinePlusEmotion.fr" tvg-name="|FR| CINE+ EMOTION HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CINE+ EMOTION HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127237
+#EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="|FR| CINE+ FAMIZ HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CINE+ FAMIZ HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127238
+#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_26B9_43E_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CINE+ CLUB HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127239
+#EXTINF:-1 tvg-ID="CinePlusClassic.fr" tvg-name="|FR| CINE+  CLASSIC HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="Franciaország",|FR| CINE+  CLASSIC HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127240
+#EXTINF:-1 tvg-ID="WarnerTV.fr" tvg-name="|FR| WARNER TV HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="Franciaország",|FR| WARNER TV HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127246
+#EXTINF:-1 tvg-ID="NovelasTV.fr" tvg-name="|FR| NOVELAS TV HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE.CINEMA/NOVELAS_TV.png" group-title="Franciaország",|FR| NOVELAS TV HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127247
+#EXTINF:-1 tvg-ID="polarplus.fr" tvg-name="|FR| POLAR+ HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE.CINEMA/POLAR+.png" group-title="Franciaország",|FR| POLAR+ HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127248
+#EXTINF:-1 tvg-ID="CrimeDistrict.fr" tvg-name="|FR| CRIME DISTRICT HEVC" tvg-logo="http://vodkom.com/images/Atlantic_5w/1_0_16_D7_4EE8_55F_DDE0000_0_0_0.png" group-title="Franciaország",|FR| CRIME DISTRICT HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127249
+#EXTINF:-1 tvg-ID="ParamountChannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="Franciaország",|FR| PARAMOUNT CHANNEL HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127250
+#EXTINF:-1 tvg-ID="ParamountChannelDecale.fr" tvg-name="|FR| PARAMOUNT DECALE HEVC" tvg-logo="" group-title="Franciaország",|FR| PARAMOUNT DECALE HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127251
+#EXTINF:-1 tvg-ID="Action.fr" tvg-name="|FR| ACTION HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_4286_446_1_C00000_0_0_0.png" group-title="Franciaország",|FR| ACTION HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127252
+#EXTINF:-1 tvg-ID="tcm.fr" tvg-name="|FR| TCM CINEMA HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_26AE_43E_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TCM CINEMA HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127253
+#EXTINF:-1 tvg-ID="" tvg-name="-----| INFOS FRANCE SD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| INFOS FRANCE SD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126781
+#EXTINF:-1 tvg-ID="lachainemeteo.fr" tvg-name="|FR| LA CHAINE METEO SD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/LA_CHAINE_METEO.png" group-title="Franciaország",|FR| LA CHAINE METEO SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126782
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="|FR| C NEWS SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2336_442_1_C00000_0_0_0.png" group-title="Franciaország",|FR| C NEWS SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126783
+#EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name="|FR| FRANCE INFO SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_1F45_42E_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE INFO SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126784
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="|FR| BFM TV SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_206D_432_1_C00000_0_0_0.png" group-title="Franciaország",|FR| BFM TV SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126785
+#EXTINF:-1 tvg-ID="bfmbusiness.fr" tvg-name="|FR| BFM BUSINESS SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_2_2397_44A_1_C00000_0_0_0.png" group-title="Franciaország",|FR| BFM BUSINESS SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126786
+#EXTINF:-1 tvg-ID="lci.fr" tvg-name="|FR| LCI SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2331_442_1_C00000_0_0_0.png" group-title="Franciaország",|FR| LCI SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126788
+#EXTINF:-1 tvg-ID="LaChaineParlementaire.fr" tvg-name="|FR| LCP SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2337_442_1_C00000_0_0_0.png" group-title="Franciaország",|FR| LCP SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126789
+#EXTINF:-1 tvg-ID="euronews.fr" tvg-name="|FR| EURONEWS FRENCH SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_1_79F4_443_1_C00000_0_0_0.png" group-title="Franciaország",|FR| EURONEWS FRENCH SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126790
+#EXTINF:-1 tvg-ID="TV5MondeEurope.fr" tvg-name="|FR| TV5 MONDE SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_26B6_43E_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TV5 MONDE SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126791
+#EXTINF:-1 tvg-ID="france24.fr" tvg-name="|FR| FRANCE 24 SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_1_1AFA_3FE_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE 24 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126792
+#EXTINF:-1 tvg-ID="i24news.fr" tvg-name="|FR| I 24 NEWS SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_1_7A4B_410_1_C00000_0_0_0.png" group-title="Franciaország",|FR| I 24 NEWS SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126793
+#EXTINF:-1 tvg-ID="" tvg-name="-----| INFOS FRANCE HEVC |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| INFOS FRANCE HEVC |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126765
+#EXTINF:-1 tvg-ID="lachainemeteo.fr" tvg-name="|FR| LA CHAINE METEO HEVC" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/LA_CHAINE_METEO.png" group-title="Franciaország",|FR| LA CHAINE METEO HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126766
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="|FR| C NEWS HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2336_442_1_C00000_0_0_0.png" group-title="Franciaország",|FR| C NEWS HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126767
+#EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name="|FR| FRANCE INFO HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_1F45_42E_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE INFO HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126768
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="|FR| BFM TV HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_206D_432_1_C00000_0_0_0.png" group-title="Franciaország",|FR| BFM TV HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126769
+#EXTINF:-1 tvg-ID="bfmbusiness.fr" tvg-name="|FR| BFM BUSINESS HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_2_2397_44A_1_C00000_0_0_0.png" group-title="Franciaország",|FR| BFM BUSINESS HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126770
+#EXTINF:-1 tvg-ID="lci.fr" tvg-name="|FR| LCI HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2331_442_1_C00000_0_0_0.png" group-title="Franciaország",|FR| LCI HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126772
+#EXTINF:-1 tvg-ID="publicsenat.fr" tvg-name="|FR| LCP HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2337_442_1_C00000_0_0_0.png" group-title="Franciaország",|FR| LCP HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126773
+#EXTINF:-1 tvg-ID="euronews.fr" tvg-name="|FR| EURONEWS FRENCH HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_1_79F4_443_1_C00000_0_0_0.png" group-title="Franciaország",|FR| EURONEWS FRENCH HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126774
+#EXTINF:-1 tvg-ID="TV5MondeEurope.fr" tvg-name="|FR| TV5 MONDE HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_26B6_43E_1_C00000_0_0_0.png" group-title="Franciaország",|FR| TV5 MONDE HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126776
+#EXTINF:-1 tvg-ID="france24.fr" tvg-name="|FR| FRANCE 24 HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_1_1AFA_3FE_1_C00000_0_0_0.png" group-title="Franciaország",|FR| FRANCE 24 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126777
+#EXTINF:-1 tvg-ID="i24news.fr" tvg-name="|FR| I 24 NEWS HEVC" tvg-logo="http://vodkom.com/images/Astra19/1_0_1_7A4B_410_1_C00000_0_0_0.png" group-title="Franciaország",|FR| I 24 NEWS HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126778
+#EXTINF:-1 tvg-ID="" tvg-name="-----| MY CANAL FRANCE FHD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| MY CANAL FRANCE FHD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126808
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| CANAL+ FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL_PLUS.png" group-title="Franciaország",|FR| CANAL+ FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126810
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="|FR| CANAL NEWS FHD" tvg-logo="" group-title="Franciaország",|FR| CANAL NEWS FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126812
+#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="|FR| CANAL+ SERIE FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+SERIES.png" group-title="Franciaország",|FR| CANAL+ SERIE FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126814
+#EXTINF:-1 tvg-ID="canalpluskids.fr" tvg-name="|FR| CANAL+ KIDS FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+kids.png" group-title="Franciaország",|FR| CANAL+ KIDS FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126815
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="|FR| CANAL+ CINEMA FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+CINEMA.S.png" group-title="Franciaország",|FR| CANAL+ CINEMA FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126820
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ 3D FHD" tvg-logo="http://vodkom.com/MYFRANCE/canalplus3d.png" group-title="Franciaország",|FR| CANAL+ 3D FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126825
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="|FR| CANAL+ SPORT FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+SPORT.png" group-title="Franciaország",|FR| CANAL+ SPORT FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126831
+#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+FOOT.png" group-title="Franciaország",|FR| CANAL+ FOOT FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126832
+#EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="|FR| CANAL+ 360 FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+SPORT360.png" group-title="Franciaország",|FR| CANAL+ 360 FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126834
+#EXTINF:-1 tvg-ID="canalpluspremierleague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+_PREMIER_LEAGUE.png" group-title="Franciaország",|FR| CANAL+ PREMIER LEAGUE FHD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126835
+#EXTINF:-1 tvg-ID="" tvg-name="-----| MY CANAL FRANCE 4K |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| MY CANAL FRANCE 4K |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/165818
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| CANAL+ 4K" tvg-logo="http://vodkom.com/MYFRANCE/CANAL_PLUS.png" group-title="Franciaország",|FR| CANAL+ 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/165819
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="|FR| CANAL+ NEWS 4K" tvg-logo="" group-title="Franciaország",|FR| CANAL+ NEWS 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/169174
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="|FR| CANAL+ CINEMA 4K" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+CINEMA.S.png" group-title="Franciaország",|FR| CANAL+ CINEMA 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/169175
+#EXTINF:-1 tvg-ID="canalpluskids.fr" tvg-name="|FR| CANAL+ KIDS 4K" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+kids.png" group-title="Franciaország",|FR| CANAL+ KIDS 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/199685
+#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="|FR| CANAL+ SERIES 4K" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+SERIES.png" group-title="Franciaország",|FR| CANAL+ SERIES 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/199966
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="|FR| CANAL+ SPORT 4K" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+SPORT.png" group-title="Franciaország",|FR| CANAL+ SPORT 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224454
+#EXTINF:-1 tvg-ID="canalplusdocs.fr" tvg-name="|FR| CANAL+ DOCS 4K" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+DOCS.png" group-title="Franciaország",|FR| CANAL+ DOCS 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224455
+#EXTINF:-1 tvg-ID="canalplusgrandecran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN 4K" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+GRAND_ECRAN.png" group-title="Franciaország",|FR| CANAL+ GRAND ECRAN 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224456
+#EXTINF:-1 tvg-ID="canalpluspremierleague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE 4K" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+_PREMIER_LEAGUE.png" group-title="Franciaország",|FR| CANAL+ PREMIER LEAGUE 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/224457
+#EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="|FR| CANAL+ 360 4K" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+SPORT360.png" group-title="Franciaország",|FR| CANAL+ 360 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/645168
+#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT 4K" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+FOOT.png" group-title="Franciaország",|FR| CANAL+ FOOT 4K
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/659286
+#EXTINF:-1 tvg-ID="" tvg-name="-----| MY CANAL FRANCE SD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| MY CANAL FRANCE SD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/659288
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| CANAL+ SD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL_PLUS.png" group-title="Franciaország",|FR| CANAL+ SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/659289
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="|FR| CANAL NEWS SD" tvg-logo="" group-title="Franciaország",|FR| CANAL NEWS SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/659290
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="|FR| CANAL+ SPORT SD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+SPORT.png" group-title="Franciaország",|FR| CANAL+ SPORT SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/659291
+#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="|FR| CANAL+ SERIES SD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+SERIES.png" group-title="Franciaország",|FR| CANAL+ SERIES SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/659292
+#EXTINF:-1 tvg-ID="canalpluskids.fr" tvg-name="|FR| CANAL+ KIDS SD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+kids.png" group-title="Franciaország",|FR| CANAL+ KIDS SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/659293
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="|FR| CANAL+ CINEMA SD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+CINEMA.S.png" group-title="Franciaország",|FR| CANAL+ CINEMA SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/659295
+#EXTINF:-1 tvg-ID="canalplusgrandecran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN SD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+GRAND_ECRAN.png" group-title="Franciaország",|FR| CANAL+ GRAND ECRAN SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/659296
+#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT SD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+FOOT.png" group-title="Franciaország",|FR| CANAL+ FOOT SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/659299
+#EXTINF:-1 tvg-ID="CanalPlusSport360.fr" tvg-name="|FR| CANAL+ 360 SD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+SPORT360.png" group-title="Franciaország",|FR| CANAL+ 360 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/659303
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="|FR| CANAL+ SPORT SD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+SPORT.png" group-title="Franciaország",|FR| CANAL+ SPORT SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/659304
+#EXTINF:-1 tvg-ID="canalpluspremierleague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE SD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+_PREMIER_LEAGUE.png" group-title="Franciaország",|FR| CANAL+ PREMIER LEAGUE SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/659305
+#EXTINF:-1 tvg-ID="" tvg-name="-----| RMC SPORT SD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| RMC SPORT SD |-----
+http://promo.sansat.biz/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="|FR| RMC SPORT 1 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/6726.png" group-title="Franciaország",|FR| RMC SPORT 1 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127000
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT 2 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/9401.png" group-title="Franciaország",|FR| RMC SPORT 2 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127001
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT LIVE 3 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/48674.png" group-title="Franciaország",|FR| RMC SPORT LIVE 3 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127002
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT LIVE 4 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/48672.png" group-title="Franciaország",|FR| RMC SPORT LIVE 4 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127003
+#EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="|FR| RMC SPORT LIVE 5 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/38608.png" group-title="Franciaország",|FR| RMC SPORT LIVE 5 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127004
+#EXTINF:-1 tvg-ID="rmcsportlive6.fr" tvg-name="|FR| RMC SPORT LIVE 6 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/38605.png" group-title="Franciaország",|FR| RMC SPORT LIVE 6 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127005
+#EXTINF:-1 tvg-ID="rmcsportlive7.fr" tvg-name="|FR| RMC SPORT LIVE 7 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/38602.png" group-title="Franciaország",|FR| RMC SPORT LIVE 7 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127006
+#EXTINF:-1 tvg-ID="rmcsportlive8.fr" tvg-name="|FR| RMC SPORT LIVE 8 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/38599.png" group-title="Franciaország",|FR| RMC SPORT LIVE 8 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127007
+#EXTINF:-1 tvg-ID="rmcsportlive9.fr" tvg-name="|FR| RMC SPORT LIVE 9 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/38596.png" group-title="Franciaország",|FR| RMC SPORT LIVE 9 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127008
+#EXTINF:-1 tvg-ID="rmcsportlive10.fr" tvg-name="|FR| RMC SPORT LIVE 10 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/38593.png" group-title="Franciaország",|FR| RMC SPORT LIVE 10 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127009
+#EXTINF:-1 tvg-ID="rmcsportlive11.fr" tvg-name="|FR| RMC SPORT LIVE 11 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/38590.png" group-title="Franciaország",|FR| RMC SPORT LIVE 11 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127010
+#EXTINF:-1 tvg-ID="rmcsportlive12.fr" tvg-name="|FR| RMC SPORT LIVE 12 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/SPORT/38587.png" group-title="Franciaország",|FR| RMC SPORT LIVE 12 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127011
+#EXTINF:-1 tvg-ID="" tvg-name="-----| BEIN SPORTS SD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| BEIN SPORTS SD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127015
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="|FR| BEIN SPORT 1 SD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/BEIN_SPORTS_1.png" group-title="Franciaország",|FR| BEIN SPORT 1 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127016
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="|FR| BEIN SPORT 2 SD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/BEIN_SPORTS_2.png" group-title="Franciaország",|FR| BEIN SPORT 2 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127017
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="|FR| BEIN SPORT 3 SD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/Bein_Sports_3.png" group-title="Franciaország",|FR| BEIN SPORT 3 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127018
+#EXTINF:-1 tvg-ID="" tvg-name="-----| SPORTS SD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| SPORTS SD |-----
+http://promo.sansat.biz/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="|FR| EUROSPORT 1 SD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/EUROSPORT_1.png" group-title="Franciaország",|FR| EUROSPORT 1 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127026
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="|FR| EUROSPORT 2 SD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/EUROSPORT_2.png" group-title="Franciaország",|FR| EUROSPORT 2 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127027
+#EXTINF:-1 tvg-ID="lequipe21.fr" tvg-name="|FR| L EQUIPE 21 SD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/L_EQUIPE.png" group-title="Franciaország",|FR| L EQUIPE 21 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127030
+#EXTINF:-1 tvg-ID="equidia.fr" tvg-name="|FR| EQUIDIA LIVE SD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/EQUIDIA.png" group-title="Franciaország",|FR| EQUIDIA LIVE SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127031
+#EXTINF:-1 tvg-ID="automotolachaine.fr" tvg-name="|FR| AUTOMOTO SD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/AUTOMOTO_la_chaine.png" group-title="Franciaország",|FR| AUTOMOTO SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127032
+#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="|FR| GOLF+ SD" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/GOLF+.png" group-title="Franciaország",|FR| GOLF+ SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127033
+#EXTINF:-1 tvg-ID="" tvg-name="-----| RMC SPORT HEVC |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| RMC SPORT HEVC |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126962
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="|FR| RMC SPORT 1 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/RMC_SPORT_1.png" group-title="Franciaország",|FR| RMC SPORT 1 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126964
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT 2 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/RMC_SPORT_2.png" group-title="Franciaország",|FR| RMC SPORT 2 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126965
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT LIVE 3 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/rmcsport3.png" group-title="Franciaország",|FR| RMC SPORT LIVE 3 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126966
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT LIVE 4 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/rmcsport4.png" group-title="Franciaország",|FR| RMC SPORT LIVE 4 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126967
+#EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="|FR| RMC SPORT LIVE 5 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/rmcsportlive5.png" group-title="Franciaország",|FR| RMC SPORT LIVE 5 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126968
+#EXTINF:-1 tvg-ID="rmcsportlive6.fr" tvg-name="|FR| RMC SPORT LIVE 6 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/rmcsportlive6.png" group-title="Franciaország",|FR| RMC SPORT LIVE 6 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126969
+#EXTINF:-1 tvg-ID="rmcsportlive7.fr" tvg-name="|FR| RMC SPORT LIVE 7 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/rmcsportlive7.png" group-title="Franciaország",|FR| RMC SPORT LIVE 7 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126970
+#EXTINF:-1 tvg-ID="rmcsportlive8.fr" tvg-name="|FR| RMC SPORT LIVE 8 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/rmcsportlive8.png" group-title="Franciaország",|FR| RMC SPORT LIVE 8 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126971
+#EXTINF:-1 tvg-ID="rmcsportlive9.fr" tvg-name="|FR| RMC SPORT LIVE 9 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/rmcsportlive9.png" group-title="Franciaország",|FR| RMC SPORT LIVE 9 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126972
+#EXTINF:-1 tvg-ID="rmcsportlive10.fr" tvg-name="|FR| RMC SPORT LIVE 10 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/rmcsportlive10.png" group-title="Franciaország",|FR| RMC SPORT LIVE 10 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126973
+#EXTINF:-1 tvg-ID="rmcsportlive11.fr" tvg-name="|FR| RMC SPORT LIVE 11 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/rmcsportlive11.png" group-title="Franciaország",|FR| RMC SPORT LIVE 11 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126974
+#EXTINF:-1 tvg-ID="rmcsportlive12.fr" tvg-name="|FR| RMC SPORT LIVE 12 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/" group-title="Franciaország",|FR| RMC SPORT LIVE 12 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126975
+#EXTINF:-1 tvg-ID="" tvg-name="-----| BEIN SPORTS HEVC |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| BEIN SPORTS HEVC |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126979
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="|FR| BEIN SPORT 1 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/BEIN_SPORTS_1.png" group-title="Franciaország",|FR| BEIN SPORT 1 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126980
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="|FR| BEIN SPORT 2 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/BEIN_SPORTS_2.png" group-title="Franciaország",|FR| BEIN SPORT 2 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126981
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="|FR| BEIN SPORT 3 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/Bein_Sports_3.png" group-title="Franciaország",|FR| BEIN SPORT 3 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126982
+#EXTINF:-1 tvg-ID="" tvg-name="-----| SPORTS HEVC |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| SPORTS HEVC |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126983
+#EXTINF:-1 tvg-ID="infosportplus.fr" tvg-name="|FR| INFOSPORT+ HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/INFOSPORT+.png" group-title="Franciaország",|FR| INFOSPORT+ HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126991
+#EXTINF:-1 tvg-ID="lequipe21.fr" tvg-name="|FR| L EQUIPE 21 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/L_EQUIPE.png" group-title="Franciaország",|FR| L EQUIPE 21 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126992
+#EXTINF:-1 tvg-ID="equidia.fr" tvg-name="|FR| EQUIDIA LIVE HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/EQUIDIA.png" group-title="Franciaország",|FR| EQUIDIA LIVE HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126993
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="|FR| EUROSPORT 1 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/EUROSPORT_1.png" group-title="Franciaország",|FR| EUROSPORT 1 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126994
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="|FR| EUROSPORT 2 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/EUROSPORT_2.png" group-title="Franciaország",|FR| EUROSPORT 2 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126995
+#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="|FR| GOLF+ HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE_SPORT/GOLF+.png" group-title="Franciaország",|FR| GOLF+ HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/126997
+#EXTINF:-1 tvg-ID="" tvg-name="-----| JEUNESSE FRANCE SD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| JEUNESSE FRANCE SD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127141
+#EXTINF:-1 tvg-ID="disneychannel.fr" tvg-name="|FR| DISNEY CHANNEL SD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/DISNEYCHANNELSD.png" group-title="Franciaország",|FR| DISNEY CHANNEL SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127143
+#EXTINF:-1 tvg-ID="DisneyJunior.fr" tvg-name="|FR| DISNEY JUNIOR SD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/DISNEYJUNIOR.png" group-title="Franciaország",|FR| DISNEY JUNIOR SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127144
+#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="|FR| NICKELODEON SD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/NICKELODEON.png" group-title="Franciaország",|FR| NICKELODEON SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127146
+#EXTINF:-1 tvg-ID="nickjr.fr" tvg-name="|FR| NICKELODEON JUNIOR SD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/NICKEODEONJUNIOR.png" group-title="Franciaország",|FR| NICKELODEON JUNIOR SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127147
+#EXTINF:-1 tvg-ID="nickelodeonteen.fr" tvg-name="|FR| NICKELODEON 4 TEEN SD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/NICKELODEONTEEN.png" group-title="Franciaország",|FR| NICKELODEON 4 TEEN SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127148
+#EXTINF:-1 tvg-ID="boomerang.fr" tvg-name="|FR| BOOMERANG SD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/BOOMERANG.png" group-title="Franciaország",|FR| BOOMERANG SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127149
+#EXTINF:-1 tvg-ID="piwi.fr" tvg-name="|FR| PIWI SD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/PIWI.png" group-title="Franciaország",|FR| PIWI SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127152
+#EXTINF:-1 tvg-ID="teletoonplus.fr" tvg-name="|FR| TELE TOON + SD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/TELETOON+.png" group-title="Franciaország",|FR| TELE TOON + SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127153
+#EXTINF:-1 tvg-ID="cartoonnetwork.fr" tvg-name="|FR| CARTOON NETWORK SD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/CARTOONNETWORK.png" group-title="Franciaország",|FR| CARTOON NETWORK SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127155
+#EXTINF:-1 tvg-ID="gulli.fr" tvg-name="|FR| GULLI SD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/GULLI.png" group-title="Franciaország",|FR| GULLI SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127156
+#EXTINF:-1 tvg-ID="canalj.fr" tvg-name="|FR| CANAL J SD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/CANALJ.png" group-title="Franciaország",|FR| CANAL J SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127157
+#EXTINF:-1 tvg-ID="tiji.fr" tvg-name="|FR| TIJI SD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/TIJI.png" group-title="Franciaország",|FR| TIJI SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127158
+#EXTINF:-1 tvg-ID="mangas.fr" tvg-name="|FR| MANGAS SD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/MANGAS.png" group-title="Franciaország",|FR| MANGAS SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127159
+#EXTINF:-1 tvg-ID="jone.fr" tvg-name="|FR| J ONE SD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/J-ONE.png" group-title="Franciaország",|FR| J ONE SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127160
+#EXTINF:-1 tvg-ID="gameone.fr" tvg-name="|FR| GAME ONE SD" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/GAMEONE.png" group-title="Franciaország",|FR| GAME ONE SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127161
+#EXTINF:-1 tvg-ID="" tvg-name="-----| JEUNESSE FRANCE HEVC |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| JEUNESSE FRANCE HEVC |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127120
+#EXTINF:-1 tvg-ID="disneychannel.fr" tvg-name="|FR| DISNEY CHANNEL HEVC" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/DISNEYCHANNELHD.png" group-title="Franciaország",|FR| DISNEY CHANNEL HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127122
+#EXTINF:-1 tvg-ID="DisneyJunior.fr" tvg-name="|FR| DISNEY JUNIOR HEVC" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/DISNEYJUNIOR.png" group-title="Franciaország",|FR| DISNEY JUNIOR HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127123
+#EXTINF:-1 tvg-ID="nickjr.fr" tvg-name="|FR| NICKELODEON JUNIOR HEVC" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/NICKEODEONJUNIOR.png" group-title="Franciaország",|FR| NICKELODEON JUNIOR HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127125
+#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="|FR| NICKELODEON HEVC" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/NICKELODEON.png" group-title="Franciaország",|FR| NICKELODEON HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127126
+#EXTINF:-1 tvg-ID="nickelodeonteen.fr" tvg-name="|FR| NICKELODEON 4 TEEN HEVC" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/NICKELODEONTEEN.png" group-title="Franciaország",|FR| NICKELODEON 4 TEEN HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127127
+#EXTINF:-1 tvg-ID="boomerang.fr" tvg-name="|FR| BOOMERANG HEVC" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/BOOMERANG.png" group-title="Franciaország",|FR| BOOMERANG HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127128
+#EXTINF:-1 tvg-ID="piwi.fr" tvg-name="|FR| PIWI HEVC" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/PIWI.png" group-title="Franciaország",|FR| PIWI HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127131
+#EXTINF:-1 tvg-ID="teletoonplus.fr" tvg-name="|FR| TELE TOON + HEVC" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/TELETOON+.png" group-title="Franciaország",|FR| TELE TOON + HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127132
+#EXTINF:-1 tvg-ID="teletoonplus.fr" tvg-name="|FR| TELE TOON +1 HEVC" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/TELETOON+1.png" group-title="Franciaország",|FR| TELE TOON +1 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127133
+#EXTINF:-1 tvg-ID="cartoonnetwork.fr" tvg-name="|FR| CARTOON NETWORK HEVC" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/CARTOONNETWORK.png" group-title="Franciaország",|FR| CARTOON NETWORK HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127134
+#EXTINF:-1 tvg-ID="gulli.fr" tvg-name="|FR| GULLI HEVC" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/GULLI.png" group-title="Franciaország",|FR| GULLI HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127135
+#EXTINF:-1 tvg-ID="canalj.fr" tvg-name="|FR| CANAL J HEVC" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/CANALJ.png" group-title="Franciaország",|FR| CANAL J HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127136
+#EXTINF:-1 tvg-ID="tiji.fr" tvg-name="|FR| TIJI HEVC" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/TIJI.png" group-title="Franciaország",|FR| TIJI HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127137
+#EXTINF:-1 tvg-ID="mangas.fr" tvg-name="|FR| MANGAS HEVC" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/MANGAS.png" group-title="Franciaország",|FR| MANGAS HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127138
+#EXTINF:-1 tvg-ID="jone.fr" tvg-name="|FR| J ONE HEVC" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/J-ONE.png" group-title="Franciaország",|FR| J ONE HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127139
+#EXTINF:-1 tvg-ID="gameone.fr" tvg-name="|FR| GAME ONE HEVC" tvg-logo="http://vodkom.com/Logo/FRENCH/LOGO/GAMEONE.png" group-title="Franciaország",|FR| GAME ONE HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127140
+#EXTINF:-1 tvg-ID="" tvg-name="-----| DÉCOUVERTE FRANCE SD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| DÉCOUVERTE FRANCE SD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127077
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/PLANETE+.png" group-title="Franciaország",|FR| PLANETE+ SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127078
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="|FR| PLANETE  A&E SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/PLANETE+A_end_E.png" group-title="Franciaország",|FR| PLANETE  A&E SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127079
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ CI SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/PLANETE+CI.png" group-title="Franciaország",|FR| PLANETE+ CI SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127080
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="|FR| NAT GEO SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/NATIONAL_GEO.png" group-title="Franciaország",|FR| NAT GEO SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127081
+#EXTINF:-1 tvg-ID="natgeowild.fr" tvg-name="|FR| NAT GEO WILD SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/NATIONAL_GEOGRAPHIC_WILD.png" group-title="Franciaország",|FR| NAT GEO WILD SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127082
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="|FR| DISCOVERY SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/Discovery_HD.png" group-title="Franciaország",|FR| DISCOVERY SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127083
+#EXTINF:-1 tvg-ID="discoveryscience.fr" tvg-name="|FR| DISCOVERY SCIENCE SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/Discovery_Science_HD.png" group-title="Franciaország",|FR| DISCOVERY SCIENCE SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127084
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DISCOVERY ID SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/ID_HD.png" group-title="Franciaország",|FR| DISCOVERY ID SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127086
+#EXTINF:-1 tvg-ID="discoveryinvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/INVESTIGATION_DISCOVERY_HD.png" group-title="Franciaország",|FR| DISCOVERY INVESTIGATION SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127087
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name="|FR| TREK SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/TREK.png" group-title="Franciaország",|FR| TREK SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127088
+#EXTINF:-1 tvg-ID="histoire.fr" tvg-name="|FR| HISTOIRE SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/HISTOIRE_TV.png" group-title="Franciaország",|FR| HISTOIRE SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127089
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="|FR| TOUTE L HISTOIRE SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/Toute_L_Histoire.png" group-title="Franciaország",|FR| TOUTE L HISTOIRE SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127090
+#EXTINF:-1 tvg-ID="seasons.fr" tvg-name="|FR| SEASONS SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/SEASONS.png" group-title="Franciaország",|FR| SEASONS SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127091
+#EXTINF:-1 tvg-ID="scienceandvie.fr" tvg-name="|FR| SCIENCE ET VIE SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/Science_et_Vie.png" group-title="Franciaország",|FR| SCIENCE ET VIE SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127092
+#EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="|FR| RMC DECOUVERTE SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/RMC_DECOUVERTE.png" group-title="Franciaország",|FR| RMC DECOUVERTE SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127093
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/USHUAIA_TV.png" group-title="Franciaország",|FR| USHUAIA SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127094
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="|FR| ANIMAUX SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/ANIMAUX.png" group-title="Franciaország",|FR| ANIMAUX SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127095
+#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="|FR| CHASSE&PECHE SD" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/CHASSE_ET_PECHE.png" group-title="Franciaország",|FR| CHASSE&PECHE SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127096
+#EXTINF:-1 tvg-ID="nauticalchannel.fr" tvg-name="|FR| NAUTICAL CHANNEL SD " tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/Nautical_HD.png" group-title="Franciaország",|FR| NAUTICAL CHANNEL SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127097
+#EXTINF:-1 tvg-ID="" tvg-name="-----| DÉCOUVERTE FRANCE HEVC |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| DÉCOUVERTE FRANCE HEVC |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127055
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/PLANETE+.png" group-title="Franciaország",|FR| PLANETE+ HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127056
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="|FR| PLANETE A&E HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/PLANETE+A_end_E.png" group-title="Franciaország",|FR| PLANETE A&E HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127057
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ CI HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/PLANETE+CI.png" group-title="Franciaország",|FR| PLANETE+ CI HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127058
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="|FR| NAT GEO HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/NATIONAL_GEO.png" group-title="Franciaország",|FR| NAT GEO HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127059
+#EXTINF:-1 tvg-ID="NatGeoWild.fr" tvg-name="|FR| NAT GEO WILD HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/NATIONAL_GEOGRAPHIC_WILD.png" group-title="Franciaország",|FR| NAT GEO WILD HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127060
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="|FR| DISCOVERY HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/Discovery_HD.png" group-title="Franciaország",|FR| DISCOVERY HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127061
+#EXTINF:-1 tvg-ID="discoveryinvestigation.fr" tvg-name="|FR| DISCOVERY ID HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/ID_HD.png" group-title="Franciaország",|FR| DISCOVERY ID HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127064
+#EXTINF:-1 tvg-ID="discoveryinvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/INVESTIGATION_DISCOVERY_HD.png" group-title="Franciaország",|FR| DISCOVERY INVESTIGATION HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127065
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name="|FR| TREK HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/TREK.png" group-title="Franciaország",|FR| TREK HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127066
+#EXTINF:-1 tvg-ID="histoire.fr" tvg-name="|FR| HISTOIRE HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/HISTOIRE_TV.png" group-title="Franciaország",|FR| HISTOIRE HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127067
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="|FR| TOUTE L HISTOIRE HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/Toute_L_Histoire.png" group-title="Franciaország",|FR| TOUTE L HISTOIRE HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127068
+#EXTINF:-1 tvg-ID="seasons.fr" tvg-name="|FR| SEASONS HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/SEASONS.png" group-title="Franciaország",|FR| SEASONS HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127069
+#EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="|FR| RMC DECOUVERTE HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/RMC_DECOUVERTE.png" group-title="Franciaország",|FR| RMC DECOUVERTE HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127071
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/USHUAIA_TV.png" group-title="Franciaország",|FR| USHUAIA HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127072
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="|FR| ANIMAUX HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/ANIMAUX.png" group-title="Franciaország",|FR| ANIMAUX HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127073
+#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="|FR| CHASSE&PECHE HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/DECOUVERTE/CHASSE_ET_PECHE.png" group-title="Franciaország",|FR| CHASSE&PECHE HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127074
+#EXTINF:-1 tvg-ID="" tvg-name="-----| DIVERTISSEMENT FRANCE SD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| DIVERTISSEMENT FRANCE SD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127196
+#EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="|FR| COMEDIE SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/COMEDIE+.png" group-title="Franciaország",|FR| COMEDIE SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127198
+#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="|FR| SYFY SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/Syfy_HD.png" group-title="Franciaország",|FR| SYFY SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127199
+#EXTINF:-1 tvg-ID="eentertainment.fr" tvg-name="|FR| E! ENTERTAINMENT SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/E!_Entertainment.png" group-title="Franciaország",|FR| E! ENTERTAINMENT SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127200
+#EXTINF:-1 tvg-ID="13emerue.fr" tvg-name="|FR| 13EME RUE SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/13eme_Rue.png" group-title="Franciaország",|FR| 13EME RUE SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127201
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name="|FR| TEVA SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/TEVA.png" group-title="Franciaország",|FR| TEVA SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127202
+#EXTINF:-1 tvg-ID="rtl9.fr" tvg-name="|FR| RTL 9 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/RTL9.png" group-title="Franciaország",|FR| RTL 9 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127203
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="|FR| AB1 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/AB1.png" group-title="Franciaország",|FR| AB1 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127204
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| AB 3 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/AB3.png" group-title="Franciaország",|FR| AB 3 SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127205
+#EXTINF:-1 tvg-ID="serieclub.fr" tvg-name="|FR| SERIE CLUB SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/SERIE_CLUB.png" group-title="Franciaország",|FR| SERIE CLUB SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127206
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="|FR| PARIS PREMIERE SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/PARIS_PREMIERE.png" group-title="Franciaország",|FR| PARIS PREMIERE SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127207
+#EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="|FR| TV BREIZH SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/TV_BREIZH.png" group-title="Franciaország",|FR| TV BREIZH SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127208
+#EXTINF:-1 tvg-ID="bet.fr" tvg-name="|FR| BET SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/BET.png" group-title="Franciaország",|FR| BET SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127210
+#EXTINF:-1 tvg-ID="comedycentral.fr" tvg-name="|FR| COMEDY CENTRAL SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/COMEDY_CENTRAL.png" group-title="Franciaország",|FR| COMEDY CENTRAL SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127213
+#EXTINF:-1 tvg-ID="kto.fr" tvg-name="|FR| KTO SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/KTO.png" group-title="Franciaország",|FR| KTO SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/147876
+#EXTINF:-1 tvg-ID="" tvg-name="-----| DIVERTISSEMENT FRANCE HEVC |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| DIVERTISSEMENT FRANCE HEVC |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127179
+#EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="|FR| COMEDIE HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/COMEDIE+.png" group-title="Franciaország",|FR| COMEDIE HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127181
+#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="|FR| SYFY HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/Syfy_HD.png" group-title="Franciaország",|FR| SYFY HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127182
+#EXTINF:-1 tvg-ID="eentertainment.fr" tvg-name="|FR| E! HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/E!_Entertainment.png" group-title="Franciaország",|FR| E! HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127183
+#EXTINF:-1 tvg-ID="13emerue.fr" tvg-name="|FR| 13EME RUE HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/13eme_Rue.png" group-title="Franciaország",|FR| 13EME RUE HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127184
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name="|FR| TEVA HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/TEVA.png" group-title="Franciaország",|FR| TEVA HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127185
+#EXTINF:-1 tvg-ID="rtl9.fr" tvg-name="|FR| RTL 9 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/RTL9.png" group-title="Franciaország",|FR| RTL 9 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127186
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="|FR| AB1 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/AB1.png" group-title="Franciaország",|FR| AB1 HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127187
+#EXTINF:-1 tvg-ID="serieclub.fr" tvg-name="|FR| SERIE CLUB HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/SERIE_CLUB.png" group-title="Franciaország",|FR| SERIE CLUB HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127188
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="|FR| PARIS PREMIERE HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/PARIS_PREMIERE.png" group-title="Franciaország",|FR| PARIS PREMIERE HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127189
+#EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="|FR| TV BREIZH HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/TV_BREIZH.png" group-title="Franciaország",|FR| TV BREIZH HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127190
+#EXTINF:-1 tvg-ID="bet.fr" tvg-name="|FR| BET HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/BET.png" group-title="Franciaország",|FR| BET HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127192
+#EXTINF:-1 tvg-ID="comedycentral.fr" tvg-name="|FR| COMEDY CENTRAL HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/COMEDY_CENTRAL.png" group-title="Franciaország",|FR| COMEDY CENTRAL HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127195
+#EXTINF:-1 tvg-ID="" tvg-name="-----| MUSIQUE FRANCE SD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| MUSIQUE FRANCE SD |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127371
+#EXTINF:-1 tvg-ID="m6music.fr" tvg-name="|FR| M6 MUSIC SD" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/M6_MUSIC.png" group-title="Franciaország",|FR| M6 MUSIC SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127377
+#EXTINF:-1 tvg-ID="mezzo.fr" tvg-name="|FR| MEZZO SD" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/MEZZO.png" group-title="Franciaország",|FR| MEZZO SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127383
+#EXTINF:-1 tvg-ID="olympia.fr" tvg-name="|FR| OLYMPIA SD" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/OLYMPIA_TV.png" group-title="Franciaország",|FR| OLYMPIA SD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127385
+#EXTINF:-1 tvg-ID="" tvg-name="-----| MUSIQUE FRANCE HEVC |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="Franciaország",-----| MUSIQUE FRANCE HEVC |-----
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127354
+#EXTINF:-1 tvg-ID="CStarHitsFrance.fr" tvg-name="|FR| C STAR HIT HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/CSTAR_HITS_FRANCE.png" group-title="Franciaország",|FR| C STAR HIT HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127356
+#EXTINF:-1 tvg-ID="m6music.fr" tvg-name="|FR| M6 MUSIC HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/M6_MUSIC.png" group-title="Franciaország",|FR| M6 MUSIC HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127358
+#EXTINF:-1 tvg-ID="mcmtop.fr" tvg-name="|FR| MCM TOP HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/" group-title="Franciaország",|FR| MCM TOP HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127363
+#EXTINF:-1 tvg-ID="nrjhits.fr" tvg-name="|FR| NRJ HITS HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/NRJ_HITS.png" group-title="Franciaország",|FR| NRJ HITS HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127365
+#EXTINF:-1 tvg-ID="TraceGospel.af" tvg-name="|FR| TRACE GOSPEL HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/MUSIC/" group-title="Franciaország",|FR| TRACE GOSPEL HEVC
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/127369
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN 1 FRANCE HD" tvg-logo="http://vodkom.com/Logo/FRANCE.DAZN/DAZN_1.png" group-title="Franciaország",|FR| DAZN 1 FRANCE HD
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658643
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 1 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/MYFRANCE/DAZN_PPV_HD.png" group-title="Franciaország",|FR| DAZN EVENTS 1 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658644
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 2 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/MYFRANCE/DAZN_PPV_HD.png" group-title="Franciaország",|FR| DAZN EVENTS 2 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658645
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 3 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/MYFRANCE/DAZN_PPV_HD.png" group-title="Franciaország",|FR| DAZN EVENTS 3 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658646
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 4 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/MYFRANCE/DAZN_PPV_HD.png" group-title="Franciaország",|FR| DAZN EVENTS 4 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658647
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 5 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/MYFRANCE/DAZN_PPV_HD.png" group-title="Franciaország",|FR| DAZN EVENTS 5 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658648
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 6 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/MYFRANCE/DAZN_PPV_HD.png" group-title="Franciaország",|FR| DAZN EVENTS 6 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658649
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 7 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/MYFRANCE/DAZN_PPV_HD.png" group-title="Franciaország",|FR| DAZN EVENTS 7 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658650
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 8 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/MYFRANCE/DAZN_PPV_HD.png" group-title="Franciaország",|FR| DAZN EVENTS 8 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658651
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 9 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/MYFRANCE/DAZN_PPV_HD.png" group-title="Franciaország",|FR| DAZN EVENTS 9 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658652
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 10 HD (ONLY ON LIVE)" tvg-logo="http://vodkom.com/MYFRANCE/DAZN_PPV_HD.png" group-title="Franciaország",|FR| DAZN EVENTS 10 HD (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658653
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (SKWEEK) - LIVE 1 FHD (ONLY ON EVENT)" tvg-logo="" group-title="Franciaország",|FR| (SKWEEK) - LIVE 1 FHD (ONLY ON EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658654
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (SKWEEK) - LIVE 2 FHD (ONLY ON EVENT)" tvg-logo="" group-title="Franciaország",|FR| (SKWEEK) - LIVE 2 FHD (ONLY ON EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658655
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (SKWEEK) - LIVE 3 FHD (ONLY ON EVENT)" tvg-logo="" group-title="Franciaország",|FR| (SKWEEK) - LIVE 3 FHD (ONLY ON EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658656
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (SKWEEK) - LIVE 4 FHD (ONLY ON EVENT)" tvg-logo="" group-title="Franciaország",|FR| (SKWEEK) - LIVE 4 FHD (ONLY ON EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658657
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (SKWEEK) - LIVE 5 FHD (ONLY ON EVENT)" tvg-logo="" group-title="Franciaország",|FR| (SKWEEK) - LIVE 5 FHD (ONLY ON EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658658
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (SKWEEK) - LIVE 6 FHD (ONLY ON EVENT)" tvg-logo="" group-title="Franciaország",|FR| (SKWEEK) - LIVE 6 FHD (ONLY ON EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658659
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (SKWEEK) - LIVE 7 FHD (ONLY ON EVENT)" tvg-logo="" group-title="Franciaország",|FR| (SKWEEK) - LIVE 7 FHD (ONLY ON EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658660
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (SKWEEK) - LIVE 8 FHD (ONLY ON EVENT)" tvg-logo="" group-title="Franciaország",|FR| (SKWEEK) - LIVE 8 FHD (ONLY ON EVENT)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658661
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 1 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 1 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658662
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 2 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 2 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658663
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 3 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 3 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658664
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 4 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 4 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658665
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 5 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 5 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658666
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 6 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 6 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658667
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 7 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 7 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658668
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 8 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 8 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658669
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 9 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 9 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658670
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 11 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 11 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658672
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 12 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 12 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658673
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 13 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 13 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658674
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 14 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 14 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658675
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 15 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 15 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658676
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 16 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 16 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658677
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 17 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 17 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658678
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 18 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 18 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658679
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| (FANSEAT) - EVENT 10 FHD - (ONLY ON LIVE)" tvg-logo="" group-title="Franciaország",|FR| (FANSEAT) - EVENT 10 FHD - (ONLY ON LIVE)
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/658671
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE INFO" tvg-logo="" group-title="Franciaország",FRANCE INFO
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185950
+#EXTINF:-1 tvg-ID="" tvg-name="France Inter" tvg-logo="" group-title="Franciaország",France Inter
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185951
+#EXTINF:-1 tvg-ID="" tvg-name="France Musique" tvg-logo="" group-title="Franciaország",France Musique
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185953
+#EXTINF:-1 tvg-ID="" tvg-name="France Musique : La Jazz" tvg-logo="" group-title="Franciaország",France Musique : La Jazz
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/186102
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ France" tvg-logo="" group-title="Franciaország",NRJ France
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185963
+#EXTINF:-1 tvg-ID="" tvg-name="Cherie FM" tvg-logo="" group-title="Franciaország",Cherie FM
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185961
+#EXTINF:-1 tvg-ID="" tvg-name="FIP" tvg-logo="" group-title="Franciaország",FIP
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185954
+#EXTINF:-1 tvg-ID="" tvg-name="TSF Jazz" tvg-logo="" group-title="Franciaország",TSF Jazz
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185955
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Classique" tvg-logo="" group-title="Franciaország",Radio Classique
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185956
+#EXTINF:-1 tvg-ID="" tvg-name="RMC Info Talk Sport" tvg-logo="" group-title="Franciaország",RMC Info Talk Sport
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185958
+#EXTINF:-1 tvg-ID="" tvg-name="Rire et Chansons" tvg-logo="" group-title="Franciaország",Rire et Chansons
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185959
+#EXTINF:-1 tvg-ID="" tvg-name="RFM 103.9 FM" tvg-logo="" group-title="Franciaország",RFM 103.9 FM
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185960
+#EXTINF:-1 tvg-ID="" tvg-name="Nostalgie" tvg-logo="" group-title="Franciaország",Nostalgie
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185962
+#EXTINF:-1 tvg-ID="" tvg-name="Voltage" tvg-logo="" group-title="Franciaország",Voltage
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185964
+#EXTINF:-1 tvg-ID="" tvg-name="BFM Business" tvg-logo="" group-title="Franciaország",BFM Business
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/186095
+#EXTINF:-1 tvg-ID="" tvg-name="Swigg" tvg-logo="" group-title="Franciaország",Swigg
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185965
+#EXTINF:-1 tvg-ID="" tvg-name="Skyrock" tvg-logo="" group-title="Franciaország",Skyrock
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185966
+#EXTINF:-1 tvg-ID="" tvg-name="Fun Radio FR" tvg-logo="" group-title="Franciaország",Fun Radio FR
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185967
+#EXTINF:-1 tvg-ID="" tvg-name="Virgin Radio Officiel" tvg-logo="" group-title="Franciaország",Virgin Radio Officiel
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185968
+#EXTINF:-1 tvg-ID="" tvg-name="FG Radio FG" tvg-logo="" group-title="Franciaország",FG Radio FG
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185969
+#EXTINF:-1 tvg-ID="" tvg-name="FG. Chic" tvg-logo="" group-title="Franciaország",FG. Chic
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185970
+#EXTINF:-1 tvg-ID="" tvg-name="FG. Deep et Dance" tvg-logo="" group-title="Franciaország",FG. Deep et Dance
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185971
+#EXTINF:-1 tvg-ID="" tvg-name="FG. Underground" tvg-logo="" group-title="Franciaország",FG. Underground
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185972
+#EXTINF:-1 tvg-ID="" tvg-name="FG. Club" tvg-logo="" group-title="Franciaország",FG. Club
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185973
+#EXTINF:-1 tvg-ID="" tvg-name="Starter FG by Hakimakli" tvg-logo="" group-title="Franciaország",Starter FG by Hakimakli
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185974
+#EXTINF:-1 tvg-ID="" tvg-name="FG NON STOP" tvg-logo="" group-title="Franciaország",FG NON STOP
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185975
+#EXTINF:-1 tvg-ID="" tvg-name="Virgin Radio Electroshock" tvg-logo="" group-title="Franciaország",Virgin Radio Electroshock
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185976
+#EXTINF:-1 tvg-ID="" tvg-name="Virgin Radio New" tvg-logo="" group-title="Franciaország",Virgin Radio New
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185977
+#EXTINF:-1 tvg-ID="" tvg-name="Virgin Radio Hits" tvg-logo="" group-title="Franciaország",Virgin Radio Hits
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185978
+#EXTINF:-1 tvg-ID="" tvg-name="Virgin Radio Classics" tvg-logo="" group-title="Franciaország",Virgin Radio Classics
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185979
+#EXTINF:-1 tvg-ID="" tvg-name="Virgin Radio Rock" tvg-logo="" group-title="Franciaország",Virgin Radio Rock
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185980
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ Electro" tvg-logo="" group-title="Franciaország",NRJ Electro
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185981
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ EDM" tvg-logo="" group-title="Franciaország",NRJ EDM
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185982
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ CLUB HITS" tvg-logo="" group-title="Franciaország",NRJ CLUB HITS
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185983
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ HITS REMIX" tvg-logo="" group-title="Franciaország",NRJ HITS REMIX
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185984
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ PARTY HITS" tvg-logo="" group-title="Franciaország",NRJ PARTY HITS
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185985
+#EXTINF:-1 tvg-ID="" tvg-name="Radio FREEDOM" tvg-logo="" group-title="Franciaország",Radio FREEDOM
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/186096
+#EXTINF:-1 tvg-ID="" tvg-name="M Radio - 100% Johnny" tvg-logo="" group-title="Franciaország",M Radio - 100% Johnny
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/186097
+#EXTINF:-1 tvg-ID="" tvg-name="FIP autour du groove" tvg-logo="" group-title="Franciaország",FIP autour du groove
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/186098
+#EXTINF:-1 tvg-ID="" tvg-name="Tout nouveau tout FIP" tvg-logo="" group-title="Franciaország",Tout nouveau tout FIP
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/186099
+#EXTINF:-1 tvg-ID="" tvg-name="FIP autour du rock" tvg-logo="" group-title="Franciaország",FIP autour du rock
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/186100
+#EXTINF:-1 tvg-ID="" tvg-name="FIP autour du jazz" tvg-logo="" group-title="Franciaország",FIP autour du jazz
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/186101
+#EXTINF:-1 tvg-ID="" tvg-name="Jazz Radio : Nouveautes Jazz" tvg-logo="https://www.radio.fr/images/broadcasts/de/c3/32202/2/c300.png" group-title="Franciaország",Jazz Radio : Nouveautes Jazz
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/186103
+#EXTINF:-1 tvg-ID="" tvg-name="France Culture" tvg-logo="" group-title="Franciaország",France Culture
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185952
+#EXTINF:-1 tvg-ID="" tvg-name="Europe 1" tvg-logo="" group-title="Franciaország",Europe 1
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/185957
+#EXTINF:-1 tvg-ID="" tvg-name="Jazz Radio : Only Women" tvg-logo="https://www.radio.fr/images/broadcasts/85/e6/32200/2/c300.png" group-title="Franciaország",Jazz Radio : Only Women
+http://sans7.org:88/HTQUH1LSQY/BKD1UNDMZH/186104
 
 #EXTINF:-1 group-title="Franciaország",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
