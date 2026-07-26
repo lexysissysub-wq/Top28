@@ -1637,6 +1637,25 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/60374.m3u8
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Franciaország",MDL
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Franciaország",SYFY
+http://99.27.51.147:8080/SYFY/index.m3u8
+
+#EXTINF:-1 group-title="Franciaország",Cine Classic
+http://99.27.51.147/CineClassic/index.m3u8
+
+#EXTINF:-1 group-title="Franciaország",CineFamily
+http://99.27.51.147:8080/CineFamiz/index.m3u8
+
+
+
+
+
+
+
+
 #EXTM3U
 #EXTINF:-1 group-title="Olaszország",----- ITALIA -----
 http://o5dbsm3jgr.hyblu.xyz:80/live/figli@m@ss1221/051221/51525.ts
@@ -1801,6 +1820,17 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab200
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
  #EXTINF:-1 group-title="Zene",-OCKO
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+ #EXTINF:-1 group-title="Zene",Afrobeats 247
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Zene",V2BEAT
+https://de1se01.v2beat.live/playlist.m3u8
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="Spanyolország",24HORAS
@@ -1826,6 +1856,44 @@ https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 
 #EXTINF:-1 group-title="Spanyolország",ELCHE 7
 https://elche7tv.gestec-video.com/hls/canal2.m3u8
+
+
+
+#EXTINF:-1 group-title="Portugália",RTP1 HD
+http://50.7.120.34:8080/RTP_1/index.m3u8
+
+
+#EXTINF:-1 group-title="Portugália",RTP Memoria
+http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
+
+
+#EXTINF:-1 group-title="Portugália",SIC HD
+http://50.7.120.34:8080/SIC/index.m3u8
+
+#EXTINF:-1 group-title="Portugália",TVI
+http://50.7.120.34:8080/TVI/index.m3u8
+
+#EXTINF:-1 group-title="Portugália",Star Channel HD
+http://50.7.120.34:8080/FOX/index.m3u8
+
+#EXTINF:-1 group-title="Portugália",Star Life HD
+http://50.7.120.34:8080/FOX_LIFE/index.m3u8
+
+#EXTINF:-1 group-title="Portugália",Star Comedy HD
+http://50.7.120.34:8080/FOX_COMEDY/index.m3u8
+
+#EXTINF:-1 group-title="Portugália",Fox Movies
+http://50.7.120.34:8080/FOX_MOVIES/index.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTM3U
@@ -2096,6 +2164,16 @@ http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="Csehország",ÚTV (1080p)
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 
+ #EXTINF:0 group-title="Csehország",  TV Ružinov HD
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+ #EXTINF:0 group-title="Csehország",  Óčko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+ #EXTINF:0 group-title="Csehország",  Óčko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+
+
+
+
 
 
 #EXTINF:-1 group-title="Lengyelország",TV Kujawy
@@ -2197,6 +2275,44 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
  #EXTINF:-1 group-title="VILÁG", KZ 24 Kazah
 https://stream8.cinerama.uz/1408/tracks-v1a1/mono.m3u8
+ #EXTINF:-1 group-title="VILÁG",Time Line
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+ #EXTINF:-1 group-title="VILÁG",  Horse and Country
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="VILÁG", 8  COSTA RICA
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+
+
+
+
+#EXTINF:-1 group-title="Mexikó",ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1 group-title="Mexikó",Onda Algeciras TV
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+
+#EXTINF:-1 group-title="Mexikó",CANAL 6 MEXICO
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 group-title="Mexikó",EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="Mexikó",MyTime Movie Network Spain HD
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Mexikó",Tele Elx HD
+https://tvdirecto.teleelx.es/stream/teleelx.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
