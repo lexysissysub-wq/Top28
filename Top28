@@ -3329,10 +3329,8 @@ http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/715/index.m3u8
 #EXTGRP:Oroszország
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/746/index.m3u8
 #EXTINF:0 tvg-rec="3" group-title="Franciaország",France 24 HD FR
-#EXTGRP:Oroszország
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/947/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title=" VILÁG",CNBC HD US
-#EXTGRP:Oroszország
+ #EXTINF:-1 group-title="VILÁG",  CNBC HD US
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/962/index.m3u8
 #EXTINF:0 tvg-rec="7" group-title="Oroszország",360
 #EXTGRP:Oroszország
@@ -3340,14 +3338,12 @@ http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/825/index.m3u8
 #EXTINF:0 tvg-rec="7" group-title="Oroszország",Euronews 
 #EXTGRP:Oroszország
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/828/index.m3u8
-#EXTINF:0 tvg-rec="7" group-title="VILÁG ",CGTN
-#EXTGRP:Oroszország
+  #EXTINF:-1 group-title="VILÁG",  CGTN
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/830/index.m3u8
 #EXTINF:0 tvg-rec="3" group-title="Oroszország",RT News
 #EXTGRP:Oroszország
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/840/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title=" VILÁG",CNN International Europe
-#EXTGRP:Oroszország
+  #EXTINF:-1 group-title="VILÁG",   CNN International Europe
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/842/index.m3u8
 #EXTINF:0 tvg-rec="7" group-title="Oroszország",Iz
 #EXTGRP:Oroszország
