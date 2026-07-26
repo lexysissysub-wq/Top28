@@ -2514,7 +2514,53 @@ http://85.132.78.122:8050/hls/stream/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="AM: Geghama TV" tvg-logo="https://mytv.do.am/logo/geghama.png" group-title="Örményország",Geghama TV
+http://45.11.139.43:8555/geghama/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://mytv.do.am/logo/deltatravel.png" group-title="Örményország",Delta Travel
+http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
+
+#EXTINF:-1 tvg-id="AM: ATV Fitness" tvg-logo="https://mytv.do.am/logo/fitnes.png" group-title="Örményország",ATV Fitness TV
+http://45.11.139.43:8555/fitnes/index.m3u8
+
+#EXTINF:-1 group-title="Örményország" tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png",Shant
+http://5.188.172.179/Shant/index.m3u8
+
+#EXTINF:-1 group-title="Örményország" tvg-logo="https://i.ibb.co/1KDxsXR/SGN-05-01-2022-1651413983093.png",USArmenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+
+#EXTINF:-1 group-title="Örményország" tvg-logo="https://i.ibb.co/xS74qgH/SGN-12-18-2021-1639837346709.png",Luys
+http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Örményország",Formula TV HD
+https://tv.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Örményország",Palitranews
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+
+#EXTINF:-1 group-title="Örményország",1TV HD
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
+
+#EXTINF:-1 group-title="Örményország",1 Sport
+http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Örményország",1 Radio
+https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8?token=tva.org.ua
+
+#EXTINF:-1 group-title="Örményország",2 Radio
+https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8?token=tva.org.ua
+
+#EXTINF:-1 group-title="Örményország",Formula
+https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
+
+#EXTINF:-1 group-title="Örményország",TV Net
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+
+#EXTINF:-1 group-title="Örményország" tvg-logo="https://i.imgur.com/r4rlHUt.png",Tvnet
+https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
+
+#EXTINF:-1 group-title="Örményország",Re TV
+https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 
 
 
