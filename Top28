@@ -7259,7 +7259,7 @@ http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/20022/index.m3u8
 #EXTINF:-1 group-title="Ukrajna", 4ever Drama HD UA
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/17051/index.m3u8
 #EXTINF:-1 group-title="Oroszország", NOW Series HD
-http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/15102/index.m3u8 4ever Drama HD UA
+http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/15102/index.m3u8 
 #EXTINF:0 tvg-rec="0" group-title="Oroszország",Citrus Holiday
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/16089/index.m3u8
 #EXTINF:0 tvg-rec="3" group-title="Oroszország",VF Scaslivi Vmeste
@@ -7392,18 +7392,7 @@ http://ekonomtv.com:25461/YNS0002/31378252/2152
 http://ekonomtv.com:25461/YNS0002/31378252/928
 #EXTINF:-1 tvg-id="7884" tvg-name="Yosso TV Netflix" tvg-logo="https://iptvx.one/picons/yosso-netflix.png" group-title="Oroszország",Yosso TV Netflix
 http://ekonomtv.com:25461/YNS0002/31378252/228
-#EXTINF:-1 tvg-id="" tvg-name="Oasis Horror" tvg-logo="https://epg.iptvx.one/picons/oasis-horror.png" group-title="Oroszország",Oasis Horror
-http://ekonomtv.com:25461/YNS0002/31378252/2165
-#EXTINF:-1 tvg-id="" tvg-name="Oasis Фантастика" tvg-logo="https://epg.iptvx.one/picons/oasis-fantastika.png" group-title="Oroszország",Oasis Фантастика
-http://ekonomtv.com:25461/YNS0002/31378252/2164
-#EXTINF:-1 tvg-id="" tvg-name="Oasis Detective" tvg-logo="https://epg.iptvx.one/picons/oasis-detective.png" group-title="Oroszország",Oasis Detective
-http://ekonomtv.com:25461/YNS0002/31378252/2163
-#EXTINF:-1 tvg-id="" tvg-name="Oasis Comedy" tvg-logo="https://epg.iptvx.one/picons/oasis-comedy.png" group-title="Oroszország",Oasis Comedy
-http://ekonomtv.com:25461/YNS0002/31378252/2162
-#EXTINF:-1 tvg-id="" tvg-name="Oasis Best of Marvel" tvg-logo="https://epg.iptvx.one/picons/oasis-marvel.png" group-title="Oroszország",Oasis Best of Marvel
-http://ekonomtv.com:25461/YNS0002/31378252/2161
-#EXTINF:-1 tvg-id="" tvg-name="Oasis Action" tvg-logo="https://epg.iptvx.one/picons/oasis-action.png" group-title="Oroszország",Oasis Action
-http://ekonomtv.com:25461/YNS0002/31378252/2160
+
 #EXTINF:-1 tvg-id="" tvg-name="KBC-Newfilm" tvg-logo="https://epg.iptvx.one/picons/kbc-newfilm.png" group-title="Oroszország",KBC-Newfilm
 http://ekonomtv.com:25461/YNS0002/31378252/2157
 #EXTINF:-1 tvg-id="" tvg-name="KBC-Elite Comedys" tvg-logo="https://epg.iptvx.one/picons/kbc-elite-comedys.png" group-title="Oroszország",KBC-Elite Comedys
@@ -7697,42 +7686,28 @@ http://ekonomtv.com:25461/YNS0002/31378252/907
 http://ekonomtv.com:25461/YNS0002/31378252/914
 #EXTINF:-1 tvg-id="615" tvg-name="FX LIFE" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="Törökország",FX LIFE
 http://ekonomtv.com:25461/YNS0002/31378252/915
-#EXTINF:-1 tvg-id="2831" tvg-name="Наш Кинопоказ" tvg-logo="https://iptvx.one/picons/nash-kinopokaz.png" group-title="Törökország",Наш Кинопоказ
-http://ekonomtv.com:25461/YNS0002/31378252/916
-#EXTINF:-1 tvg-id="934" tvg-name="Hollywood HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="Törökország",Hollywood HD
-http://ekonomtv.com:25461/YNS0002/31378252/1082
-#EXTINF:-1 tvg-id="9002" tvg-name="Советская киноклассика" tvg-logo="https://iptvx.one/picons/sov-kinklass.png" group-title="Törökország",Советская киноклассика
-http://ekonomtv.com:25461/YNS0002/31378252/1083
-#EXTINF:-1 tvg-id="2773" tvg-name="День Победы" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-title="Törökország",День Победы
-http://ekonomtv.com:25461/YNS0002/31378252/1084
+
 #EXTINF:-1 tvg-id="2589" tvg-name="A Haber" tvg-logo="http://epg.one/img/2589.png" group-title="Törökország",A Haber
 http://ekonomtv.com:25461/YNS0002/31378252/1147
 #EXTINF:-1 tvg-id="3939" tvg-name="TRT 2" tvg-logo="https://iptvx.one/picons/trt-2-hd.png" group-title="Törökország",TRT 2
 http://ekonomtv.com:25461/YNS0002/31378252/1149
-#EXTINF:-1 tvg-id="834" tvg-name="Дом Кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Törökország",Дом Кино
-http://ekonomtv.com:25461/YNS0002/31378252/1227
+
 #EXTINF:-1 tvg-id="" tvg-name="EKOL TV" tvg-logo="https://i.postimg.cc/gjf3PzzY/Screenshot-2025-01-05-223233.png" group-title="Törökország",EKOL TV
 http://ekonomtv.com:25461/YNS0002/31378252/1386
 #EXTINF:-1 tvg-id="3839" tvg-name="Akit TV" tvg-logo="http://epg.one/img/3839.png" group-title="Törökország",Akit TV
 http://ekonomtv.com:25461/YNS0002/31378252/1395
 #EXTINF:-1 tvg-id="" tvg-name="MELTEM TV" tvg-logo="http://epg.one/img/3851.png" group-title="Törökország",MELTEM TV
 http://ekonomtv.com:25461/YNS0002/31378252/1407
-#EXTINF:-1 tvg-id="2174" tvg-name="Дорама" tvg-logo="http://epg.one/img/2174.png" group-title="Törökország",Дорама
-http://ekonomtv.com:25461/YNS0002/31378252/1617
+
 #EXTINF:-1 tvg-id="" tvg-name="ULKE TV" tvg-logo="http://epg.one/img/3986.png" group-title="Törökország",ULKE TV
 http://ekonomtv.com:25461/YNS0002/31378252/1625
-#EXTINF:-1 tvg-id="Русская комедия" tvg-name="Русская Комедия" tvg-logo="https://epg.iptvx.one/picons/russkaya-komedia.png" group-title="Törökország",Русская Комедия
-http://ekonomtv.com:25461/YNS0002/31378252/1678
-#EXTINF:-1 tvg-id="309" tvg-name="TV XXI" tvg-logo="https://epg.iptvx.one/picons/tvxxi.png" group-title="Törökország",TV XXI
-http://ekonomtv.com:25461/YNS0002/31378252/1682
-#EXTINF:-1 tvg-id="2407" tvg-name="Киноман" tvg-logo="https://i.postimg.cc/hGQbMsgD/kmn.png" group-title="Törökország",Киноман
-http://ekonomtv.com:25461/YNS0002/31378252/1686
+
+
 #EXTINF:-1 tvg-id="6241" tvg-name="START Air HD" tvg-logo="https://epg.iptvx.one/picons/start-air.png" group-title="Törökország",START Air HD
 http://ekonomtv.com:25461/YNS0002/31378252/1687
 #EXTINF:-1 tvg-id="6240" tvg-name="START World" tvg-logo="https://epg.iptvx.one/picons/start-world.png" group-title="Törökország",START World
 http://ekonomtv.com:25461/YNS0002/31378252/1688
-#EXTINF:-1 tvg-id="7276" tvg-name="VF Гарри Поттер" tvg-logo="https://epg.iptvx.one/picons/vf-garipoter.png" group-title="Törökország",VF Гарри Поттер
-http://ekonomtv.com:25461/YNS0002/31378252/1696
+
 #EXTINF:-1 tvg-id="" tvg-name="bir TV" tvg-logo="https://i.postimg.cc/4x5rsJhy/birtv.png" group-title="Törökország",bir TV
 http://ekonomtv.com:25461/YNS0002/31378252/1704
 #EXTINF:-1 tvg-id="" tvg-name="tele NEWS" tvg-logo="https://i.postimg.cc/cCRFhmRf/telenews.png" group-title="Törökország",tele NEWS
@@ -7741,116 +7716,7 @@ http://ekonomtv.com:25461/YNS0002/31378252/1705
 http://ekonomtv.com:25461/YNS0002/31378252/1726
 #EXTINF:-1 tvg-id="" tvg-name="TGRT BELGESEL" tvg-logo="https://i.postimg.cc/G22L1B5m/TG-BELG.png" group-title="Törökország",TGRT BELGESEL
 http://ekonomtv.com:25461/YNS0002/31378252/1727
-#EXTINF:-1 tvg-id="" tvg-name="Retro Movies" tvg-logo="https://i.postimg.cc/zGXGwYDs/retro-Movi.png" group-title="Törökország",Retro Movies
-http://ekonomtv.com:25461/YNS0002/31378252/1757
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA" tvg-logo="https://i.postimg.cc/rpkgZjbf/cinema.png" group-title="Törökország",CINEMA
-http://ekonomtv.com:25461/YNS0002/31378252/1787
-#EXTINF:-1 tvg-id="" tvg-name=".BLACK" tvg-logo="https://epg.iptvx.one/picons/sony-turbo.png" group-title="Törökország",.BLACK
-http://ekonomtv.com:25461/YNS0002/31378252/1789
-#EXTINF:-1 tvg-id="" tvg-name=".RED" tvg-logo="https://epg.iptvx.one/picons/sony.png" group-title="Törökország",.RED
-http://ekonomtv.com:25461/YNS0002/31378252/1790
-#EXTINF:-1 tvg-id="" tvg-name="Fenix SSSR" tvg-logo="https://i.postimg.cc/jq9QTWLG/fenix.png" group-title="Törökország",Fenix SSSR
-http://ekonomtv.com:25461/YNS0002/31378252/1973
-#EXTINF:-1 tvg-id="" tvg-name="ВИДЕОСАЛОН VHS" tvg-logo="https://i.postimg.cc/s29wD3tR/vhs-2.png" group-title="Törökország",ВИДЕОСАЛОН VHS
-http://ekonomtv.com:25461/YNS0002/31378252/1974
-#EXTINF:-1 tvg-id="" tvg-name="VHS-КРУТАЯ ВИДЕОТЕКА" tvg-logo="https://i.postimg.cc/fyHPWMSX/vhs.png" group-title="Törökország",VHS-КРУТАЯ ВИДЕОТЕКА
-http://ekonomtv.com:25461/YNS0002/31378252/1976
-#EXTINF:-1 tvg-id="" tvg-name="КИНО ВЫХОД" tvg-logo="https://i.postimg.cc/nLjp6w5S/kino-vixod.png" group-title="Törökország",КИНО ВЫХОД
-http://ekonomtv.com:25461/YNS0002/31378252/1977
-#EXTINF:-1 tvg-id="" tvg-name="Кино 1 International" tvg-logo="https://i.postimg.cc/Gtc0hMMQ/kino-1.png" group-title="Törökország",Кино 1 International
-http://ekonomtv.com:25461/YNS0002/31378252/1978
-#EXTINF:-1 tvg-id="5981" tvg-name="VF New Year" tvg-logo="https://epg.iptvx.one/picons/vf-newyear.png" group-title="Törökország",VF New Year
-http://ekonomtv.com:25461/YNS0002/31378252/1791
-#EXTINF:-1 tvg-id="" tvg-name="VF Anime" tvg-logo="http://epg.one/img/4592.png" group-title="Törökország",VF Anime
-http://ekonomtv.com:25461/YNS0002/31378252/1627
-#EXTINF:-1 tvg-id="7278" tvg-name="VF Disney Movie" tvg-logo="https://i.postimg.cc/HxYVfwCG/disney.png" group-title="Törökország",VF Disney Movie
-http://ekonomtv.com:25461/YNS0002/31378252/197
-#EXTINF:-1 tvg-id="4794" tvg-name="VF Оскар" tvg-logo="https://iptvx.one/picons/vf-oskar.png" group-title="Törökország",VF Оскар
-http://ekonomtv.com:25461/YNS0002/31378252/110
-#EXTINF:-1 tvg-id="5206" tvg-name="VF Криминал" tvg-logo="https://iptvx.one/picons/vf-kriminal.png" group-title="Törökország",VF Криминал
-http://ekonomtv.com:25461/YNS0002/31378252/229
-#EXTINF:-1 tvg-id="4736" tvg-name="BCU Кинозал Premiere 1 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-1.png" group-title="Törökország",BCU Кинозал Premiere 1 HD
-http://ekonomtv.com:25461/YNS0002/31378252/222
-#EXTINF:-1 tvg-id="4737" tvg-name="BCU Кинозал Premiere 2 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-2.png" group-title="Törökország",BCU Кинозал Premiere 2 HD
-http://ekonomtv.com:25461/YNS0002/31378252/223
-#EXTINF:-1 tvg-id="4738" tvg-name="BCU Кинозал Premiere 3 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-3.png" group-title="Törökország",BCU Кинозал Premiere 3 HD
-http://ekonomtv.com:25461/YNS0002/31378252/224
-#EXTINF:-1 tvg-id="4750" tvg-name="BCU Cinema HD" tvg-logo="https://iptvx.one/picons/bcu-cinema.png" group-title="Törökország",BCU Cinema HD
-http://ekonomtv.com:25461/YNS0002/31378252/225
-#EXTINF:-1 tvg-id="4755" tvg-name="BCU History HD" tvg-logo="https://iptvx.one/picons/bcu-history.png" group-title="Törökország",BCU History HD
-http://ekonomtv.com:25461/YNS0002/31378252/894
-#EXTINF:-1 tvg-id="4763" tvg-name="BCU VHS HD" tvg-logo="https://iptvx.one/picons/bcu-vhs-hd.png" group-title="Törökország",BCU VHS HD
-http://ekonomtv.com:25461/YNS0002/31378252/895
-#EXTINF:-1 tvg-id="4760" tvg-name="BCU Premiere HD" tvg-logo="https://iptvx.one/picons/bcu-premiere.png" group-title="Törökország",BCU Premiere HD
-http://ekonomtv.com:25461/YNS0002/31378252/896
-#EXTINF:-1 tvg-id="4747" tvg-name="BCU СССР HD" tvg-logo="https://iptvx.one/picons/bcu-sssr-hd.png" group-title="Törökország",BCU СССР HD
-http://ekonomtv.com:25461/YNS0002/31378252/897
-#EXTINF:-1 tvg-id="4748" tvg-name="BCU Action HD" tvg-logo="https://iptvx.one/picons/bcu-action.png" group-title="Törökország",BCU Action HD
-http://ekonomtv.com:25461/YNS0002/31378252/898
-#EXTINF:-1 tvg-id="4754" tvg-name="BCU FilMystic HD" tvg-logo="https://iptvx.one/picons/bcu-filmystic.png" group-title="Törökország",BCU FilMystic HD
-http://ekonomtv.com:25461/YNS0002/31378252/899
-#EXTINF:-1 tvg-id="4749" tvg-name="BCU Catastrophe HD" tvg-logo="https://iptvx.one/picons/bcu-catastrophe.png" group-title="Törökország",BCU Catastrophe HD
-http://ekonomtv.com:25461/YNS0002/31378252/900
-#EXTINF:-1 tvg-id="4758" tvg-name="BCU Kinorating HD" tvg-logo="https://iptvx.one/picons/bcu-kinorating.png" group-title="Törökország",BCU Kinorating HD
-http://ekonomtv.com:25461/YNS0002/31378252/901
-#EXTINF:-1 tvg-id="5124" tvg-name="минимакс-newfilm 1 HD" tvg-logo="https://iptvx.one/picons/minimax-newfilm1.png" group-title="Törökország",минимакс-newfilm 1 HD
-http://ekonomtv.com:25461/YNS0002/31378252/802
-#EXTINF:-1 tvg-id="5125" tvg-name="минимакс-newfilm 2 HD" tvg-logo="https://iptvx.one/picons/minimax-newfilm2.png" group-title="Törökország",минимакс-newfilm 2 HD
-http://ekonomtv.com:25461/YNS0002/31378252/803
-#EXTINF:-1 tvg-id="5126" tvg-name="минимакс-newfilm 3 HD" tvg-logo="https://iptvx.one/picons/minimax-newfilm3.png" group-title="Törökország",минимакс-newfilm 3 HD
-http://ekonomtv.com:25461/YNS0002/31378252/804
-#EXTINF:-1 tvg-id="5127" tvg-name="минимакс-newfilm.ru 4 HD" tvg-logo="https://iptvx.one/picons/minimax-newfilmru.png" group-title="Törökország",минимакс-newfilm.ru 4 HD
-http://ekonomtv.com:25461/YNS0002/31378252/805
-#EXTINF:-1 tvg-id="5130" tvg-name="MM UFO" tvg-logo="https://iptvx.one/picons/minimax-ufo.png" group-title="Törökország",MM UFO
-http://ekonomtv.com:25461/YNS0002/31378252/857
-#EXTINF:-1 tvg-id="5141" tvg-name="MM Боевик" tvg-logo="https://iptvx.one/picons/minimax-boevik.png" group-title="Törökország",MM Боевик
-http://ekonomtv.com:25461/YNS0002/31378252/858
-#EXTINF:-1 tvg-id="5147" tvg-name="MM Катастрофа" tvg-logo="https://iptvx.one/picons/minimax-katastrofa.png" group-title="Törökország",MM Катастрофа
-http://ekonomtv.com:25461/YNS0002/31378252/859
-#EXTINF:-1 tvg-id="6063" tvg-name="MM Celebrity HD" tvg-logo="https://iptvx.one/picons/minimax-celebrity.png" group-title="Törökország",MM Celebrity HD
-http://ekonomtv.com:25461/YNS0002/31378252/860
-#EXTINF:-1 tvg-id="5212" tvg-name="MM Ужасы HD" tvg-logo="https://iptvx.one/picons/minimax-ujasi.png" group-title="Törökország",MM Ужасы HD
-http://ekonomtv.com:25461/YNS0002/31378252/862
-#EXTINF:-1 tvg-id="5169" tvg-name="MM Супергерои HD" tvg-logo="https://iptvx.one/picons/minimax-supergeroi.png" group-title="Törökország",MM Супергерои HD
-http://ekonomtv.com:25461/YNS0002/31378252/863
-#EXTINF:-1 tvg-id="5209" tvg-name="MM USSR Детектив HD" tvg-logo="https://iptvx.one/picons/minimax-ussr-detektiv.png" group-title="Törökország",MM USSR Детектив HD
-http://ekonomtv.com:25461/YNS0002/31378252/864
-#EXTINF:-1 tvg-id="5164" tvg-name="MM Сваты HD" tvg-logo="https://iptvx.one/picons/minimax-svati.png" group-title="Törökország",MM Сваты HD
-http://ekonomtv.com:25461/YNS0002/31378252/865
-#EXTINF:-1 tvg-id="5123" tvg-name="MM Love HD" tvg-logo="https://iptvx.one/picons/minimax-love.png" group-title="Törökország",MM Love HD
-http://ekonomtv.com:25461/YNS0002/31378252/866
-#EXTINF:-1 tvg-id="5167" tvg-name="MM Спорт HD" tvg-logo="https://iptvx.one/picons/minimax-sport.png" group-title="Törökország",MM Спорт HD
-http://ekonomtv.com:25461/YNS0002/31378252/867
-#EXTINF:-1 tvg-id="5210" tvg-name="MM Семейный 1 HD" tvg-logo="https://iptvx.one/picons/minimax-family1.png" group-title="Törökország",MM Семейный 1 HD
-http://ekonomtv.com:25461/YNS0002/31378252/926
-#EXTINF:-1 tvg-id="5211" tvg-name="MM Семейный 2 HD" tvg-logo="https://iptvx.one/picons/minimax-family2.png" group-title="Törökország",MM Семейный 2 HD
-http://ekonomtv.com:25461/YNS0002/31378252/927
-#EXTINF:-1 tvg-id="" tvg-name="MM Ужастик" tvg-logo="https://epg.iptvx.one/picons/minimax-ujastik.png" group-title="Törökország",MM Ужастик
-http://ekonomtv.com:25461/YNS0002/31378252/2153
-#EXTINF:-1 tvg-id="" tvg-name="MM Приключения" tvg-logo="https://epg.iptvx.one/picons/minimax-prikluchenija.png" group-title="Törökország",MM Приключения
-http://ekonomtv.com:25461/YNS0002/31378252/2152
-#EXTINF:-1 tvg-id="4694" tvg-name="Кинозал! Интерны ТВ" tvg-logo="https://i.postimg.cc/LXrkvnVC/INTERN.png" group-title="Törökország",Кинозал! Интерны ТВ
-http://ekonomtv.com:25461/YNS0002/31378252/928
-#EXTINF:-1 tvg-id="7884" tvg-name="Yosso TV Netflix" tvg-logo="https://iptvx.one/picons/yosso-netflix.png" group-title="Törökország",Yosso TV Netflix
-http://ekonomtv.com:25461/YNS0002/31378252/228
-#EXTINF:-1 tvg-id="" tvg-name="Oasis Horror" tvg-logo="https://epg.iptvx.one/picons/oasis-horror.png" group-title="Törökország",Oasis Horror
-http://ekonomtv.com:25461/YNS0002/31378252/2165
-#EXTINF:-1 tvg-id="" tvg-name="Oasis Фантастика" tvg-logo="https://epg.iptvx.one/picons/oasis-fantastika.png" group-title="Törökország",Oasis Фантастика
-http://ekonomtv.com:25461/YNS0002/31378252/2164
-#EXTINF:-1 tvg-id="" tvg-name="Oasis Detective" tvg-logo="https://epg.iptvx.one/picons/oasis-detective.png" group-title="Törökország",Oasis Detective
-http://ekonomtv.com:25461/YNS0002/31378252/2163
-#EXTINF:-1 tvg-id="" tvg-name="Oasis Comedy" tvg-logo="https://epg.iptvx.one/picons/oasis-comedy.png" group-title="Törökország",Oasis Comedy
-http://ekonomtv.com:25461/YNS0002/31378252/2162
-#EXTINF:-1 tvg-id="" tvg-name="Oasis Best of Marvel" tvg-logo="https://epg.iptvx.one/picons/oasis-marvel.png" group-title="Törökország",Oasis Best of Marvel
-http://ekonomtv.com:25461/YNS0002/31378252/2161
-#EXTINF:-1 tvg-id="" tvg-name="Oasis Action" tvg-logo="https://epg.iptvx.one/picons/oasis-action.png" group-title="Törökország",Oasis Action
-http://ekonomtv.com:25461/YNS0002/31378252/2160
-#EXTINF:-1 tvg-id="" tvg-name="KBC-Newfilm" tvg-logo="https://epg.iptvx.one/picons/kbc-newfilm.png" group-title="Törökország",KBC-Newfilm
-http://ekonomtv.com:25461/YNS0002/31378252/2157
-#EXTINF:-1 tvg-id="" tvg-name="KBC-Elite Comedys" tvg-logo="https://epg.iptvx.one/picons/kbc-elite-comedys.png" group-title="Törökország",KBC-Elite Comedys
-http://ekonomtv.com:25461/YNS0002/31378252/2155
-#EXTINF:-1 tvg-id="" tvg-name="CineMan ПёС + Лихач" tvg-logo="http://epg.one/img/6052.png" group-title="Törökország",CineMan ПёС + Лихач
-http://ekonomtv.com:25461/YNS0002/31378252/1626
+
 #EXTINF:-1 tvg-id="" tvg-name="Tabii TV" tvg-logo="" group-title="Törökország",Tabii TV
 http://ekonomtv.com:25461/YNS0002/31378252/2221
 
