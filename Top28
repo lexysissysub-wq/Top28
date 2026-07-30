@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Magyar",Balaton TV
-https://stream.iptvservice.eu/hls/balatontv.m3u8
+https://stream.iptvservice.eu/hls/balatontv.m3u8 
 
 
 #EXTINF:-1 group-title="Magyar",DTV
