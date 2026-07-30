@@ -3918,8 +3918,8 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Zene",V2BEAT
 https://de1se01.v2beat.live/playlist.m3u8
-
-
+#EXTINF:-1 group-title="Zene",Rockentertainment
+https://thinkkast.dpdns.org/tkk-ph/i7/dr_rockentertainment/rock-entertainment.m3u8
 
 
 
