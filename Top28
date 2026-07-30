@@ -4032,8 +4032,12 @@ https://elche7tv.gestec-video.com/hls/canal2.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="Spanyolország",RTV1
+https://rtve01p.origin.c21livecloud.com/live-origin/clan-hls/bitrate_1.m3u8
+#EXTINF:-1 group-title="Spanyolország",RTV 1
+https://rtve01p.origin.c21livecloud.com/live-origin/24h-hls/bitrate_1.m3u8
+#EXTINF:-1 group-title="Spanyolország",RTV
+https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 
 
 
