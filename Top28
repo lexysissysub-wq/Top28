@@ -14862,6 +14862,858 @@ http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/2151/index.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png[/img]" group-title="Görögország",┃GR┃ ANT 1 COMEDY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671253&extension=ts&play_token=feyfdxT0Uy
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png[/img]" group-title="Görögország",┃GR┃ ANT 1 DRAMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671252&extension=ts&play_token=bAVRU3P4FH
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png[/img]" group-title="Görögország",┃GR┃ COSMOTE CINEMA 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671365&extension=ts&play_token=ib9admYfrY
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png[/img]" group-title="Görögország",┃GR┃ COSMOTE CINEMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671322&extension=ts&play_token=7OHJh86kv5
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png[/img]" group-title="Görögország",┃GR┃ COSMOTE CINEMA 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671364&extension=ts&play_token=C9HjscKmxp
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png[/img]" group-title="Görögország",┃GR┃ COSMOTE CINEMA 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671321&extension=ts&play_token=DKMGEPiRsX
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png[/img]" group-title="Görögország",┃GR┃ COSMOTE CINEMA 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671363&extension=ts&play_token=OLhKz5N2jw
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png[/img]" group-title="Görögország",┃GR┃ COSMOTE CINEMA 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671320&extension=ts&play_token=mzQJbyaFFZ
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SERIES FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671362&extension=ts&play_token=OoNZVXvGvN
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SERIES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671324&extension=ts&play_token=JpCVMX7y5n
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SERIES MARATHON FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671361&extension=ts&play_token=oZyKyig2vI
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png[/img]" group-title="Görögország",┃GR┃ COSMOTE CINEMA OSCARS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671326&extension=ts&play_token=J5ey81NBFQ
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png[/img]" group-title="Görögország",┃GR┃ VILLAGE CINEMA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671360&extension=ts&play_token=gyYB0v5lWs
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png[/img]" group-title="Görögország",┃GR┃ VILLAGE CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671323&extension=ts&play_token=pLWIE5l8xi
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CINEMA  ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ/NOVA SUMMER HD.png" group-title="Görögország",┃GR┃ NOVA STARS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=866630&extension=ts&play_token=nLEFp0BjOC
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ NOVA CINEMA 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671359&extension=ts&play_token=wWrkOxBSWL
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ NOVA CINEMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671318&extension=ts&play_token=yfILEoB2dM
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ NOVA CINEMA 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671358&extension=ts&play_token=hAVWctDk1G
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ NOVA CINEMA 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671317&extension=ts&play_token=gCT4BWfSn4
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ NOVA CINEMA 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671357&extension=ts&play_token=CBNdmk9i6D
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ NOVA CINEMA 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671316&extension=ts&play_token=2xCUJY4Ho6
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ NOVA CINEMA 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671356&extension=ts&play_token=NuNPZzS7eR
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ NOVA CINEMA 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671315&extension=ts&play_token=RWbs0oGI5H
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/FILMY SÉRIE/HBO.png" group-title="Görögország",┃GR┃ HBO 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1160541&extension=ts&play_token=LG2iC3cIie
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/FILMY SÉRIE/HBO 2.png" group-title="Görögország",┃GR┃ HBO 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1160542&extension=ts&play_token=zqkbYklOC4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/FILMY SÉRIE/HBO 3.png" group-title="Görögország",┃GR┃ HBO 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1160543&extension=ts&play_token=ZiIHQslZ7K
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png[/img]" group-title="Görögország",┃GR┃ CINE GREEK OLD 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=712896&extension=ts&play_token=HI6uTD6uUV
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png[/img]" group-title="Görögország",┃GR┃ CINE GREEK OLD 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=712897&extension=ts&play_token=DZOCm1bZ4L
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png[/img]" group-title="Görögország",┃GR┃ Στάθης Ψάλτης
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671479&extension=ts&play_token=gj67W1cg7T
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/SPAIN/TCM_logo.svg.png[/img]" group-title="Görögország",┃GR┃ TCM 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671354&extension=ts&play_token=oJ9PzSL3tC
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/SPAIN/TCM_logo.svg.png[/img]" group-title="Görögország",┃GR┃ TCM HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671313&extension=ts&play_token=iWq0sHUHBa
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ COSMOTE SPORT 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1648352&extension=ts&play_token=QjfdvhF9B4
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT HIGHLIGHTS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1891&extension=ts&play_token=bM0hZeY93E
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT HIGHLIGHTS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671498&extension=ts&play_token=bh6AwiuzWS
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=174426&extension=ts&play_token=GYt8EtLGL8
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1890&extension=ts&play_token=7xMSPVrSQO
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 1 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671508&extension=ts&play_token=HD3AVPd24R
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=174427&extension=ts&play_token=SyFrIASGH3
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1889&extension=ts&play_token=1iZl8Zeeq3
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 2 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671509&extension=ts&play_token=q8sQVRPXrE
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=174428&extension=ts&play_token=PsMNk3qQFB
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1888&extension=ts&play_token=4JbBNUHRIs
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 3 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671510&extension=ts&play_token=gmw7IsQOvv
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=174429&extension=ts&play_token=dVmQWZFeOo
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1887&extension=ts&play_token=o9Obzgvzrm
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 4 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671511&extension=ts&play_token=Ao6SN8z2N5
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 5 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=174430&extension=ts&play_token=PxX5W8RKtX
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1886&extension=ts&play_token=uWJnLFAcWY
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 5 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671512&extension=ts&play_token=SA4rZLIcHM
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 6 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=174265&extension=ts&play_token=dpOHdk9ot8
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1885&extension=ts&play_token=pGPp7jrBup
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 6 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671513&extension=ts&play_token=KT4D0qZ7PF
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 7 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=174264&extension=ts&play_token=LyXjOnQO2t
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1884&extension=ts&play_token=WftOiBsS20
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 8 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=174263&extension=ts&play_token=seG4obMAoe
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1883&extension=ts&play_token=OaseEgAxSq
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 9 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1882&extension=ts&play_token=nrNXTbh6YK
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT 9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671507&extension=ts&play_token=7lIpjC6PKE
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT SL PASS PANATHINAIKOS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=699599&extension=ts&play_token=2ddkqx1prX
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Panathinaikos_F.C._logo.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT SL PANATHINAIKOS PASS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=242084&extension=ts&play_token=ag6v8e0YMJ
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT SL PASS OLYMPIAKOS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=699598&extension=ts&play_token=PYZ80LGQss
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT SL PASS OLYMPIAKOS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=242085&extension=ts&play_token=S55WODSfVr
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT SL PASS AEK FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=699597&extension=ts&play_token=lqICaBDJQw
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/AEKPASS.png[/img]" group-title="Görögország",┃GR┃ COSMOTE SPORT SL PASS AEK HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=242086&extension=ts&play_token=3ut81RkzJo
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/NATIONALGEOGRAPHIC.png[/img]" group-title="Görögország",┃GR┃ NAT GEO FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671283&extension=ts&play_token=9ODrGi1QVt
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/NGWILDHD.png[/img]" group-title="Görögország",┃GR┃ NAT GEO WILD FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671282&extension=ts&play_token=VtXbk6puoM
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ DISCOVERY HISTORY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1461621&extension=ts&play_token=UnhwK3NRbG
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/DISCOVERYCHANNEL.png[/img]" group-title="Görögország",┃GR┃ DISCOVERY CHANNEL FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671281&extension=ts&play_token=Sa84VhQFen
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/POLONIA/Investigation_Discovery.png[/img]" group-title="Görögország",┃GR┃ DISCOVERY ID FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671279&extension=ts&play_token=fqTi6W4PAB
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Crime_+_Investigation_Logo_10.2019.png[/img]" group-title="Görögország",┃GR┃ CRIME+ INVESTIGATION SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671277&extension=ts&play_token=nt51MKE4wY
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/History-Channel-logo.png[/img]" group-title="Görögország",┃GR┃ HISTORY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671287&extension=ts&play_token=A52J5HGFMy
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ HISTORY 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1461620&extension=ts&play_token=LpRMWanrcj
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ANIMALPLANETHD.png[/img]" group-title="Görögország",┃GR┃ ANIMAL PLANET FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671276&extension=ts&play_token=stIYRxpNaN
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png[/img]" group-title="Görögország",┃GR┃ COSMOTE HISTORY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671275&extension=ts&play_token=XfAJGWYYpB
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Viasat_Nature.png[/img]" group-title="Görögország",┃GR┃ VIASAT NATURE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671274&extension=ts&play_token=0nmo7mO8Et
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Viasat_History.png[/img]" group-title="Görögország",┃GR┃ VIASAT HISTORY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671273&extension=ts&play_token=JZ6XmJNcRQ
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/VIASATEXPLORE.png[/img]" group-title="Görögország",┃GR┃ VIASAT EXPLORE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671272&extension=ts&play_token=6F2VjQ2F51
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/BBCEARTH.png[/img]" group-title="Görögország",┃GR┃ BBC EARTH FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671271&extension=ts&play_token=fXixOMK6Ta
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/MYZENTV.png[/img]" group-title="Görögország",┃GR┃ MY ZEN TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671312&extension=ts&play_token=sBFP8y3WKs
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/CARIBBEAN/FX.png[/img]" group-title="Görögország",┃GR┃ FX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671240&extension=ts&play_token=Bx1JSAPbHC
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/CARIBBEAN/FX.png[/img]" group-title="Görögország",┃GR┃ FX LIFE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671239&extension=ts&play_token=BZKJjPJqLy
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/e-entertainment-television-llc-logo-vector.png[/img]" group-title="Görögország",┃GR┃ E! ENTERTAINMENT FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671238&extension=ts&play_token=jxcjQH9cwN
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova-life.png[/img]" group-title="Görögország",┃GR┃ NOVA LIFE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671314&extension=ts&play_token=WvocWp7Cxv
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/TURKEY/640px-Epic-Drama.png[/img]" group-title="Görögország",┃GR┃ EPIC DRAMA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=699929&extension=ts&play_token=qsPkIOYiez
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ HGTV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1461625&extension=ts&play_token=LiCUvpG2q8
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/gr-action-24-6530.png[/img]" group-title="Görögország",┃GR┃ ACTION 24 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671241&extension=ts&play_token=03W9cyDIJJ
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/TLCHD.png[/img]" group-title="Görögország",┃GR┃ TLC FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=699931&extension=ts&play_token=MqBEm4mxC2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/GR ENTERTAINMENT/INPLUS.png" group-title="Görögország",┃GR┃ INPLUS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=699932&extension=ts&play_token=rqwz1smqc9
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ VILLAGE WORLD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1187270&extension=ts&play_token=Wl2UJ45uEJ
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nautical_Channel_29.png[/img]" group-title="Görögország",┃GR┃ NAUTICAL CHANNEL FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671286&extension=ts&play_token=LYQuaaffyD
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Food_Network_logo.png[/img]" group-title="Görögország",┃GR┃ FOOD NETWORK FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671285&extension=ts&play_token=nuF5CEdYic
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Travel_Channel_HD.png[/img]" group-title="Görögország",┃GR┃ TRAVEL CHANNEL FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671284&extension=ts&play_token=Wu2NmVWFJw
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/TILEMOUSIKI.png[/img]" group-title="Görögország",┃GR┃ NR1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=724023&extension=ts&play_token=VtaJlxyMzl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/GR ENTERTAINMENT/MAD WORLD.png" group-title="Görögország",┃GR┃ MAD WORLD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1110861&extension=ts&play_token=7iW0iauk4O
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/MAD-TV_220220.png[/img]" group-title="Görögország",┃GR┃ MAD GREEKZ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671270&extension=ts&play_token=kyQ8VXqXRC
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/MAD-VIRAL-Logo.png[/img]" group-title="Görögország",┃GR┃ MAD VIRAL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671269&extension=ts&play_token=Jt7WBRTGkT
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/CYPRUS/madtv.png[/img]" group-title="Görögország",┃GR┃ MAD TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=724038&extension=ts&play_token=YjI77q70Ei
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/GR ENTERTAINMENT/PANIK TV.png" group-title="Görögország",┃GR┃ PANIK TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=866634&extension=ts&play_token=KoE4vSxP7C
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/GR ENTERTAINMENT/JUST MUSIC.png" group-title="Görögország",┃GR┃ JUST MUSIC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=866633&extension=ts&play_token=6jSnB1K5Ua
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ MUSIC RAP
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=848515&extension=ts&play_token=H5AhPXvAYx
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ MUSIC MIX
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=848514&extension=ts&play_token=dB85tCCrVY
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ MUSIC HOUSE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=848513&extension=ts&play_token=iIVoP0lOvU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT1_logo_(2015).svg.png" group-title="Görögország",┃GR┃ EPT 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=670952&extension=ts&play_token=cpmrMFtxId
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT1_logo_(2015).svg.png" group-title="Görögország",┃GR┃ EPT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671261&extension=ts&play_token=PiJw5krasG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT1_logo_(2015).svg.png" group-title="Görögország",┃GR┃ EPT 1 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671405&extension=ts&play_token=EA2TTflHEG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT2_logo_(2015).svg.png" group-title="Görögország",┃GR┃ EPT 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671353&extension=ts&play_token=gsIdmF4KO9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT2_logo_(2015).svg.png" group-title="Görögország",┃GR┃ EPT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671260&extension=ts&play_token=jrpYoh2DKM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT2_logo_(2015).svg.png" group-title="Görögország",┃GR┃ EPT 2 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671406&extension=ts&play_token=CUrj2yCmaV
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/EPT3.png[/img]" group-title="Görögország",┃GR┃ EPT 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671352&extension=ts&play_token=CC02h6WmeV
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/EPT3.png[/img]" group-title="Görögország",┃GR┃ EPT 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671259&extension=ts&play_token=YAhBQ0xu7D
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/EPT3.png[/img]" group-title="Görögország",┃GR┃ EPT 3 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671407&extension=ts&play_token=RHgHjlqmXp
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/EPTNEWS.png[/img]" group-title="Görögország",┃GR┃ EPT NEWS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671351&extension=ts&play_token=g41FCCWvbO
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/EPTNEWS.png[/img]" group-title="Görögország",┃GR┃ EPT NEWS SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=699595&extension=ts&play_token=5x0IXznRx4
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/ERT_World.png[/img]" group-title="Görögország",┃GR┃ EPT WORLD FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671349&extension=ts&play_token=qSxYz7a5uP
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/ANT1+.png[/img]" group-title="Görögország",┃GR┃ ANT 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=194797&extension=ts&play_token=rJL4SzTzHn
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png[/img]" group-title="Görögország",┃GR┃ ANT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671255&extension=ts&play_token=eBdgXGDecM
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png[/img]" group-title="Görögország",┃GR┃ ANT 1 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671408&extension=ts&play_token=4l2vZDG2Xk
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Alpha_HD.png[/img]" group-title="Görögország",┃GR┃ ALPHA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=194714&extension=ts&play_token=8VjoGpl86i
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Alpha_HD.png[/img]" group-title="Görögország",┃GR┃ ALPHA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671251&extension=ts&play_token=VFqcvDhDSB
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Alpha_HD.png[/img]" group-title="Görögország",┃GR┃ ALPHA SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671409&extension=ts&play_token=Y28Q5fFx1S
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Star-tv_greece.png[/img]" group-title="Görögország",┃GR┃ STAR FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671348&extension=ts&play_token=eZD5kH4gSi
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Star-tv_greece.png[/img]" group-title="Görögország",┃GR┃ STAR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671249&extension=ts&play_token=83I01t0MlN
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Star-tv_greece.png[/img]" group-title="Görögország",┃GR┃ STAR SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671410&extension=ts&play_token=wXGHxiRvVl
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Skai_TV_logo.svg.png[/img]" group-title="Görögország",┃GR┃ SKAI FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=194715&extension=ts&play_token=hg0tiYXqyS
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Skai_TV_logo.svg.png[/img]" group-title="Görögország",┃GR┃ SKAI HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671248&extension=ts&play_token=77gXbP9jYm
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Skai_TV_logo.svg.png[/img]" group-title="Görögország",┃GR┃ SKAI SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671411&extension=ts&play_token=lztcBbIeuF
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/mega.png[/img]" group-title="Görögország",┃GR┃ MEGA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671347&extension=ts&play_token=f3Fypr7UqK
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/mega.png[/img]" group-title="Görögország",┃GR┃ MEGA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671247&extension=ts&play_token=NS1MYiBguq
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/mega.png[/img]" group-title="Görögország",┃GR┃ MEGA SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671412&extension=ts&play_token=nRTreGFWc6
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Open_Beyond_29.png[/img]" group-title="Görögország",┃GR┃ OPEN BEYOND FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671346&extension=ts&play_token=DmTtKFPqeO
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Open_Beyond_29.png[/img]" group-title="Görögország",┃GR┃ OPEN BEYOND HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671246&extension=ts&play_token=rq1sJ7kATj
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Open_Beyond_29.png[/img]" group-title="Görögország",┃GR┃ OPEN BEYOND SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671413&extension=ts&play_token=ROhiqfZf58
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/MAKEDONIA.png[/img]" group-title="Görögország",┃GR┃ MAKEDONIA TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671345&extension=ts&play_token=RndKCuSnyb
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/MAKEDONIA.png[/img]" group-title="Görögország",┃GR┃ MAKEDONIA TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671245&extension=ts&play_token=iOtBKqY6vt
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/MAKEDONIA.png[/img]" group-title="Görögország",┃GR┃ MAKEDONIA TV SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671414&extension=ts&play_token=tKCbsKD4ao
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/mega.png[/img]" group-title="Görögország",┃GR┃ MEGA NEWS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1161477&extension=ts&play_token=bPnjt1Qqdz
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/EURONEWS.png[/img]" group-title="Görögország",┃GR┃ EURONEWS GREEK HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671244&extension=ts&play_token=dIjeuThhD2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/GENERAL  ΓΕΝΙΚΑ/ΒΟΥΛΗ ΤV 4K.png" group-title="Görögország",┃GR┃ ΒΟΥΛΗ ΤV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=699593&extension=ts&play_token=5j6ixemBzO
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/USA/Boomerang_2014_logo.svg.png[/img]" group-title="Görögország",┃GR┃ CARTOONITO FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=724036&extension=ts&play_token=Uvw19MbyzQ
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Disney_Channel_2022.png[/img]" group-title="Görögország",┃GR┃ DISNEY CHANNEL SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671268&extension=ts&play_token=PH8P1rhFXd
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Disney_Junior_Logo_2020.png[/img]" group-title="Görögország",┃GR┃ DISNEY JUNIOR SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671267&extension=ts&play_token=fNsPaxQqqj
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/nickelodeon-logo.png[/img]" group-title="Görögország",┃GR┃ KEEDOO SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671266&extension=ts&play_token=S4ioeRsXi0
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/BabyTV.png[/img]" group-title="Görögország",┃GR┃ BABY TV SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671265&extension=ts&play_token=g2iYRIVY7u
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/DUCKTVHD.png[/img]" group-title="Görögország",┃GR┃ DUCK TV SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=699930&extension=ts&play_token=FWdfld6W73
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/SMILE.png[/img]" group-title="Görögország",┃GR┃ SMILE SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671288&extension=ts&play_token=QXFiKx2kgR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/KIDS  ΠΑΙAΙΚΑ/IDJ KIDS HD.png" group-title="Görögország",┃GR┃ IDJ KIDS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=866629&extension=ts&play_token=weCqZBGsCq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/KIDS  ΠΑΙAΙΚΑ/ERT KIDS HD.png" group-title="Görögország",┃GR┃ ERT KIDS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=779489&extension=ts&play_token=OxTUp3rfxU
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png[/img]" group-title="Görögország",┃GR┃ CINE KIDS 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=712898&extension=ts&play_token=hW46ol6oGb
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png[/img]" group-title="Görögország",┃GR┃ CINE KIDS 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=712899&extension=ts&play_token=rQBu1yARjV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/KIDS  ΠΑΙAΙΚΑ/DA VINCI HD.png" group-title="Görögország",┃GR┃ DA VINCI HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=866628&extension=ts&play_token=be6HTq3hkl
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ KIDS BARBIE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=849333&extension=ts&play_token=K4PWityfuU
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ KIDS CARS ON THE ROAD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=848506&extension=ts&play_token=4HUpzKaSWB
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ KIDS COCOMELON
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=848508&extension=ts&play_token=ypSwZvpf4p
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ KIDS DISNEY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=848509&extension=ts&play_token=AVUXzcg6ZQ
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ KIDS GO DOG GO!
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=848510&extension=ts&play_token=XForbwnQGQ
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ KIDS HOTEL TRANSYLVANIA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=848511&extension=ts&play_token=I0M72vhUg4
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ KIDS ICE AGE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=849332&extension=ts&play_token=dpYya7TavB
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ KIDS KIYA & KIMOJA HEROES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=848854&extension=ts&play_token=CgBQoc1YsK
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ KIDS KUNG FU PANDA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=848512&extension=ts&play_token=tl5pKEvnIt
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ KIDS MARVELS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=848856&extension=ts&play_token=ozrYQwwQ9X
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ KIDS POWERPUFF GIRLS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=848857&extension=ts&play_token=ccQxvCJNql
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ KIDS SMURFS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=848858&extension=ts&play_token=m3huzZEl4X
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ KIDS UNICORN ACADEMY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=848859&extension=ts&play_token=nqskN1LR11
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ KIDS ZOOTROPOLIS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=849331&extension=ts&play_token=yoo6AYfAzv
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ KIDS Ο ΤΡΙΓΩΝΟΨΑΡΟΎΛΗΣ ΣΕ ΘΑΛΑΣΣΟΠΕΡΙΠΈΤΕΙΕΣ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=848860&extension=ts&play_token=qD3LHwwIpV
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/USA/Start_TV.png[/img]" group-title="Görögország",┃GR┃ STAR Κεντρικής Ελλάδας
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=697959&extension=ts&play_token=EId6WPpW4w
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CRETATV.png[/img]" group-title="Görögország",┃GR┃ CRETA TV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671343&extension=ts&play_token=J1Pwq5Fl7S
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/CRETATV.png[/img]" group-title="Görögország",┃GR┃ CRETA TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671243&extension=ts&play_token=9pl8RLsQ91
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/%CE%9A%CF%81%CE%AE%CF%84%CE%B7TV.png[/img]" group-title="Görögország",┃GR┃ Κρήτη TV [Kriti TV]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671329&extension=ts&play_token=wWqamUSVTc
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Kontra.png[/img]" group-title="Görögország",┃GR┃ KONTRA TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671242&extension=ts&play_token=Mmhte0xLSs
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/ONE.png[/img]" group-title="Görögország",┃GR┃ ONE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671237&extension=ts&play_token=nmuklkIzpv
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/IONIAN-TV.png[/img]" group-title="Görögország",┃GR┃ IONIAN TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671310&extension=ts&play_token=bvMI9XKWlS
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/TV100_logo.png[/img]" group-title="Görögország",┃GR┃ TV 100 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671308&extension=ts&play_token=WzeqERVjF1
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/USA/Start_TV.png[/img]" group-title="Görögország",┃GR┃ START TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671302&extension=ts&play_token=uLu9uP7WJg
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/HIGHTV.png[/img]" group-title="Görögország",┃GR┃ HIGH TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671301&extension=ts&play_token=RVrhuQ7Db5
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/4E_TV_logo.png[/img]" group-title="Görögország",┃GR┃ 4E TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671300&extension=ts&play_token=mt1junjSM3
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/ALERTTV.png[/img]" group-title="Görögország",┃GR┃ ALERT TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671299&extension=ts&play_token=5E2ukXo10T
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/BLUESKY.png[/img]" group-title="Görögország",┃GR┃ BLUE SKY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671294&extension=ts&play_token=HFgRqQSRGr
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Capital_tv.png[/img]" group-title="Görögország",┃GR┃ CAPITAL TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671293&extension=ts&play_token=sOAnhvC4zY
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/NEATV.png[/img]" group-title="Görögország",┃GR┃ NEA TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=671289&extension=ts&play_token=zPvNkU3C4G
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/NEATV.png[/img]" group-title="Görögország",┃GR┃ CORFU TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=728834&extension=ts&play_token=cOQ86RsLFc
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/NEATV.png[/img]" group-title="Görögország",┃GR┃ DELTA TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=728833&extension=ts&play_token=LcrHT4jiBf
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/NEATV.png[/img]" group-title="Görögország",┃GR┃ EPILOGES TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=728824&extension=ts&play_token=xNgO9CWnub
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ DION TV - THESSOLINIKI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1187271&extension=ts&play_token=4PLQpNZPL9
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_News_V2021.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS NEWS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1880&extension=ts&play_token=VqgqGerNSY
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_News_V2021.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORT NEWS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=174431&extension=ts&play_token=d6ow94uLYy
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS PRIME FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1142146&extension=ts&play_token=YIvsmTfViu
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS PRIME HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1874&extension=ts&play_token=cCY71HjfRG
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ NOVA SPORTS PRIME SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1648351&extension=ts&play_token=DosD74hqxx
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS START FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=56829&extension=ts&play_token=3N9VWdWWqm
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS START HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=174254&extension=ts&play_token=lN4Crp39hi
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ NOVA SPORTS START SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1648350&extension=ts&play_token=PlVzRWhFbP
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS PREMIER LEAGUE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1879&extension=ts&play_token=j7m1D11QHz
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS PREMIER LEAGUE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=663683&extension=ts&play_token=Kfhs2FyK4g
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ NOVA SPORTS PREMIER LEAGUE SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1648349&extension=ts&play_token=7K5PKNmmF1
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=173185&extension=ts&play_token=kPpLw72nVB
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=193070&extension=ts&play_token=6rUMq5OqZh
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ NOVA SPORTS 1 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1648348&extension=ts&play_token=Jeqch7qmxR
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=173186&extension=ts&play_token=eAf0uzPyk8
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1878&extension=ts&play_token=8LxHi7UDxC
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ NOVA SPORTS 2 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1648347&extension=ts&play_token=gGzPJa8lyY
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=174271&extension=ts&play_token=fylj5vYmLJ
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1877&extension=ts&play_token=t3F64ej1qQ
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ NOVA SPORTS 3 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1648346&extension=ts&play_token=WY7ecqbQid
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=174272&extension=ts&play_token=TwRNlJxZVJ
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1876&extension=ts&play_token=cujl8d37hx
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ NOVA SPORTS 4 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1648345&extension=ts&play_token=nAeUPnRpV0
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS 5 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1875&extension=ts&play_token=nkLZE8U2m6
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=193074&extension=ts&play_token=r4Xdf1cwQv
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ NOVA SPORTS 5 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1648344&extension=ts&play_token=YqTj1kUwqO
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS 6 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=174273&extension=ts&play_token=bEJDhAZBWC
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=699928&extension=ts&play_token=zOfBWdtEIP
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ NOVA SPORTS 6 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1648343&extension=ts&play_token=qQ1KHsErdc
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS EXTRA 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=193071&extension=ts&play_token=HpMWH72D3N
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS EXTRA 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=193072&extension=ts&play_token=r3eJfI60kZ
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS EXTRA 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=193073&extension=ts&play_token=IEMsWcsN5w
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png[/img]" group-title="Görögország",┃GR┃ NOVA SPORTS EXTRA 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=724019&extension=ts&play_token=nskJliZ9sq
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ VIASAT FILM ACTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1461622&extension=ts&play_token=7d26O8tYvc
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ VIASAT FILM PREMIERE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1461624&extension=ts&play_token=iB95dlud3b
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ VIASAT FILM HITS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1461623&extension=ts&play_token=k0pXfejQJe
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ ACTION
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154067&extension=ts&play_token=gOItabjLy8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ ADVENTURE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154068&extension=ts&play_token=8Ij6xkgcDO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ AMERICAN PIE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154045&extension=ts&play_token=6hH55rb5VN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ BIOGRAPHY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154064&extension=ts&play_token=QCkwYJSsJi
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ BOLLYWOOD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154058&extension=ts&play_token=LF8wHcoy4l
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ CHRISTMAS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154040&extension=ts&play_token=S7FYiN27NP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ CHRISTMAS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154043&extension=ts&play_token=2hsURwbVaS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ COMEDY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154069&extension=ts&play_token=TERatfIaio
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ CRIME
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154080&extension=ts&play_token=TzLqhfl6Ok
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ DETECTIVE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154054&extension=ts&play_token=sYDr1GGVpz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ DOCUMENTARY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154065&extension=ts&play_token=ACzN3ptygc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ DRAMA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154079&extension=ts&play_token=tR33RyDw02
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ FAMILY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154066&extension=ts&play_token=cGIfxyWe17
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ FANTASY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154075&extension=ts&play_token=s9KeWSKsWc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ FINAL DESTINATION
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154046&extension=ts&play_token=WlR1tYgGc0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ HISTORY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154078&extension=ts&play_token=e6RhH3MjmZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ HORROR
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154070&extension=ts&play_token=m6AuS85HoW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ JAMES BOND 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154081&extension=ts&play_token=bYL1otcKNa
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ KIDS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154071&extension=ts&play_token=f4Er99e7eV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ LEGO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154042&extension=ts&play_token=3mQ7UynIeN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ MUSICAL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154074&extension=ts&play_token=EF6lDYmIEL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ MYSTERY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154072&extension=ts&play_token=IAylA4VHi4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ NEW GREEK
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154063&extension=ts&play_token=1lyDfm47ib
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ PAW PATROL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154041&extension=ts&play_token=fuxtbdsg8B
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ PIRATES OF THE CARIBBEAN
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154047&extension=ts&play_token=y1tMSGRESM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ PREMIERE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154053&extension=ts&play_token=V4Qe01IQIK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ RAMBO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154082&extension=ts&play_token=o4HYSFntsO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ RESIDENT EVIL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154048&extension=ts&play_token=uQwEpihKpn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ ROCKY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154049&extension=ts&play_token=RhEZ32DkZq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ ROMANTIC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154073&extension=ts&play_token=6myRS5ybxk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ SAW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154050&extension=ts&play_token=G3xoCatKj1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ SCI-FI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154062&extension=ts&play_token=ZFY6enk5M1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ SERIAL KILLER
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154057&extension=ts&play_token=cKytW6TZNX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ SPORT
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154076&extension=ts&play_token=oGw20xNqYm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ SUPERHERO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154056&extension=ts&play_token=JBWV52D04C
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ TERMINATOR
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154044&extension=ts&play_token=D0Qyqj7teA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ THE TRANSPORTER
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154051&extension=ts&play_token=OgEz45JaSM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ THRILLER
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154077&extension=ts&play_token=IPIA0ZMQer
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ VAMPIRE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154059&extension=ts&play_token=83K3eNmSQt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ WAR
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154061&extension=ts&play_token=17CUyG80MA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ WESTERN
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154060&extension=ts&play_token=JjA6MupLlM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ X-MEN
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154052&extension=ts&play_token=fGBbyGHoBs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ ZOMBIE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154055&extension=ts&play_token=asnl9e0Kfp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΠΑΛΙΕΣ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154014&extension=ts&play_token=iuHiB7Vrnh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΠΑΛΙΕΣ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154015&extension=ts&play_token=R6AggVOrnI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΠΑΛΙΕΣ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154016&extension=ts&play_token=oLnmHimJMF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΠΑΛΙΕΣ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ 4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154017&extension=ts&play_token=XFLmuCmvuF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΠΑΛΙΕΣ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ 5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154018&extension=ts&play_token=I5k3aczE3L
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΠΑΙΔΙΚΕΣ 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154026&extension=ts&play_token=sqASA35hjG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΠΑΙΔΙΚΕΣ 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154027&extension=ts&play_token=dci6qShzBq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΠΑΙΔΙΚΕΣ 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154028&extension=ts&play_token=KAG2aZjZrN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΠΕΡΙΠΕΤΕΙΕΣ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154020&extension=ts&play_token=Ytiq5keGYm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΠΡΕΜΙΕΡΕΣ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154036&extension=ts&play_token=tqrjtZTISp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΡΟΜΑΝΤΙΚΕΣ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154033&extension=ts&play_token=dyt1IvQcKY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΣΒΑΡΤΣΕΝΕΓΚΕΡ FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154005&extension=ts&play_token=Q3sL2zwLPc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΣΤΑΛΟΝΕ FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154006&extension=ts&play_token=PgePtkGjq4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΤΑΙΝΙΕΣ ΟΣΚΑΡ FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154037&extension=ts&play_token=UCCw310LGC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΤΖΑΚΙ ΤΣΑΝ FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154007&extension=ts&play_token=0nM8khWFiR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΤΡΟΜΟΥ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154029&extension=ts&play_token=IwX3toU2Rq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΦΑΝΤΑΣΙΑΣ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154030&extension=ts&play_token=WT58sqnEcS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ANIME HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154003&extension=ts&play_token=UOCbpngPLA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ BOLLYWOOD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154013&extension=ts&play_token=CqPP1UZ5n8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/DC TV.png" group-title="Görögország",┃GR┃ DC TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154010&extension=ts&play_token=jYynjvwNCg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/MARVEL TV.png" group-title="Görögország",┃GR┃ MARVEL TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154011&extension=ts&play_token=aZuyuY4aBq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΒΙΟΓΡΑΦΙΕΣ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154031&extension=ts&play_token=OygXyIDAm6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΔΡΑΜΑΤΙΚΕΣ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154024&extension=ts&play_token=fbobjhVI8H
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΔΡΑΣΗΣ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154019&extension=ts&play_token=rv15Ln3qE0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΕΓΚΛΗΜΑΤΟΣ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154022&extension=ts&play_token=2Jgdy3VV2l
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΕΠΙΣΤ. ΦΑΝΤΑΣΙΑΣ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154035&extension=ts&play_token=gyDWAckrt9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΘΕΑΤΡΟ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154004&extension=ts&play_token=PPXoPCshgh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΘΡΗΣΚΕΥΤΙΚΕΣ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154012&extension=ts&play_token=hLvR5EgBZj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΘΡΙΛΛΕΡ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154034&extension=ts&play_token=BUdJxD16kM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΚΛΑΣΙΚΕΣ ΤΑΙΝΙΕΣ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154009&extension=ts&play_token=rnNrNgHKrz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΚΩΜΩΔΙΕΣ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154021&extension=ts&play_token=WJkDBcOnbh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΜΠΡΟΥΣ ΛΗ FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154008&extension=ts&play_token=c9RpmTcwzH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΜΥΣΤΗΡΙΟΥ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154032&extension=ts&play_token=43gheLtrKV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΝΤΟΚΥΜΑΝΤΕΡ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154023&extension=ts&play_token=reNeRgipVb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="Görögország",┃GR┃ ΟΙΚΟΓΕΝΕΙΑΚΕΣ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1154025&extension=ts&play_token=5WMKin1K9U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ VIP GREEK CINEMA 50S 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168737&extension=ts&play_token=WZgToXvHpw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ VIP GREEK CINEMA 50S 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168738&extension=ts&play_token=xR6kdhAj57
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ VIP GREEK CINEMA 60S 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168739&extension=ts&play_token=iHzQ8DrL2y
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ VIP GREEK CINEMA 60S 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168740&extension=ts&play_token=1BPb9lDQXi
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ VIP GREEK CINEMA 60S 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168741&extension=ts&play_token=5iDOTC4Ztj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ VIP GREEK CINEMA 70S 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168742&extension=ts&play_token=i7XHlvqqBo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ VIP GREEK CINEMA 70S 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168743&extension=ts&play_token=jFzowLJS4b
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ VIP GREEK CINEMA 70S 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168744&extension=ts&play_token=bEikIS9DRL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ VIP GREEK CINEMA 80S 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168745&extension=ts&play_token=1WVoR2a99N
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ VIP GREEK CINEMA 80S 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168746&extension=ts&play_token=Z4nsbBBsaV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ VIP GREEK CINEMA 80S 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168747&extension=ts&play_token=gtEJ3GQ4HC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ VIP GREEK CINEMA 90S 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168736&extension=ts&play_token=5NYo1PEk0y
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ VIP GREEK CINEMA 90S 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168735&extension=ts&play_token=98m1Y534KP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="Görögország",┃GR┃ VIP GREEK CINEMA USA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168748&extension=ts&play_token=TuiRBVtPyx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE ACTION FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168722&extension=ts&play_token=KTRigZgznw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE ADVENTURE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168724&extension=ts&play_token=n3sxdIwhUu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE ANIMATION FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168723&extension=ts&play_token=wCKvaDfSak
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE BIOGRAPHY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168731&extension=ts&play_token=XH56WpZGo3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE COMEDY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168721&extension=ts&play_token=AeLUyw8VuZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE DRAMA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168726&extension=ts&play_token=s84KmuMnd6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE FANTASY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168720&extension=ts&play_token=W6Z8XmB9sM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE HELLENIC FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168730&extension=ts&play_token=zQrzrJH8KQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE HISTORY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168729&extension=ts&play_token=W3h29M7muA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE HORROR FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168728&extension=ts&play_token=CexyXv0WJN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE MYTHOLOGY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168734&extension=ts&play_token=vLlvpLfgyT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE PASSION FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168727&extension=ts&play_token=9GJAJhJSSs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE SCI-FI FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168732&extension=ts&play_token=lnBzfugAyY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE STARZ FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168719&extension=ts&play_token=lfsIQh1oYx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE THRILLER FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168725&extension=ts&play_token=MEL7MSOU9w
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE WESTERN FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168733&extension=ts&play_token=DIysh4Tadf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168701&extension=ts&play_token=k0ZZOUYpbZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168702&extension=ts&play_token=mak1XxlT3N
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168703&extension=ts&play_token=dEcdXC1QS0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168704&extension=ts&play_token=TkXsHImiXI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 5 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168705&extension=ts&play_token=ZdjFoK6IC8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 6 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168706&extension=ts&play_token=F85QW1KKio
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 7 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168707&extension=ts&play_token=reGE1e98ih
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 8 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168708&extension=ts&play_token=PM4UrcwjnV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 9 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168709&extension=ts&play_token=9CkeUCT1nv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 10 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168710&extension=ts&play_token=3EdEWb2it2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 11 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168711&extension=ts&play_token=0OWIoe6WT7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 12 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168712&extension=ts&play_token=TRe0k0bO0B
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 13 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168713&extension=ts&play_token=7zcM7RBVsh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 14 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168714&extension=ts&play_token=hyZsEYliwR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 15 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168715&extension=ts&play_token=I5wgcvuaLC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 16 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168716&extension=ts&play_token=eIQ4vcizqL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 17 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168717&extension=ts&play_token=iWxjpGnV84
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 18 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168718&extension=ts&play_token=sS5LonPvfJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="Görögország",┃GR┃ ΒΙΤΡΊΝΑ NOVA PREMIERE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168691&extension=ts&play_token=FhhDHVY2IC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 1 4K (MULTI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168692&extension=ts&play_token=eDeUkqCLrE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 2 4K (MULTI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168693&extension=ts&play_token=fKjRpbGz7l
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 3 4K (MULTI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168694&extension=ts&play_token=nyH275qs78
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 4 4K (MULTI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168695&extension=ts&play_token=4FpCs3yFwp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 5 4K (MULTI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168696&extension=ts&play_token=xqyf45P7lR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 6 4K (MULTI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168697&extension=ts&play_token=jS1ItCJ2GP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 7 4K (MULTI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168698&extension=ts&play_token=97MQw1oVSp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 8 4K (MULTI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168699&extension=ts&play_token=wCIJXvly1d
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="Görögország",┃GR┃ NOVA PREMIERE 9 4K (MULTI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1168700&extension=ts&play_token=mZllI8ojDL
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ PSYXOKORES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=771307&extension=ts&play_token=rFPw4CD5c9
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ MAURO RODO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=771308&extension=ts&play_token=xceTrtM1wq
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ AGRIES MELISSES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=771309&extension=ts&play_token=Pxf0ofikEO
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ 50 / 50
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=771310&extension=ts&play_token=nbLZYTXnx4
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ FRIENDS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=771311&extension=ts&play_token=Dh99TpCzJp
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ MODERN FAMILY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=771312&extension=ts&play_token=3wBlVbcjdE
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ TWO AND A HALF MEN
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=771313&extension=ts&play_token=qp9R1XK4cc
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ MAESTRO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=771314&extension=ts&play_token=ZqcIzs9Ndl
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ TO KOKKINO POTAMI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=771315&extension=ts&play_token=9j2TrvwjJq
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ BROOKLYN NINE NINE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=771316&extension=ts&play_token=o7529nKxVk
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ COMMUNITY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=771317&extension=ts&play_token=j2NSWaXqSb
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ DEXTER
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=771318&extension=ts&play_token=EMRHM1IlkF
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ HOW I MET YOUR MOTHER
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=771319&extension=ts&play_token=0dl0s47ZiF
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ LUCIFER
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=771320&extension=ts&play_token=VauiKNT2uZ
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ THE BIG BANG THEORY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=771321&extension=ts&play_token=u8XRE5kHLy
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png[/img]" group-title="Görögország",┃GR┃ HOUSE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=771322&extension=ts&play_token=NCYtOKmzXU
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ ACTION
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=843838&extension=ts&play_token=nye5qaWppm
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ ADVENTURE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=847972&extension=ts&play_token=z6jawKKM52
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ AGENT 007
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=844351&extension=ts&play_token=d9YJM9Wssu
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ AMAZON PRIME VIDEO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=843839&extension=ts&play_token=M4miiGlI7k
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ APPLE TV+
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=843840&extension=ts&play_token=77pMFxDVHb
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃  ZONE+ BRUCE LEE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=863685&extension=ts&play_token=0X6hEI4Uez
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ CHRISTMAS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=843841&extension=ts&play_token=FapVvLhJxc
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ COMEDY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=844352&extension=ts&play_token=2oTnzVXfGQ
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ CRIME
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=844012&extension=ts&play_token=VK76PTGzIu
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ DISNEY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=847974&extension=ts&play_token=jTnxS4Poa9
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ DOCUMENTARY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=844017&extension=ts&play_token=miOZkScECd
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ DRAMA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=844010&extension=ts&play_token=qiCSV6Goeb
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ FAMILY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=847975&extension=ts&play_token=OltwaNVz5F
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ FANTASY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=847976&extension=ts&play_token=niOKIW0MLa
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ FAST & FURIOUS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=849955&extension=ts&play_token=JCvmDPQ0EX
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ HARRY POTTER
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=847977&extension=ts&play_token=iWwqR3XBM8
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ HORROR
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=844013&extension=ts&play_token=NGCu5a5ILs
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ MARKOS SEFERLIS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=847973&extension=ts&play_token=N8YAHFL970
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ NETFLIX
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=844015&extension=ts&play_token=JOkbIwvZCf
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ NEW GREEK
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=844019&extension=ts&play_token=pn00ltVy5v
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ OLD GREEK
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=849334&extension=ts&play_token=XrtbNvLb1u
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ PREMIERE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=844353&extension=ts&play_token=L9K2GPHYOP
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ ROMANCE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=848501&extension=ts&play_token=RhBhYFrQMa
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ SCI-FI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=844354&extension=ts&play_token=cPMN5000dD
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ SYLVESTER STALLONE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=844018&extension=ts&play_token=C7VMxonutM
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png[/img]" group-title="Görögország",┃GR┃ ZONE+ THRILLER
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=844355&extension=ts&play_token=0o0NasNFoI
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/ANT1+.png[/img]" group-title="Görögország",┃GR┃ ANT1+ SPORTS 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=253995&extension=ts&play_token=QMB25447iW
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png[/img]" group-title="Görögország",┃GR┃ ANT1+ SPORTS 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=697964&extension=ts&play_token=NRY81wgQCK
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png[/img]" group-title="Görögország",┃GR┃ ANT1+ SPORTS 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=697963&extension=ts&play_token=uCrMmb8P8M
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png[/img]" group-title="Görögország",┃GR┃ FIGHT NETWORK FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=987467&extension=ts&play_token=HmviBfpruW
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png[/img]" group-title="Görögország",┃GR┃ PADELTIME TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=987468&extension=ts&play_token=RGhJOTr5BF
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/SPORTPLUS.png[/img]" group-title="Görögország",┃GR┃ SPORT PLUS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=663269&extension=ts&play_token=dTr3HxYPbl
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/EUROSPORT.png[/img]" group-title="Görögország",┃GR┃ EUROSPORT 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=173188&extension=ts&play_token=6tiy46xoUP
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GREECE/EUROSPORT.png[/img]" group-title="Görögország",┃GR┃ EUROSPORT 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=173189&extension=ts&play_token=LU6IWoD7Ct
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/GERMANY/MOTORVISIONTVHD.png[/img]" group-title="Görögország",┃GR┃ MOTORVISION FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=699601&extension=ts&play_token=RS1JfZ74kp
+#EXTINF:-1 tvg-logo="[img]http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/Extreme_Sports_Channel.png[/img]" group-title="Görögország",┃GR┃ EXTREME SPORT SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=699602&extension=ts&play_token=0b6zvJKSdF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT2_logo_(2015).svg.png" group-title="Görögország",┃GR┃ EPT SPORTS 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=699604&extension=ts&play_token=P9rl2LibfM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT2_logo_(2015).svg.png" group-title="Görögország",┃GR┃ EPT SPORTS 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=699605&extension=ts&play_token=yxZwAd53px
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT2_logo_(2015).svg.png" group-title="Görögország",┃GR┃ EPT SPORTS 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=866625&extension=ts&play_token=nQfGsu7Cz2
+#EXTINF:-1 tvg-logo="" group-title="Görögország",┃GR┃ ERT SPORTS 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6F:53:A7&stream=1648353&extension=ts&play_token=GWEapuoTs6
+#EXTINF:-1 group-title="Görögország", Приятного просмотра
+https://alensat.at.ua/alensat.com.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
