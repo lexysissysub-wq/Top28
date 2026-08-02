@@ -6798,20 +6798,15 @@ http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/326194
 http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57320
 #EXTINF:-1 tvg-id="canald.ca" tvg-name="CA (FR) Canal D SD (P)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png" group-title="Kanada",CA (FR) Canal D SD (P)
 http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57479
-#EXTINF:-1 tvg-id="cinepop.ca" tvg-name="CA (FR) CinePOP SD (P)" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Cin%C3%A9Pop.png" group-title="Kanada",CA (FR) CinePOP SD (P)
-http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57480
-#EXTINF:-1 tvg-id="canalevasion.ca" tvg-name="CA (FR) Evasion SD (P)" tvg-logo="https://m1.quebecormedia.com/static/evasion_logo-7c49c3a9c47d4091914548733608e3c4.png" group-title="Kanada",CA (FR) Evasion SD (P)
-http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57482
+
 #EXTINF:-1 tvg-id="historia.ca" tvg-name="CA (FR) Historia HD " tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/06/logo_historia_2016may30-500x250.png" group-title="Kanada",CA (FR) Historia HD
 http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57483
 #EXTINF:-1 tvg-id="icitelevisionmontreal.ca" tvg-name="CA (FR) ICI Tele Montreal HD (D) " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png" group-title="Kanada",CA (FR) ICI Tele Montreal HD (D)
 http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57484
-#EXTINF:-1 tvg-id="icitelevisionmontreal.ca" tvg-name="CA (FR) ICI Tele Quebec HD (D) " tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-T%C3%A9l%C3%A9.png" group-title="Kanada",CA (FR) ICI Tele Quebec HD (D)
-http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57493
+
 #EXTINF:-1 tvg-id="icitelevisionmontreal.ca" tvg-name="CA-FR | ICI VANCOUVER FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png" group-title="Kanada",CA-FR | ICI VANCOUVER FR
 http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57485
-#EXTINF:-1 tvg-id="lachainedisney.ca" tvg-name="CA (FR) Disney La Chaine (R)" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png" group-title="Kanada",CA (FR) Disney La Chaine (R)
-http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57481
+
 #EXTINF:-1 tvg-id="lecanalnouvelles.ca" tvg-name="CA (FR) LCN (E)" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/lcn_sept2020.png" group-title="Kanada",CA (FR) LCN (E)
 http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57968
 #EXTINF:-1 tvg-id="meteomedia.ca" tvg-name="CA-FR | METEO" tvg-logo="https://www.pelmorex.com/wp-content/uploads/2015/02/Brand_MMLogo-1-300x149.png" group-title="Kanada",CA-FR | METEO
@@ -9278,6 +9273,253 @@ http://89.38.8.130:39435
 
 #EXTINF:-1 group-title="Románia-Moldova",Super TV HD
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BR BAND CAMPINAS (D)" tvg-logo="" group-title="Brazilia",BR BAND CAMPINAS (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266435
+#EXTINF:-1 tvg-id="" tvg-name="BR BAND NEWS (P)" tvg-logo="" group-title="Brazilia",BR BAND NEWS (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266436
+#EXTINF:-1 tvg-id="" tvg-name="BR Band Nordeste SD" tvg-logo="" group-title="Brazilia",BR Band Nordeste SD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266437
+#EXTINF:-1 tvg-id="" tvg-name="BR BAND SPORTS  (P)" tvg-logo="" group-title="Brazilia",BR BAND SPORTS  (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266438
+#EXTINF:-1 tvg-id="" tvg-name="BR BIS (P)" tvg-logo="" group-title="Brazilia",BR BIS (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266439
+#EXTINF:-1 tvg-id="" tvg-name="BR Canal do Boi SD" tvg-logo="" group-title="Brazilia",BR Canal do Boi SD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266440
+#EXTINF:-1 tvg-id="" tvg-name="BR Canal Sony (P)" tvg-logo="" group-title="Brazilia",BR Canal Sony (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266441
+#EXTINF:-1 tvg-id="" tvg-name="BR Canal Sony HD" tvg-logo="" group-title="Brazilia",BR Canal Sony HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266442
+#EXTINF:-1 tvg-id="" tvg-name="BR CANC" tvg-logo="" group-title="Brazilia",BR CANC
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266443
+#EXTINF:-1 tvg-id="" tvg-name="BR CINEMAX  (P)" tvg-logo="" group-title="Brazilia",BR CINEMAX  (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266444
+#EXTINF:-1 tvg-id="" tvg-name="BR CULTURA  (P)" tvg-logo="" group-title="Brazilia",BR CULTURA  (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266445
+#EXTINF:-1 tvg-id="" tvg-name="BR CURTA!  (P)" tvg-logo="" group-title="Brazilia",BR CURTA!  (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266446
+#EXTINF:-1 tvg-id="" tvg-name="BR DISCOVERY SCIENCE  (P)" tvg-logo="" group-title="Brazilia",BR DISCOVERY SCIENCE  (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266447
+#EXTINF:-1 tvg-id="" tvg-name="BR DISCOVERY THEATER (P)" tvg-logo="" group-title="Brazilia",BR DISCOVERY THEATER (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266448
+#EXTINF:-1 tvg-id="" tvg-name="BR DISCOVERY WORLD  (P)" tvg-logo="" group-title="Brazilia",BR DISCOVERY WORLD  (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266449
+#EXTINF:-1 tvg-id="" tvg-name="BR Film & Arts SD" tvg-logo="" group-title="Brazilia",BR Film & Arts SD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266450
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO BAHIA" tvg-logo="" group-title="Brazilia",BR GLOBO BAHIA
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266451
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo EPTV Araraquara SD" tvg-logo="" group-title="Brazilia",BR Globo EPTV Araraquara SD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266452
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO EPTV CAMPINAS" tvg-logo="" group-title="Brazilia",BR GLOBO EPTV CAMPINAS
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266453
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO EPTV RIBEIR" tvg-logo="" group-title="Brazilia",BR GLOBO EPTV RIBEIR
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266454
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo EPTV Ribeirao Preto HD (P)" tvg-logo="" group-title="Brazilia",BR Globo EPTV Ribeirao Preto HD (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266455
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO INTERNACIONAL (P)" tvg-logo="" group-title="Brazilia",BR GLOBO INTERNACIONAL (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266456
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo InterTV Alto Litoral HD" tvg-logo="" group-title="Brazilia",BR Globo InterTV Alto Litoral HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266457
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO NEWS (P)" tvg-logo="" group-title="Brazilia",BR GLOBO NEWS (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266458
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO NORDESTE  (P)" tvg-logo="" group-title="Brazilia",BR GLOBO NORDESTE  (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266459
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo NSC Florianolis HD" tvg-logo="" group-title="Brazilia",BR Globo NSC Florianolis HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266460
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO RBS PORTO ALEGRE  (P)" tvg-logo="" group-title="Brazilia",BR GLOBO RBS PORTO ALEGRE  (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266461
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO RIBEIR" tvg-logo="" group-title="Brazilia",BR GLOBO RIBEIR
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266462
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo RPC Curitiba HD" tvg-logo="" group-title="Brazilia",BR Globo RPC Curitiba HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266463
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO SP (P)" tvg-logo="" group-title="Brazilia",BR GLOBO SP (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266464
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo SP HD" tvg-logo="" group-title="Brazilia",BR Globo SP HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266465
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo TV Bahia HD" tvg-logo="" group-title="Brazilia",BR Globo TV Bahia HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266466
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO TV BELEM" tvg-logo="" group-title="Brazilia",BR GLOBO TV BELEM
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266467
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo TV Fronteira Paulista HD (P)" tvg-logo="" group-title="Brazilia",BR Globo TV Fronteira Paulista HD (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266468
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo TV Sergipe HD" tvg-logo="" group-title="Brazilia",BR Globo TV Sergipe HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266469
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO TV TRIBUNA SANTOS" tvg-logo="" group-title="Brazilia",BR GLOBO TV TRIBUNA SANTOS
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266470
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo TV Tribuna Santos HD (P)" tvg-logo="" group-title="Brazilia",BR Globo TV Tribuna Santos HD (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266471
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO TV VANGUARDA S.J DOS CAMPOS" tvg-logo="" group-title="Brazilia",BR GLOBO TV VANGUARDA S.J DOS CAMPOS
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266472
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO TV VERDES MARES FORTALEZA" tvg-logo="" group-title="Brazilia",BR GLOBO TV VERDES MARES FORTALEZA
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266473
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) ESPN 3 (D)" tvg-logo="" group-title="Brazilia",BR (DTV) ESPN 3 (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266474
+#EXTINF:-1 tvg-id="" tvg-name="BR Futura (D)" tvg-logo="" group-title="Brazilia",BR Futura (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266475
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO Mundi HD" tvg-logo="" group-title="Brazilia",BR HBO Mundi HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266476
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) ESPN 5 (D)" tvg-logo="" group-title="Brazilia",BR (DTV) ESPN 5 (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266477
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO Pop HD" tvg-logo="" group-title="Brazilia",BR HBO Pop HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266478
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO Xtreme HD" tvg-logo="" group-title="Brazilia",BR HBO Xtreme HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266479
+#EXTINF:-1 tvg-id="" tvg-name="BR HGTV HD" tvg-logo="" group-title="Brazilia",BR HGTV HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266480
+#EXTINF:-1 tvg-id="" tvg-name="BR ID Investigao Discovery HD" tvg-logo="" group-title="Brazilia",BR ID Investigao Discovery HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266481
+#EXTINF:-1 tvg-id="" tvg-name="BR LIFETIME (P)" tvg-logo="" group-title="Brazilia",BR LIFETIME (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266482
+#EXTINF:-1 tvg-id="" tvg-name="BR Lifetime FHD" tvg-logo="" group-title="Brazilia",BR Lifetime FHD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266483
+#EXTINF:-1 tvg-id="" tvg-name="BR Mais Globosat FHD" tvg-logo="" group-title="Brazilia",BR Mais Globosat FHD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266484
+#EXTINF:-1 tvg-id="" tvg-name="BR Mais Globosat HD" tvg-logo="" group-title="Brazilia",BR Mais Globosat HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266485
+#EXTINF:-1 tvg-id="" tvg-name="BR Multishow (D)" tvg-logo="" group-title="Brazilia",BR Multishow (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266486
+#EXTINF:-1 tvg-id="" tvg-name="BR PREMIERE 1 (P)" tvg-logo="" group-title="Brazilia",BR PREMIERE 1 (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266487
+#EXTINF:-1 tvg-id="" tvg-name="BR PREMIERE 3 (P)" tvg-logo="" group-title="Brazilia",BR PREMIERE 3 (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266488
+#EXTINF:-1 tvg-id="" tvg-name="BR PREMIERE 4  (P)" tvg-logo="" group-title="Brazilia",BR PREMIERE 4  (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266489
+#EXTINF:-1 tvg-id="" tvg-name="BR PREMIERE 8  (P)" tvg-logo="" group-title="Brazilia",BR PREMIERE 8  (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266490
+#EXTINF:-1 tvg-id="" tvg-name="BR PREMIERE CLUBES  (P)" tvg-logo="" group-title="Brazilia",BR PREMIERE CLUBES  (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266491
+#EXTINF:-1 tvg-id="" tvg-name="BR RECORD AMAZONAS  (P)" tvg-logo="" group-title="Brazilia",BR RECORD AMAZONAS  (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266492
+#EXTINF:-1 tvg-id="" tvg-name="BR Record Bahia HD" tvg-logo="" group-title="Brazilia",BR Record Bahia HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266493
+#EXTINF:-1 tvg-id="" tvg-name="BR Record Brasia SD" tvg-logo="" group-title="Brazilia",BR Record Brasia SD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266494
+#EXTINF:-1 tvg-id="" tvg-name="BR RECORD CAMPINAS" tvg-logo="" group-title="Brazilia",BR RECORD CAMPINAS
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266495
+#EXTINF:-1 tvg-id="" tvg-name="BR RECORD ESP. SANTO" tvg-logo="" group-title="Brazilia",BR RECORD ESP. SANTO
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266496
+#EXTINF:-1 tvg-id="" tvg-name="BR RECORD NEWS" tvg-logo="" group-title="Brazilia",BR RECORD NEWS
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266497
+#EXTINF:-1 tvg-id="" tvg-name="BR RECORD NORDESTE  (P)" tvg-logo="" group-title="Brazilia",BR RECORD NORDESTE  (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266498
+#EXTINF:-1 tvg-id="" tvg-name="BR Record RJ HD" tvg-logo="" group-title="Brazilia",BR Record RJ HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266499
+#EXTINF:-1 tvg-id="" tvg-name="BR Record RS HD" tvg-logo="" group-title="Brazilia",BR Record RS HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266500
+#EXTINF:-1 tvg-id="" tvg-name="BR RECORD SP  (P)" tvg-logo="" group-title="Brazilia",BR RECORD SP  (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266501
+#EXTINF:-1 tvg-id="" tvg-name="BR Record TV Vitoria (P)" tvg-logo="" group-title="Brazilia",BR Record TV Vitoria (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266502
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) ESPN 6 (D)" tvg-logo="" group-title="Brazilia",BR (DTV) ESPN 6 (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266503
+#EXTINF:-1 tvg-id="" tvg-name="BR Rede Gospel SD" tvg-logo="" group-title="Brazilia",BR Rede Gospel SD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266504
+#EXTINF:-1 tvg-id="" tvg-name="BR REDE VIDA" tvg-logo="" group-title="Brazilia",BR REDE VIDA
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266505
+#EXTINF:-1 tvg-id="" tvg-name="BR SBT Goias HD" tvg-logo="" group-title="Brazilia",BR SBT Goias HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266506
+#EXTINF:-1 tvg-id="" tvg-name="BR SBT Nordeste HD" tvg-logo="" group-title="Brazilia",BR SBT Nordeste HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266507
+#EXTINF:-1 tvg-id="" tvg-name="BR SBT RJ HD" tvg-logo="" group-title="Brazilia",BR SBT RJ HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266508
+#EXTINF:-1 tvg-id="" tvg-name="BR SBT TV Aratu Bahia" tvg-logo="" group-title="Brazilia",BR SBT TV Aratu Bahia
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266509
+#EXTINF:-1 tvg-id="" tvg-name="BR SBT TV Aratu Bahia HD" tvg-logo="" group-title="Brazilia",BR SBT TV Aratu Bahia HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266510
+#EXTINF:-1 tvg-id="" tvg-name="BR SBT TV CIDADE VERDE PIAUI  (P)" tvg-logo="" group-title="Brazilia",BR SBT TV CIDADE VERDE PIAUI  (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266511
+#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV (P)" tvg-logo="" group-title="Brazilia",BR SPORTV (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266512
+#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 2  (P)" tvg-logo="" group-title="Brazilia",BR SPORTV 2  (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266513
+#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 3 (P)" tvg-logo="" group-title="Brazilia",BR SPORTV 3 (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266514
+#EXTINF:-1 tvg-id="" tvg-name="BR Travel Box Brasil HD" tvg-logo="" group-title="Brazilia",BR Travel Box Brasil HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266515
+#EXTINF:-1 tvg-id="" tvg-name="BR TV Aparecida SD" tvg-logo="" group-title="Brazilia",BR TV Aparecida SD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266516
+#EXTINF:-1 tvg-id="" tvg-name="BR TV GAZETA" tvg-logo="" group-title="Brazilia",BR TV GAZETA
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266517
+#EXTINF:-1 tvg-id="" tvg-name="BR TV Ra Tim Bum (P)" tvg-logo="" group-title="Brazilia",BR TV Ra Tim Bum (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266518
+#EXTINF:-1 tvg-id="" tvg-name="BR Zoomoo HD" tvg-logo="" group-title="Brazilia",BR Zoomoo HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266519
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB CAM 01 (ACOMPANHE A CASA 1)" tvg-logo="" group-title="Brazilia",BR BBB CAM 01 (ACOMPANHE A CASA 1)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266520
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB CAM 02 (ACOMPANHE A CASA 2)" tvg-logo="" group-title="Brazilia",BR BBB CAM 02 (ACOMPANHE A CASA 2)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266521
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB CAM 03 (MOSAICO)" tvg-logo="" group-title="Brazilia",BR BBB CAM 03 (MOSAICO)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266522
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB CAM 04 (COZINHA)" tvg-logo="" group-title="Brazilia",BR BBB CAM 04 (COZINHA)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266523
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB CAM 05 (QUARTO ANOS 50)" tvg-logo="" group-title="Brazilia",BR BBB CAM 05 (QUARTO ANOS 50)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266524
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB CAM 06 (QUARTO NORDESTE)" tvg-logo="" group-title="Brazilia",BR BBB CAM 06 (QUARTO NORDESTE)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266525
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB CAM 07 (QUARTO FANTTICO)" tvg-logo="" group-title="Brazilia",BR BBB CAM 07 (QUARTO FANTTICO)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266526
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB CAM 08 (COZINHA 2)" tvg-logo="" group-title="Brazilia",BR BBB CAM 08 (COZINHA 2)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266527
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB CAM 09 (CERA PANTENE)" tvg-logo="" group-title="Brazilia",BR BBB CAM 09 (CERA PANTENE)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266528
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB CAM 10 (SALA)" tvg-logo="" group-title="Brazilia",BR BBB CAM 10 (SALA)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266529
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) ESPN (D)" tvg-logo="" group-title="Brazilia",BR (DTV) ESPN (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266530
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) Modo Viagem (D)" tvg-logo="" group-title="Brazilia",BR (DTV) Modo Viagem (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266531
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) ESPN 4 (D)" tvg-logo="" group-title="Brazilia",BR (DTV) ESPN 4 (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266532
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) Universal (D)" tvg-logo="" group-title="Brazilia",BR (DTV) Universal (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266533
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) Tele Cine Cult (D)" tvg-logo="" group-title="Brazilia",BR (DTV) Tele Cine Cult (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266534
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) Tele Cine Action (D)" tvg-logo="" group-title="Brazilia",BR (DTV) Tele Cine Action (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266535
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) Studio Universal (D)" tvg-logo="" group-title="Brazilia",BR (DTV) Studio Universal (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266536
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) OFF (D)" tvg-logo="" group-title="Brazilia",BR (DTV) OFF (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266537
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) HGTV (D)" tvg-logo="" group-title="Brazilia",BR (DTV) HGTV (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266538
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) GNT (D)" tvg-logo="" group-title="Brazilia",BR (DTV) GNT (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266539
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) Gloobinho (D)" tvg-logo="" group-title="Brazilia",BR (DTV) Gloobinho (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266540
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) Gloob (D)" tvg-logo="" group-title="Brazilia",BR (DTV) Gloob (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266541
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) Globo SP  (D)" tvg-logo="" group-title="Brazilia",BR (DTV) Globo SP  (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266542
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) Globo News (D)" tvg-logo="" group-title="Brazilia",BR (DTV) Globo News (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266543
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) Globo Brasilia (D)" tvg-logo="" group-title="Brazilia",BR (DTV) Globo Brasilia (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266544
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) ESPN 2 (D)" tvg-logo="" group-title="Brazilia",BR (DTV) ESPN 2 (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266545
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) Combate (D)" tvg-logo="" group-title="Brazilia",BR (DTV) Combate (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266546
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) Sony Channel (D)" tvg-logo="" group-title="Brazilia",BR (DTV) Sony Channel (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266547
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) Canal Brasil (D)" tvg-logo="" group-title="Brazilia",BR (DTV) Canal Brasil (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266548
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) Boomerang (D)" tvg-logo="" group-title="Brazilia",BR (DTV) Boomerang (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266549
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) BIS (D)" tvg-logo="" group-title="Brazilia",BR (DTV) BIS (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266550
+#EXTINF:-1 tvg-id="" tvg-name="BR (DTV) AMC (D)" tvg-logo="" group-title="Brazilia",BR (DTV) AMC (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/266551
+
+
+
+
+
+
+
+
+
+
 
 
 
