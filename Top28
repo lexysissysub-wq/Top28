@@ -6793,6 +6793,403 @@ http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/326194
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="aptn.ca" tvg-name="CA : APTN" tvg-logo="" group-title="Kanada",CA : APTN
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57320
+#EXTINF:-1 tvg-id="canald.ca" tvg-name="CA (FR) Canal D SD (P)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png" group-title="Kanada",CA (FR) Canal D SD (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57479
+#EXTINF:-1 tvg-id="cinepop.ca" tvg-name="CA (FR) CinePOP SD (P)" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Cin%C3%A9Pop.png" group-title="Kanada",CA (FR) CinePOP SD (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57480
+#EXTINF:-1 tvg-id="canalevasion.ca" tvg-name="CA (FR) Evasion SD (P)" tvg-logo="https://m1.quebecormedia.com/static/evasion_logo-7c49c3a9c47d4091914548733608e3c4.png" group-title="Kanada",CA (FR) Evasion SD (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57482
+#EXTINF:-1 tvg-id="historia.ca" tvg-name="CA (FR) Historia HD " tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/06/logo_historia_2016may30-500x250.png" group-title="Kanada",CA (FR) Historia HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57483
+#EXTINF:-1 tvg-id="icitelevisionmontreal.ca" tvg-name="CA (FR) ICI Tele Montreal HD (D) " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png" group-title="Kanada",CA (FR) ICI Tele Montreal HD (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57484
+#EXTINF:-1 tvg-id="icitelevisionmontreal.ca" tvg-name="CA (FR) ICI Tele Quebec HD (D) " tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-T%C3%A9l%C3%A9.png" group-title="Kanada",CA (FR) ICI Tele Quebec HD (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57493
+#EXTINF:-1 tvg-id="icitelevisionmontreal.ca" tvg-name="CA-FR | ICI VANCOUVER FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png" group-title="Kanada",CA-FR | ICI VANCOUVER FR
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57485
+#EXTINF:-1 tvg-id="lachainedisney.ca" tvg-name="CA (FR) Disney La Chaine (R)" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png" group-title="Kanada",CA (FR) Disney La Chaine (R)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57481
+#EXTINF:-1 tvg-id="lecanalnouvelles.ca" tvg-name="CA (FR) LCN (E)" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/lcn_sept2020.png" group-title="Kanada",CA (FR) LCN (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57968
+#EXTINF:-1 tvg-id="meteomedia.ca" tvg-name="CA-FR | METEO" tvg-logo="https://www.pelmorex.com/wp-content/uploads/2015/02/Brand_MMLogo-1-300x149.png" group-title="Kanada",CA-FR | METEO
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57486
+#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA-FR | MOI ET CIE" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Moi-et-Cie.png" group-title="Kanada",CA-FR | MOI ET CIE
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57487
+#EXTINF:-1 tvg-id="prise2.ca" tvg-name="CA (FR) Prise  (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Prise_2_logo_%282018%29.svg/220px-Prise_2_logo_%282018%29.svg.png" group-title="Kanada",CA (FR) Prise  (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57488
+#EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA (FR) RDS2 HD (B)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="Kanada",CA (FR) RDS2 HD (B)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57490
+#EXTINF:-1 tvg-id="rdsinfo.ca" tvg-name="CA-FR | RDS INFO" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="Kanada",CA-FR | RDS INFO
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57491
+#EXTINF:-1 tvg-id="superecran.ca" tvg-name="CA (FR) Super Ecran 1 (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png" group-title="Kanada",CA (FR) Super Ecran 1 (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/66363
+#EXTINF:-1 tvg-id="superecran2.ca" tvg-name="CA (FR) Super Ecran 2 SD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png" group-title="Kanada",CA (FR) Super Ecran 2 SD (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/66364
+#EXTINF:-1 tvg-id="superecran3.ca" tvg-name="CA (FR) Super Ecran 3 SD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png" group-title="Kanada",CA (FR) Super Ecran 3 SD (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/66365
+#EXTINF:-1 tvg-id="superecran4.ca" tvg-name="CA (FR) Super Ecran 4 SD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png" group-title="Kanada",CA (FR) Super Ecran 4 SD (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/66366
+#EXTINF:-1 tvg-id="tfo.ca" tvg-name="CA (FR) TFO HD (R)" tvg-logo="https://powerofbabel.com/wp-content/uploads/2021/01/TFO-logo.png" group-title="Kanada",CA (FR) TFO HD (R)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57495
+#EXTINF:-1 tvg-id="tva.ca" tvg-name="CA (FR) TVA Montreal FHD (B)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="Kanada",CA (FR) TVA Montreal FHD (B)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57497
+#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA-FR | TVA SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="Kanada",CA-FR | TVA SPORTS 1
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57498
+#EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="Kanada",CA (FR) NOOVO (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57501
+#EXTINF:-1 tvg-id="zeste.ca" tvg-name="CA (FR) Zeste HD  (B)" tvg-logo="https://m1.quebecormedia.com/static/zeste_logo-ffeaa4f2fe1a4f0c8ce428a1e2043115.png" group-title="Kanada",CA (FR) Zeste HD  (B)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57502
+#EXTINF:-1 tvg-id="aande.ca" tvg-name="CA: A&E" tvg-logo="" group-title="Kanada",CA: A&E
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57476
+#EXTINF:-1 tvg-id="aande.ca" tvg-name="CA A&E " tvg-logo="" group-title="Kanada",CA A&E
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57264
+#EXTINF:-1 tvg-id="abcspark.ca" tvg-name="CA: ABC SPARK" tvg-logo="" group-title="Kanada",CA: ABC SPARK
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57375
+#EXTINF:-1 tvg-id="amc.ca" tvg-name="CA: AMC" tvg-logo="" group-title="Kanada",CA: AMC
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57376
+#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA: Animal Planet" tvg-logo="" group-title="Kanada",CA: Animal Planet
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57377
+#EXTINF:-1 tvg-id="bnn.ca" tvg-name="CA: BNN Bloomberg HD" tvg-logo="" group-title="Kanada",CA: BNN Bloomberg HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57358
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="CA: Bravo" tvg-logo="" group-title="Kanada",CA: Bravo
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57379
+#EXTINF:-1 tvg-id="cbcnews.ca" tvg-name="CA CBC NEWS NETWORK (E)" tvg-logo="" group-title="Kanada",CA CBC NEWS NETWORK (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57304
+#EXTINF:-1 tvg-id="cbccalgary.ca" tvg-name="CA CBC Calgary HD " tvg-logo="" group-title="Kanada",CA CBC Calgary HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57381
+#EXTINF:-1 tvg-id="cbccharlottetown.ca" tvg-name="CA CBC Charlottetown HD (D)" tvg-logo="" group-title="Kanada",CA CBC Charlottetown HD (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57382
+#EXTINF:-1 tvg-id="cbcedmonton.ca" tvg-name="CA: CBC Edmonton" tvg-logo="" group-title="Kanada",CA: CBC Edmonton
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57384
+#EXTINF:-1 tvg-id="cbchalifax.ca" tvg-name="CA CBC Halifax HD " tvg-logo="" group-title="Kanada",CA CBC Halifax HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57385
+#EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="Kanada",CA CBC Montreal HD (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57387
+#EXTINF:-1 tvg-id="cbcottawa.ca" tvg-name="CA: CBC OTTAWA" tvg-logo="" group-title="Kanada",CA: CBC OTTAWA
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57305
+#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA: CBC TORONTO" tvg-logo="" group-title="Kanada",CA: CBC TORONTO
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57306
+#EXTINF:-1 tvg-id="cbcvancouver.ca" tvg-name="CA: CBC Vancouver" tvg-logo="" group-title="Kanada",CA: CBC Vancouver
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57391
+#EXTINF:-1 tvg-id="chch.ca" tvg-name="CA CHCH (E)" tvg-logo="" group-title="Kanada",CA CHCH (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57393
+#EXTINF:-1 tvg-id="chrgd.ca" tvg-name="CA: CHRGD" tvg-logo="" group-title="Kanada",CA: CHRGD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/75653
+#EXTINF:-1 tvg-id="citytvcalgary.ca" tvg-name="CA CITY TV CALGARY (E)" tvg-logo="" group-title="Kanada",CA CITY TV CALGARY (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/75652
+#EXTINF:-1 tvg-id="citytvtoronto.ca" tvg-name="CA City TV Toronto (D)" tvg-logo="" group-title="Kanada",CA City TV Toronto (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57394
+#EXTINF:-1 tvg-id="citytvvancouverqc.ca" tvg-name="CA CITY TV VANCOUVER (E)" tvg-logo="" group-title="Kanada",CA CITY TV VANCOUVER (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57395
+#EXTINF:-1 tvg-id="cmt.ca" tvg-name="CA CMT" tvg-logo="" group-title="Kanada",CA CMT
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57258
+#EXTINF:-1 tvg-id="cnn.ca" tvg-name="CA: CNN " tvg-logo="" group-title="Kanada",CA: CNN
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57398
+#EXTINF:-1 tvg-id="cnn.ca" tvg-name="CA CNN " tvg-logo="" group-title="Kanada",CA CNN
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47213
+#EXTINF:-1 tvg-id="cottagelife.ca" tvg-name="CA Cottage Life HD (B)" tvg-logo="" group-title="Kanada",CA Cottage Life HD (B)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47217
+#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA CP24 News HD (D)" tvg-logo="" group-title="Kanada",CA CP24 News HD (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57357
+#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA CP24 News HD (E)" tvg-logo="" group-title="Kanada",CA CP24 News HD (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57401
+#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA CP24 HD " tvg-logo="" group-title="Kanada",CA CP24 HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57345
+#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA: CP24 FHD" tvg-logo="" group-title="Kanada",CA: CP24 FHD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47218
+#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA: CP24 HD" tvg-logo="" group-title="Kanada",CA: CP24 HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57257
+#EXTINF:-1 tvg-id="cpacottawaen.ca" tvg-name="CA: CPAC" tvg-logo="" group-title="Kanada",CA: CPAC
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57402
+#EXTINF:-1 tvg-id="cpacottawaen.ca" tvg-name="CA: CPAC English" tvg-logo="" group-title="Kanada",CA: CPAC English
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57352
+#EXTINF:-1 tvg-id="cpac.ca" tvg-name="CA CPAC HD " tvg-logo="" group-title="Kanada",CA CPAC HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57351
+#EXTINF:-1 tvg-id="crave1.ca" tvg-name="CA: CRAVE 1 HD" tvg-logo="" group-title="Kanada",CA: CRAVE 1 HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57309
+#EXTINF:-1 tvg-id="crave2.ca" tvg-name="CA: CRAVE 2 HD" tvg-logo="" group-title="Kanada",CA: CRAVE 2 HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57310
+#EXTINF:-1 tvg-id="crave3.ca" tvg-name="CA: CRAVE 3" tvg-logo="" group-title="Kanada",CA: CRAVE 3
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57322
+#EXTINF:-1 tvg-id="crave4.ca" tvg-name="CA: CRAVE 4 HD" tvg-logo="" group-title="Kanada",CA: CRAVE 4 HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57311
+#EXTINF:-1 tvg-id="crimeinvestigation.ca" tvg-name="CA: CRIME & INVESTIGATION" tvg-logo="" group-title="Kanada",CA: CRIME & INVESTIGATION
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57256
+#EXTINF:-1 tvg-id="ctvatlantic.ca" tvg-name="CA CTV Two Atlantic " tvg-logo="" group-title="Kanada",CA CTV Two Atlantic
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/79547
+#EXTINF:-1 tvg-id="ctvcalgary.ca" tvg-name="CA CTV CALGARY (E)" tvg-logo="" group-title="Kanada",CA CTV CALGARY (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57964
+#EXTINF:-1 tvg-id="ctvcomedyeast.ca" tvg-name="CA CTV Comedy Channel " tvg-logo="" group-title="Kanada",CA CTV Comedy Channel
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57408
+#EXTINF:-1 tvg-id="ctvdramachannel.ca" tvg-name="CA CTV Drama Channel (R)" tvg-logo="" group-title="Kanada",CA CTV Drama Channel (R)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57254
+#EXTINF:-1 tvg-id="ctvedmonton.ca" tvg-name="CA CTV Edmonton Alberta HD (D)" tvg-logo="" group-title="Kanada",CA CTV Edmonton Alberta HD (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/58725
+#EXTINF:-1 tvg-id="ctvhalifax.ca" tvg-name="CA CTV Halifax Nova Scotia HD " tvg-logo="" group-title="Kanada",CA CTV Halifax Nova Scotia HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57410
+#EXTINF:-1 tvg-id="ctvkitchener.ca" tvg-name="CA CTV Kitchener " tvg-logo="" group-title="Kanada",CA CTV Kitchener
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/58557
+#EXTINF:-1 tvg-id="ctv2london.ca" tvg-name="CA CTV 2 London HD " tvg-logo="" group-title="Kanada",CA CTV 2 London HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/58546
+#EXTINF:-1 tvg-id="ctvmontreal.ca" tvg-name="CA CTV Montreal HD " tvg-logo="" group-title="Kanada",CA CTV Montreal HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47234
+#EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CA: CTV NEWS CHANNEL HD" tvg-logo="" group-title="Kanada",CA: CTV NEWS CHANNEL HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57350
+#EXTINF:-1 tvg-id="ctvottawa.ca" tvg-name="CA: CTV OTTAWA" tvg-logo="" group-title="Kanada",CA: CTV OTTAWA
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47237
+#EXTINF:-1 tvg-id="ctvregina.ca" tvg-name="CA CTV Regina Saskatchewan HD (D)" tvg-logo="" group-title="Kanada",CA CTV Regina Saskatchewan HD (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/66381
+#EXTINF:-1 tvg-id="ctv.saskatoon.ca" tvg-name="CA CTV Saskatoon Saskatchewan HD (D)" tvg-logo="" group-title="Kanada",CA CTV Saskatoon Saskatchewan HD (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/66382
+#EXTINF:-1 tvg-id="ctvscifichannel.ca" tvg-name="CA CTV Sci-Fi Channel (B)" tvg-logo="" group-title="Kanada",CA CTV Sci-Fi Channel (B)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57253
+#EXTINF:-1 tvg-id="ctvtoronto.ca" tvg-name="CA CTV Toronto HD (R)" tvg-logo="" group-title="Kanada",CA CTV Toronto HD (R)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47296
+#EXTINF:-1 tvg-id="ctvvancouver.ca" tvg-name="CA: CTV2 Vancouver" tvg-logo="" group-title="Kanada",CA: CTV2 Vancouver
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57316
+#EXTINF:-1 tvg-id="ctv2windsor.ca" tvg-name="CA CTV2 Windsor HD (B)" tvg-logo="" group-title="Kanada",CA CTV2 Windsor HD (B)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/77165
+#EXTINF:-1 tvg-id="ctv2barrie.ca" tvg-name="CA CTV Barrie Ontario HD " tvg-logo="" group-title="Kanada",CA CTV Barrie Ontario HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57373
+#EXTINF:-1 tvg-id="discoverychannel.ca" tvg-name="CA Discovery Channel " tvg-logo="" group-title="Kanada",CA Discovery Channel
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57252
+#EXTINF:-1 tvg-id="discoveryscience.ca" tvg-name="CA: Discovery Science" tvg-logo="" group-title="Kanada",CA: Discovery Science
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57418
+#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA: DIY NETWORK FHD" tvg-logo="" group-title="Kanada",CA: DIY NETWORK FHD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47258
+#EXTINF:-1 tvg-id="dtour.ca" tvg-name="CA: DTOUR HD" tvg-logo="" group-title="Kanada",CA: DTOUR HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57250
+#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="CA E! (R)" tvg-logo="" group-title="Kanada",CA E! (R)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57422
+#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="CA: E! CANADA HD" tvg-logo="" group-title="Kanada",CA: E! CANADA HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57249
+#EXTINF:-1 tvg-id="tv5.ca" tvg-name="CA (FR) TV5 " tvg-logo="" group-title="Kanada",CA (FR) TV5
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57288
+#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA Food Network" tvg-logo="" group-title="Kanada",CA Food Network
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57247
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="CA FOX NEWS" tvg-logo="" group-title="Kanada",CA FOX NEWS
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47281
+#EXTINF:-1 tvg-id="fx.ca" tvg-name="CA: FX HD" tvg-logo="" group-title="Kanada",CA: FX HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57268
+#EXTINF:-1 tvg-id="fxx.ca" tvg-name="CA FXX " tvg-logo="" group-title="Kanada",CA FXX
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57429
+#EXTINF:-1 tvg-id="gameshownetwork.ca" tvg-name="CA Game Show Network HD " tvg-logo="" group-title="Kanada",CA Game Show Network HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57430
+#EXTINF:-1 tvg-id="ginxesportstvcanada.ca" tvg-name="CA: Ginx esports TV" tvg-logo="" group-title="Kanada",CA: Ginx esports TV
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57431
+#EXTINF:-1 tvg-id="global.kingston.on.ca" tvg-name="CA Global News Kingston (D)" tvg-logo="" group-title="Kanada",CA Global News Kingston (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57432
+#EXTINF:-1 tvg-id="globaledmonton.ca" tvg-name="CA Global Edmonton News (E)" tvg-logo="" group-title="Kanada",CA Global Edmonton News (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/58724
+#EXTINF:-1 tvg-id="hlobalhalifaxCIHF.ca" tvg-name="CA: Global Halifax News" tvg-logo="" group-title="Kanada",CA: Global Halifax News
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57434
+#EXTINF:-1 tvg-id="globalregina.ca" tvg-name="CA Global News Regina (D)" tvg-logo="" group-title="Kanada",CA Global News Regina (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/66384
+#EXTINF:-1 tvg-id="globalsaskatoon.ca" tvg-name="CA Global Saskatoon (B)" tvg-logo="" group-title="Kanada",CA Global Saskatoon (B)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/66383
+#EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA GLOBAL TORONTO" tvg-logo="" group-title="Kanada",CA GLOBAL TORONTO
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57435
+#EXTINF:-1 tvg-id="globalbc.ca" tvg-name="CA: Global Vancouver" tvg-logo="" group-title="Kanada",CA: Global Vancouver
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57436
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="CA: Golf Channel HD" tvg-logo="" group-title="Kanada",CA: Golf Channel HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57362
+#EXTINF:-1 tvg-id="hbo.ca" tvg-name="CA: HBO 1 " tvg-logo="" group-title="Kanada",CA: HBO 1
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57437
+#EXTINF:-1 tvg-id="hbo2.ca" tvg-name="CA HBO 2 (R)" tvg-logo="" group-title="Kanada",CA HBO 2 (R)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57438
+#EXTINF:-1 tvg-id="hgtv.ca" tvg-name="CA HGTV " tvg-logo="" group-title="Kanada",CA HGTV
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57273
+#EXTINF:-1 tvg-id="historychannel.ca" tvg-name="CA HISTORY " tvg-logo="" group-title="Kanada",CA HISTORY
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47302
+#EXTINF:-1 tvg-id="historychannel.ca" tvg-name="CA HISTORY (E)" tvg-logo="" group-title="Kanada",CA HISTORY (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57272
+#EXTINF:-1 tvg-id="hln.ca" tvg-name="CA: HLN" tvg-logo="" group-title="Kanada",CA: HLN
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57441
+#EXTINF:-1 tvg-id="investigationdiscovery.ca" tvg-name="CA Investigation Discovery HD (E)" tvg-logo="" group-title="Kanada",CA Investigation Discovery HD (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57442
+#EXTINF:-1 tvg-id="lifetimetv.ca" tvg-name="CA Lifetime " tvg-logo="" group-title="Kanada",CA Lifetime
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57271
+#EXTINF:-1 tvg-id="a3cine.us" tvg-name="CA: Lifetime Movie Network" tvg-logo="" group-title="Kanada",CA: Lifetime Movie Network
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57444
+#EXTINF:-1 tvg-id="lovenature.ca" tvg-name="CA Love Nature HD " tvg-logo="" group-title="Kanada",CA Love Nature HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47324
+#EXTINF:-1 tvg-id="makeful.ca" tvg-name="CA: MAKEFUL" tvg-logo="" group-title="Kanada",CA: MAKEFUL
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57270
+#EXTINF:-1 tvg-id="movietime.ca" tvg-name="CA: MOVIETIME HD" tvg-logo="" group-title="Kanada",CA: MOVIETIME HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47331
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="CA MSNBC (R)" tvg-logo="" group-title="Kanada",CA MSNBC (R)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47332
+#EXTINF:-1 tvg-id="mtv.ca" tvg-name="CA: MTV" tvg-logo="" group-title="Kanada",CA: MTV
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57446
+#EXTINF:-1 tvg-id="mtv2.ca" tvg-name="CA MTV2 (E)" tvg-logo="" group-title="Kanada",CA MTV2 (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57447
+#EXTINF:-1 tvg-id="mtv.ca" tvg-name="CA: MTV HD" tvg-logo="" group-title="Kanada",CA: MTV HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57368
+#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA: National Geographics" tvg-logo="" group-title="Kanada",CA: National Geographics
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57281
+#EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA National Geographic Wild " tvg-logo="" group-title="Kanada",CA National Geographic Wild
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57280
+#EXTINF:-1 tvg-id="nflnetworkcanada.ca" tvg-name="CA: NFL NETWORK HD" tvg-logo="" group-title="Kanada",CA: NFL NETWORK HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47346
+#EXTINF:-1 tvg-id="" tvg-name="CA (ZH) NTD (E)" tvg-logo="" group-title="Kanada",CA (ZH) NTD (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/58023
+#EXTINF:-1 tvg-id="ntvcjon.ca" tvg-name="CA NTV St. John`s " tvg-logo="" group-title="Kanada",CA NTV St. John`s
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57478
+#EXTINF:-1 tvg-id="outdoorlife.ca" tvg-name="CA OLN (E)" tvg-logo="" group-title="Kanada",CA OLN (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57366
+#EXTINF:-1 tvg-id="omni1.ca" tvg-name="CA: OMNI1 HD" tvg-logo="" group-title="Kanada",CA: OMNI1 HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57365
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.ca" tvg-name="CA OWN " tvg-logo="" group-title="Kanada",CA OWN
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57277
+#EXTINF:-1 tvg-id="5.ca" tvg-name="CA: PBS HD" tvg-logo="" group-title="Kanada",CA: PBS HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57276
+#EXTINF:-1 tvg-id="peachtree.ca" tvg-name="CA Peachtree TV HD (R)" tvg-logo="" group-title="Kanada",CA Peachtree TV HD (R)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47362
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Kanada",CA (FR) RDS (R)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57325
+#EXTINF:-1 tvg-id="showcase.ca" tvg-name="CA: Showcase HD" tvg-logo="" group-title="Kanada",CA: Showcase HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47366
+#EXTINF:-1 tvg-id="slice.ca" tvg-name="CA Slice TV " tvg-logo="" group-title="Kanada",CA Slice TV
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57274
+#EXTINF:-1 tvg-id="smithsonian.ca" tvg-name="CA Smithsonian Channel (B)" tvg-logo="" group-title="Kanada",CA Smithsonian Channel (B)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47369
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="CA Sportsnet 360 (HD)" tvg-logo="" group-title="Kanada",CA Sportsnet 360 (HD)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57299
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="Kanada",CA Sportsnet East HD (F)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57298
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="CA Sportsnet One (FHD) " tvg-logo="" group-title="Kanada",CA Sportsnet One (FHD)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57297
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="CA Sportsnet One (HD) " tvg-logo="" group-title="Kanada",CA Sportsnet One (HD)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47379
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA: Sportsnet Ontario" tvg-logo="" group-title="Kanada",CA: Sportsnet Ontario
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57463
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA Sportsnet Ontario HD " tvg-logo="" group-title="Kanada",CA Sportsnet Ontario HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57296
+#EXTINF:-1 tvg-id="2mmaroc.ca" tvg-name="CA Sportsnet Pacific HD" tvg-logo="" group-title="Kanada",CA Sportsnet Pacific HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47387
+#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="CA: SPORTSNET WEST" tvg-logo="" group-title="Kanada",CA: SPORTSNET WEST
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57300
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="CA CTV SCI-FI " tvg-logo="" group-title="Kanada",CA CTV SCI-FI
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57464
+#EXTINF:-1 tvg-id="tfo.ca" tvg-name="CA: TFO  (FR)" tvg-logo="" group-title="Kanada",CA: TFO  (FR)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57291
+#EXTINF:-1 tvg-id="tlc.ca" tvg-name="CA TLC " tvg-logo="" group-title="Kanada",CA TLC
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57290
+#EXTINF:-1 tvg-id="todaysshoppingchoice.ca" tvg-name="CA : The Shopping Channel (B)" tvg-logo="" group-title="Kanada",CA : The Shopping Channel (B)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57370
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 (R)" tvg-logo="" group-title="Kanada",CA TSN 1 (R)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47440
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="Kanada",CA TSN 2 HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47442
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA TSN 3 HD " tvg-logo="" group-title="Kanada",CA TSN 3 HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/47444
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 " tvg-logo="" group-title="Kanada",CA TSN 4
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/66783
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 " tvg-logo="" group-title="Kanada",CA TSN 5
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57467
+#EXTINF:-1 tvg-id="tvo.ca" tvg-name="CA: TV Ontario HD" tvg-logo="" group-title="Kanada",CA: TV Ontario HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57369
+#EXTINF:-1 tvg-id="vision.ca" tvg-name="CA: Vision" tvg-logo="" group-title="Kanada",CA: Vision
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57468
+#EXTINF:-1 tvg-id="wnetwork.ca" tvg-name="CA W Network East (E)" tvg-logo="" group-title="Kanada",CA W Network East (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57284
+#EXTINF:-1 tvg-id="theweathernetwork.ca" tvg-name="CA: Weather Network Toronto" tvg-logo="" group-title="Kanada",CA: Weather Network Toronto
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57470
+#EXTINF:-1 tvg-id="wfn.world.fishing.network.ca" tvg-name="CA: World Fishing Network" tvg-logo="" group-title="Kanada",CA: World Fishing Network
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57471
+#EXTINF:-1 tvg-id="yestv.ca" tvg-name="CA YES TV " tvg-logo="" group-title="Kanada",CA YES TV
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57472
+#EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA:TELE QUEBEC (FR)" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/telequebec.png" group-title="Kanada",CA:TELE QUEBEC (FR)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57336
+#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA (FR) TVA Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="Kanada",CA (FR) TVA Sports 2
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/57337
+#EXTINF:-1 tvg-id="global.peterborough.on.ca" tvg-name="CA Global Peterborough News (E)" tvg-logo="" group-title="Kanada",CA Global Peterborough News (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/85269
+#EXTINF:-1 tvg-id="cbcwindsor.ca" tvg-name="CA: CBC Windsor" tvg-logo="" group-title="Kanada",CA: CBC Windsor
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/86749
+#EXTINF:-1 tvg-id="bbcearth.ca" tvg-name="CA | BBC EARTH" tvg-logo="" group-title="Kanada",CA | BBC EARTH
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/99621
+#EXTINF:-1 tvg-id="globaldurham.ca" tvg-name="CA Global Durham (CHEX-DT-2) " tvg-logo="" group-title="Kanada",CA Global Durham (CHEX-DT-2)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/100453
+#EXTINF:-1 tvg-id="ctvsudbury.ca" tvg-name="CA CTV Sudbury Ontario HD (D)" tvg-logo="" group-title="Kanada",CA CTV Sudbury Ontario HD (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/100454
+#EXTINF:-1 tvg-id="ctvtimmins.ca" tvg-name="CA CTV Timmins Ontario HD (D)" tvg-logo="" group-title="Kanada",CA CTV Timmins Ontario HD (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/100455
+#EXTINF:-1 tvg-id="wild.ca" tvg-name="CA WILD TV " tvg-logo="" group-title="Kanada",CA WILD TV
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/100456
+#EXTINF:-1 tvg-id="superchannelheartandhome.ca" tvg-name="CA Super Channel Heart & Home " tvg-logo="" group-title="Kanada",CA Super Channel Heart & Home
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/100460
+#EXTINF:-1 tvg-id="cbcwinnipeg.ca" tvg-name="CA: CBC Winnipeg" tvg-logo="" group-title="Kanada",CA: CBC Winnipeg
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/100628
+#EXTINF:-1 tvg-id="globalwinnipeg.ca" tvg-name="CA Global News Winnipeg (D)" tvg-logo="" group-title="Kanada",CA Global News Winnipeg (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/100629
+#EXTINF:-1 tvg-id="ctvwinnipeg.ca" tvg-name="CA CTV WINNIPEG (E)" tvg-logo="" group-title="Kanada",CA CTV WINNIPEG (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/100630
+#EXTINF:-1 tvg-id="citytvwinnipeg.ca" tvg-name="CA CITY TV WINNIPEG (E)" tvg-logo="" group-title="Kanada",CA CITY TV WINNIPEG (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/100631
+#EXTINF:-1 tvg-id="silverscreenclassics.ca" tvg-name="CA Silver Screen (E)" tvg-logo="" group-title="Kanada",CA Silver Screen (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/107190
+#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA COOKING Channel " tvg-logo="" group-title="Kanada",CA COOKING Channel
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/107960
+#EXTINF:-1 tvg-id="travelescape.ca" tvg-name="CA: Travel Escape" tvg-logo="" group-title="Kanada",CA: Travel Escape
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/108136
+#EXTINF:-1 tvg-id="globalcalgary.ca" tvg-name="CA Global News Calgary (D)" tvg-logo="" group-title="Kanada",CA Global News Calgary (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/111067
+#EXTINF:-1 tvg-id="globalcalgary.ca" tvg-name="CA Global Calgary " tvg-logo="" group-title="Kanada",CA Global Calgary
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/115349
+#EXTINF:-1 tvg-id="ctvlifechannel.ca" tvg-name="CA CTV LIFE (E)" tvg-logo="" group-title="Kanada",CA CTV LIFE (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/116506
+#EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie HD" tvg-logo="" group-title="Kanada",CA (FR) Canal Vie HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/116947
+#EXTINF:-1 tvg-id="casatv.ca" tvg-name="CA (FR) CASA SD (P)" tvg-logo="" group-title="Kanada",CA (FR) CASA SD (P)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/116948
+#EXTINF:-1 tvg-id="dejaview.ca" tvg-name="CA Dejaview HD (B)" tvg-logo="" group-title="Kanada",CA Dejaview HD (B)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/122001
+#EXTINF:-1 tvg-id="rdinews.ca" tvg-name="CA (FR) RDI (E)" tvg-logo="" group-title="Kanada",CA (FR) RDI (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/126723
+#EXTINF:-1 tvg-id="globaledmonton.ca" tvg-name="CA Global Edmonton (D)" tvg-logo="" group-title="Kanada",CA Global Edmonton (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/132271
+#EXTINF:-1 tvg-id="chekvancouverisland.ca" tvg-name="CA CTV2 VANCOUVER ISLAND (E)" tvg-logo="" group-title="Kanada",CA CTV2 VANCOUVER ISLAND (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/136612
+#EXTINF:-1 tvg-id="globalmontreal.ca" tvg-name="CA Global Montreal HD (B)" tvg-logo="" group-title="Kanada",CA Global Montreal HD (B)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/136640
+#EXTINF:-1 tvg-id="globalmontreal.ca" tvg-name="CA Global Monterial News (E)" tvg-logo="" group-title="Kanada",CA Global Monterial News (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/136641
+#EXTINF:-1 tvg-id="" tvg-name="CA Global Peterborough News (E)" tvg-logo="" group-title="Kanada",CA Global Peterborough News (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/137681
+#EXTINF:-1 tvg-id="" tvg-name="CA: BBC World News" tvg-logo="" group-title="Kanada",CA: BBC World News
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/139752
+#EXTINF:-1 tvg-id="documentarychannel.ca" tvg-name="CA documentary HD (B)" tvg-logo="" group-title="Kanada",CA documentary HD (B)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/148610
+#EXTINF:-1 tvg-id="" tvg-name="CA (FR) ICI RDI (D)" tvg-logo="" group-title="Kanada",CA (FR) ICI RDI (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/164369
+#EXTINF:-1 tvg-id="" tvg-name="CA (FR) addikTV HD (B)" tvg-logo="" group-title="Kanada",CA (FR) addikTV HD (B)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/168466
+#EXTINF:-1 tvg-id="" tvg-name="CA Global Maritimes HD " tvg-logo="" group-title="Kanada",CA Global Maritimes HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/171954
+#EXTINF:-1 tvg-id="hpitv.ca" tvg-name="CA HPItv East HD " tvg-logo="" group-title="Kanada",CA HPItv East HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/173131
+#EXTINF:-1 tvg-id="" tvg-name="CA CTV Halifax Nova Scotia HD (D)" tvg-logo="" group-title="Kanada",CA CTV Halifax Nova Scotia HD (D)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/188776
+#EXTINF:-1 tvg-id="ctvhalifax.ca" tvg-name="CA CTV HALIFAX (E)" tvg-logo="" group-title="Kanada",CA CTV HALIFAX (E)
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/188777
+#EXTINF:-1 tvg-id="history2.ca" tvg-name="CA H2 HD " tvg-logo="" group-title="Kanada",CA H2 HD
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/210450
+#EXTINF:-1 tvg-id="muchmusic.ca" tvg-name="CA: MUCH MUSIC" tvg-logo="" group-title="Kanada",CA: MUCH MUSIC
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/215268
+#EXTINF:-1 tvg-id="" tvg-name="CA City News Toronto ON" tvg-logo="" group-title="Kanada",CA City News Toronto ON
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/216100
+#EXTINF:-1 tvg-id="cbcfredericton.ca" tvg-name="CA CBC  New Brunswick / Fredericton NB " tvg-logo="" group-title="Kanada",CA CBC  New Brunswick / Fredericton NB
+http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/217655
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Bulgária",Travel TV
 https://streamer103.neterra.tv/travel/travel_SD.m3u8
